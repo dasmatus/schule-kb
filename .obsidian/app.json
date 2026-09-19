@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "90 Prílohy",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "www/",
+    "90 Prílohy/_index.json"
+  ]
+}

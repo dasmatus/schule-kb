@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"t1","type":"text","text":"# Maturita\nmáj 2027","x":-440,"y":332,"width":320,"height":120,"color":"1"},
+		{"id":"t2","type":"text","text":"**Slovenský jazyk a literatúra**","x":0,"y":112,"width":300,"height":56,"color":"6"},
+		{"id":"f4","type":"file","file":"02 Maturita/Slovenský jazyk a literatúra/Zoznam tém – literatúra.md","x":400,"y":0,"width":300,"height":56,"color":"6"},
+		{"id":"f6","type":"file","file":"02 Maturita/Slovenský jazyk a literatúra/Zoznam tém – slovenský jazyk.md","x":400,"y":70,"width":300,"height":56,"color":"6"},
+		{"id":"f8","type":"file","file":"01 Predmety/Slovenský jazyk a literatúra/Sloh/PFIČ MS – výklad a kritériá.md","x":400,"y":140,"width":300,"height":56,"color":"6"},
+		{"id":"f10","type":"file","file":"01 Predmety/Slovenský jazyk a literatúra/Sloh/Kritériá na písanie úvahy.md","x":400,"y":210,"width":300,"height":56,"color":"6"},
+		{"id":"t12","type":"text","text":"**Anglický jazyk**","x":0,"y":315,"width":300,"height":56,"color":"5"},
+		{"id":"f14","type":"file","file":"02 Maturita/Anglický jazyk/Zoznam tém – anglický jazyk.md","x":400,"y":308,"width":300,"height":56,"color":"5"},
+		{"id":"t16","type":"text","text":"**Odborná zložka**","x":0,"y":483,"width":300,"height":56,"color":"4"},
+		{"id":"f18","type":"file","file":"02 Maturita/Ekonomika/Zoznam tém – ekonomika.md","x":400,"y":406,"width":300,"height":56,"color":"4"},
+		{"id":"t20","type":"text","text":"TČOZ — *zohnať od PK*","x":400,"y":476,"width":300,"height":56,"color":"4"},
+		{"id":"t22","type":"text","text":"PČOZ — *zohnať od PK*","x":400,"y":546,"width":300,"height":56,"color":"4"},
+		{"id":"t24","type":"text","text":"**Dokumenty**","x":0,"y":686,"width":300,"height":56,"color":"3"},
+		{"id":"f26","type":"file","file":"02 Maturita/Oficiálne požiadavky (ŠPÚ).md","x":400,"y":644,"width":300,"height":56,"color":"3"},
+		{"id":"f28","type":"file","file":"01 Predmety/Slovenský jazyk a literatúra/SJL – pravidlá a hodnotenie 2026-2027.md","x":400,"y":714,"width":300,"height":56,"color":"3"}
+	],
+	"edges":[
+		{"id":"e3","fromNode":"t1","fromSide":"right","toNode":"t2","toSide":"left"},
+		{"id":"e5","fromNode":"t2","fromSide":"right","toNode":"f4","toSide":"left"},
+		{"id":"e7","fromNode":"t2","fromSide":"right","toNode":"f6","toSide":"left"},
+		{"id":"e9","fromNode":"t2","fromSide":"right","toNode":"f8","toSide":"left"},
+		{"id":"e11","fromNode":"t2","fromSide":"right","toNode":"f10","toSide":"left"},
+		{"id":"e13","fromNode":"t1","fromSide":"right","toNode":"t12","toSide":"left"},
+		{"id":"e15","fromNode":"t12","fromSide":"right","toNode":"f14","toSide":"left"},
+		{"id":"e17","fromNode":"t1","fromSide":"right","toNode":"t16","toSide":"left"},
+		{"id":"e19","fromNode":"t16","fromSide":"right","toNode":"f18","toSide":"left"},
+		{"id":"e21","fromNode":"t16","fromSide":"right","toNode":"t20","toSide":"left"},
+		{"id":"e23","fromNode":"t16","fromSide":"right","toNode":"t22","toSide":"left"},
+		{"id":"e25","fromNode":"t1","fromSide":"right","toNode":"t24","toSide":"left"},
+		{"id":"e27","fromNode":"t24","fromSide":"right","toNode":"f26","toSide":"left"},
+		{"id":"e29","fromNode":"t24","fromSide":"right","toNode":"f28","toSide":"left"}
+	]
+}

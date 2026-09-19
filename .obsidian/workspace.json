@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "7875284f122095be",
+    "type": "split",
+    "children": [
+      {
+        "id": "dab32c858ce9c8d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f9d7e38652d6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Vyrazove prostriedky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vyrazove prostriedky"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75252a8ae2ecbb8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "46493e95a4905893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f8d61ecdc40593",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "98340e9fa5d0a997",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vyrazov",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "57e6dc2ff874225f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 456.73046875
+  },
+  "right": {
+    "id": "739c83bef4ee3edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e31c36b4a6d2e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68027178495a678",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "e7fb76c7a31ccb62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "9d3218e7b2724af7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c41cd49b0690d20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "5a2d7f693a998899",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "02f9d7e38652d6a7",
+  "lastOpenFiles": [
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J06 – Rečnícky jazykový štýl.md",
+    "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Vyrazove prostriedky.md",
+    "Unbenannt.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J03 – Náučný jazykový štýl.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J05 – Publicistický jazykový štýl.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J07 – Opisný slohový postup.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J08 – Informačný slohový postup.md",
+    "01 Predmety/Slovenský jazyk a literatúra/Sloh/Výklad vs. úvaha.md",
+    "01 Predmety/Slovenský jazyk a literatúra/Sloh/Úvaha – prezentácia.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J19 – Výklad a úvaha.md",
+    "01 Predmety/Slovenský jazyk a literatúra/Sloh/Básnické prostriedky a kompozícia úvahy.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J10 – Výkladový slohový postup.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J27 – Nadvetná syntax a kompozícia textu.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Literatúra/L09 – Slovenský romantizmus.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Literatúra/L10 – Slovenský a svetový romantizmus.md",
+    "01 Predmety/Ekonomika/Finančný trh.md",
+    "01 Predmety/Ekonomika/Ekonomika.md",
+    "01 Predmety/Ekonomika/Banková sústava.md",
+    "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie).md",
+    "01 Predmety/Slovenský jazyk a literatúra/Literatúra/Dráma.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J26 – Druhy viet.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Literatúra/L24 – Slovenská dráma po roku 1945.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J02 – Umelecký jazykový štýl.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Literatúra/L12 – Dramatická tvorba od klasicizmu po realizmus.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J18 – Prozodické vlastnosti reči.md",
+    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J17 – Zásady slovenskej výslovnosti.md",
+    "Unbenannt.base",
+    "06 Mapy/Mapa – štyri roky.canvas",
+    "99 Zdroje/pdf/III_literatura_slovenska_medzivojnova_poezia_.pdf",
+    "99 Zdroje/pdf/III_jazyk_Úvaha.pdf",
+    "06 Mapy/Mapa – slovenský jazyk.canvas",
+    "06 Mapy/Mapa – maturita.canvas",
+    "06 Mapy/Mapa – literatúra.canvas",
+    "06 Mapy/Mapa – ekonomika.canvas",
+    "06 Mapy/Mapa – anglický jazyk.canvas",
+    "99 Zdroje/pdf/18 The Young_k.pdf",
+    "02 Maturita/Ekonomika/Vypracované témy/E33 – Podstata finančného trhu a jeho segmentov.md.tmp.5644.8bbcc076af87",
+    "02 Maturita/Ekonomika/Vypracované témy/E31 – Kalkulácia – dátová dvojzásuvka.md.tmp.5644.be7d796cd04d",
+    "02 Maturita/Ekonomika/Vypracované témy/E31 – Kalkulácia – dátová dvojzásuvka.md.tmp.5644.f4d67df4d15f",
+    "02 Maturita/Ekonomika/Vypracované témy/E29 – Kalkulácia – tlač farebných osvedčení.md.tmp.5644.1be9e93d1b61",
+    "02 Maturita/Ekonomika/Vypracované témy/E26 – Priame a nepriame dane.md.tmp.5644.1837d44e4011",
+    "02 Maturita/Ekonomika/Vypracované témy/E24 – Pasívne a aktívne operácie bánk.md.tmp.5644.3f5d716de96d"
+  ]
+}

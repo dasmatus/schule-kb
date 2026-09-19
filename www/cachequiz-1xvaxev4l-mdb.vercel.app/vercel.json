@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "public/**",       "use": "@vercel/static" },
+    { "src": "api/login.ts",    "use": "@vercel/node"   },
+    { "src": "api/result.ts",   "use": "@vercel/node"   },
+    { "src": "api/dashboard.ts","use": "@vercel/node"   }
+  ],
+  "routes": [
+    { "src": "/api/login",     "dest": "/api/login.ts"     },
+    { "src": "/api/result",    "dest": "/api/result.ts"    },
+    { "src": "/api/dashboard", "dest": "/api/dashboard.ts" },
+    { "src": "/(.*)",          "dest": "/public/index.html" }
+  ]
+}

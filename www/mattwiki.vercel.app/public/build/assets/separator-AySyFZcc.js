@@ -1,0 +1,1 @@
+import{j as o}from"./app-BHsbbU8-.js";import{S as s,h as e}from"./index.min-UZYkSd9i.js";function n({className:a,orientation:r="horizontal",...t}){return o.jsx(s,{"data-slot":"separator",orientation:r,className:e("shrink-0 bg-border data-horizontal:h-px data-horizontal:w-full data-vertical:w-px data-vertical:self-stretch",a),...t})}export{n as S};

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sources": ["../../../resources/js/components/ui/badge.tsx"],
+  "sourcesContent": [
+    "import type { HTMLAttributes } from \"react\"\nimport { cn } from \"@/lib/utils\"\n\ninterface BadgeProps extends HTMLAttributes<HTMLSpanElement> {\n  variant?: \"default\" | \"secondary\" | \"outline\" | \"success\" | \"warning\" | \"destructive\"\n}\n\nconst variants: Record<string, string> = {\n  default: \"bg-indigo-500/20 text-indigo-300 border border-indigo-500/30\",\n  secondary: \"bg-white/8 text-white/70 border border-white/12\",\n  outline: \"bg-transparent text-white/70 border border-white/20\",\n  success: \"bg-emerald-500/20 text-emerald-300 border border-emerald-500/30\",\n  warning: \"bg-amber-500/20 text-amber-300 border border-amber-500/30\",\n  destructive: \"bg-rose-500/20 text-rose-300 border border-rose-500/30\",\n}\n\nexport function Badge({ className, variant = \"default\", ...props }: BadgeProps) {\n  return (\n    <span\n      className={cn(\n        \"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium backdrop-blur-sm\",\n        variants[variant],\n        className,\n      )}\n      {...props}\n    />\n  )\n}\n"
+  ],
+  "mappings": ";;;;;;;;;;AAOA,IAAM,WAAmC;AAAA,EACvC,SAAS;AAAA,EACT,WAAW;AAAA,EACX,SAAS;AAAA,EACT,SAAS;AAAA,EACT,SAAS;AAAA,EACT,aAAa;AACf;AAEO,SAAS,KAAK,GAAG,WAAW,UAAU,cAAc,SAAqB;AAAA,EAC9E,uBACE,uBAAC,QAAD;AAAA,IACE,WAAW,GACT,4FACA,SAAS,UACT,SACF;AAAA,OACI;AAAA,KANN,iCAOA;AAAA;",
+  "debugId": "ACE4694C9F37DCB264756E2164756E21",
+  "names": []
+}
