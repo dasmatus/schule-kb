@@ -28,6 +28,7 @@ tags:
 - [[Zoznam tém – anglický jazyk]] — 30 tém, všetky vypracované
   (zoznam je odvodený zo zdrojov, nie od predmetovej komisie — pozri
   [[Tézy na maturitu – anglický jazyk]])
+- [[Zoznam tém – TČOZ]] — 25 tém odboru IST, všetky vypracované
 
 ## 🧠 Prepojenia a mapy
 
@@ -75,7 +76,7 @@ tags:
 | `www/` | staré weby — **mimo trezoru**, Obsidian ich neindexuje |
 
 > [!success] Stav maturitných tém
-> **128 z 128** tém je vypracovaných (spolu ~129 000 slov). Miesta, kde si
+> **153 z 153** tém je vypracovaných (spolu ~135 000 slov). Miesta, kde si
 > nebol istý ani po overení, sú označené callout-om `Overiť` — tie si
 > pred skúškou potvrď v učebnici.
 
