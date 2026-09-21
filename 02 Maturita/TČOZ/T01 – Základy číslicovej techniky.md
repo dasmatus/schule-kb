@@ -27,7 +27,7 @@ Pri digitálnych obvodoch logické operácie realizujú hradlá. Základné hrad
 
 V pozičnej sústave so základom `b` má číslica na pozícii `i` váhu `b^i`. Pre celé číslo platí
 
-`N = aₙ·bⁿ + aₙ₋₁·bⁿ⁻¹ + ... + a₁·b + a₀`.
+$$ N = aₙ·bⁿ + aₙ₋₁·bⁿ⁻¹ + ... + a₁·b + a₀ $$.
 
 Najčastejšie sústavy sú binárna (2), osmičková (8), desiatková (10) a šestnástková (16), v ktorej číslice 10 až 15 zapisujeme `A` až `F`.
 
