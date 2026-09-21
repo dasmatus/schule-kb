@@ -10,7 +10,7 @@
 		{"id":"f14","type":"file","file":"02 Maturita/Anglický jazyk/Zoznam tém – anglický jazyk.md","x":400,"y":308,"width":300,"height":56,"color":"5"},
 		{"id":"t16","type":"text","text":"**Odborná zložka**","x":0,"y":483,"width":300,"height":56,"color":"4"},
 		{"id":"f18","type":"file","file":"02 Maturita/Ekonomika/Zoznam tém – ekonomika.md","x":400,"y":406,"width":300,"height":56,"color":"4"},
-		{"id":"t20","type":"text","text":"TČOZ — *zohnať od PK*","x":400,"y":476,"width":300,"height":56,"color":"4"},
+		{"id":"t20","type":"file","file":"02 Maturita/TČOZ/Zoznam tém – TČOZ.md","x":400,"y":476,"width":300,"height":56,"color":"4"},
 		{"id":"t22","type":"text","text":"PČOZ — *zohnať od PK*","x":400,"y":546,"width":300,"height":56,"color":"4"},
 		{"id":"t24","type":"text","text":"**Dokumenty**","x":0,"y":686,"width":300,"height":56,"color":"3"},
 		{"id":"f26","type":"file","file":"02 Maturita/Oficiálne požiadavky (ŠPÚ).md","x":400,"y":644,"width":300,"height":56,"color":"3"},

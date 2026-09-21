@@ -16,6 +16,9 @@ tags:
 
 ## Poznámky
 
+- [[Počítačové siete – TČOZ]] — *maturitný prehľad*
+- [[Programovanie – TČOZ]] — *maturitný prehľad*
+- [[Hardvér a IoT – TČOZ]] — *maturitný prehľad*
 - [[Grafické karty]] — *referát* · 2025
 - [[Pamäte]] — *referát* · 2025
 - [[Pevné disky]] — *referát* · 2025

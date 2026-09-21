@@ -8,7 +8,22 @@ tags:
 
 # 🔑 Pojmy
 
-> [!abstract] 203 položiek
+> [!abstract] 213 položiek
+
+## TČOZ – IST
+
+| Názov | Oblasť |
+| --- | --- |
+| [[ADC]] | elektronika |
+| [[Algoritmus]] | programovanie |
+| [[DHCP]] | siete |
+| [[EtherChannel]] | siete |
+| [[IoT]] | technológia |
+| [[OSPF]] | siete |
+| [[PN priechod]] | elektrotechnika |
+| [[VLAN]] | siete |
+| [[VLSM]] | siete |
+| [[Vývojový diagram]] | programovanie |
 
 | Názov | Oblasť |
 | --- | --- |

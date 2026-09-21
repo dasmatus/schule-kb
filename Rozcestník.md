@@ -37,7 +37,7 @@ tags:
 - [[Anglické ekvivalenty]] — názvy diel a termíny po anglicky
 - Myšlienkové mapy v `06 Mapy/`: **Mapa – štyri roky** ·
   Mapa – maturita · Mapa – literatúra · Mapa – slovenský jazyk ·
-  Mapa – ekonomika
+  Mapa – ekonomika · [[Mapa – TČOZ]]
 
 ## 📚 Predmety
 
