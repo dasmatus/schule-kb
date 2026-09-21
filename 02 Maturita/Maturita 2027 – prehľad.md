@@ -28,12 +28,12 @@ tags:
 | --- | --- | --- |
 | Slovenský jazyk a literatúra | EČ · PFIČ · ÚFIČ | [[Zoznam tém – literatúra]] · [[Zoznam tém – slovenský jazyk]] |
 | Anglický jazyk | EČ · PFIČ · ÚFIČ | [[Zoznam tém – anglický jazyk]] |
-| Teoretická časť odbornej zložky (TČOZ) | ústna | *zatiaľ nemám* |
+| Teoretická časť odbornej zložky (TČOZ) | ústna | [[Zoznam tém – TČOZ]] |
 | Praktická časť odbornej zložky (PČOZ) | praktická | *zatiaľ nemám* |
 | Ekonomika (súčasť odbornej zložky) | ústna | [[Zoznam tém – ekonomika]] |
 
 **Vypracované:** literatúra 35/35 · slovenský jazyk 30/30 · ekonomika 33/33 ·
-anglický jazyk 30/30
+anglický jazyk 30/30 · TČOZ 25/25
 
 ## Stav vypracovania
 
@@ -52,7 +52,7 @@ SORT file.name ASC
 - [x] Maturitné témy z **anglického jazyka** — zostavené zo zdrojov
       ([[Zoznam tém – anglický jazyk]], 30 tém). **Stále si ich over
       u vyučujúcej** — oficiálny zoznam od predmetovej komisie nemáš.
-- [ ] Zoznam tém pre **TČOZ** — predmetová komisia odborných predmetov
+- [x] Zoznam tém pre **TČOZ** — [[Zoznam tém – TČOZ]]
 - [ ] Zadanie **PČOZ**
 - [ ] Potvrdiť, že predbežné tézy zo SJL platia aj pre šk. rok 2026/2027
 
