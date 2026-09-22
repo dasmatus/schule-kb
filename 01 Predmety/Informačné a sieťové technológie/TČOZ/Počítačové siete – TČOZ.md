@@ -5,7 +5,6 @@ predmet: "Informačné a sieťové technológie"
 okruh: "TČOZ"
 tags: [predmet, IST, TČOZ, siete]
 ---
-
 # Počítačové siete – TČOZ
 
 Prehľad sieťovej časti teoretickej odbornej zložky. Detailné ústne odpovede sú v [[Zoznam tém – TČOZ]].

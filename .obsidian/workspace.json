@@ -11,14 +11,14 @@
             "id": "daba96017d995ce9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie).md",
-                "mode": "source",
-                "source": false
+                "aFile": "01 Predmety/Informačné a sieťové technológie/TČOZ/Počítačové siete – TČOZ.md",
+                "bFile": "01 Predmety/Informačné a sieťové technológie/TČOZ/Počítačové siete – TČOZ.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie)"
+              "icon": "diff",
+              "title": "Diff: Počítačové siete – TČOZ  (Working Tree)"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "daba96017d995ce9",
   "lastOpenFiles": [
+    "01 Predmety/Informačné a sieťové technológie/TČOZ/Počítačové siete – TČOZ.md",
+    "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie).md",
     "01 Predmety/Informačné a sieťové technológie/Základná doska.md",
     "01 Predmety/Informačné a sieťové technológie/Pevné disky.md",
     "01 Predmety/Informačné a sieťové technológie/Pamäte.md",
@@ -206,7 +208,6 @@
     "01 Predmety/Informačné a sieťové technológie/Grafické karty.md",
     "01 Predmety/Informačné a sieťové technológie/Cacheovanie a monitoring databázy.md",
     "01 Predmety/Informačné a sieťové technológie/TČOZ/Programovanie – TČOZ.md",
-    "01 Predmety/Informačné a sieťové technológie/TČOZ/Počítačové siete – TČOZ.md",
     "02 Maturita/TČOZ/T01 – Základy číslicovej techniky.md",
     "01 Predmety/Informačné a sieťové technológie/TČOZ/Hardvér a IoT – TČOZ.md",
     "01 Predmety/Matematika/Matematika.md",
@@ -227,7 +228,6 @@
     "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J05 – Publicistický jazykový štýl.md",
     "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J07 – Opisný slohový postup.md",
     "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J08 – Informačný slohový postup.md",
-    "01 Predmety/Slovenský jazyk a literatúra/Sloh/Výklad vs. úvaha.md",
     "Unbenannt.base",
     "99 Zdroje/pdf/III_literatura_slovenska_medzivojnova_poezia_.pdf",
     "99 Zdroje/pdf/III_jazyk_Úvaha.pdf",
