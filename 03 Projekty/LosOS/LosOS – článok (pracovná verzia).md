@@ -62,13 +62,14 @@ At boot the Linux kernel extracts the cpio archive into a tmpfs root. actman is 
 ### Symlink Polymorphism
 
 A recurring design problem in initramfs environments is binary proliferation: each additional binary increases initramfs size and maintenance burden. LosOS addresses this with *symlink polymorphism*: a single compiled Rust binary, installed under a canonical name, serves multiple roles depending on the basename of argv\[0\].
+```rust
 
 fn main() {
  let role = std::env::args()
  .next()
- .and\_then(|p| Path::new(&p)
- .file\_name()
- .map(|n| n.to\_string\_lossy()
+ .and_then(|p| Path::new(&p)
+ .file_name()
+ .map(|n| n.to_string_lossy()
  .into\_owned()));
  match role.as\_deref() {
  Some("init") =\> run\_init(),
@@ -77,6 +78,7 @@ fn main() {
  \_ =\> eprintln!("unknown role"),
  }
 }
+```
 
 The filesystem contains only one ELF binary; /sbin/init, /sbin/poweroff, and /sbin/reboot are symlinks to it. The same pattern is used by dhcman (one binary, one symlink per interface) and cluman (server / client / controller roles). This reduces the number of distinct binaries in the initramfs to five, totalling approximately 5 MB of stripped Rust code.
 
