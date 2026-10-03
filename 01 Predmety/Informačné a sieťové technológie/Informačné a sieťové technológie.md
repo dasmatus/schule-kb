@@ -27,6 +27,8 @@ tags:
 - [[Pamäte]] — *referát* · 2025
 - [[Pevné disky]] — *referát* · 2025
 - [[Základná doska]] — *referát* · 2025
+- [[Elektrická bezpečnosť a hardvér PC]] — *poznámky*
+- [[História počítačov]] — *poznámky*
 - [[Cacheovanie a monitoring databázy]] — *prezentácia*
 - [[Packet Tracer – Physical View]] — *prezentácia*
 - [[CCNA2 – SRWE]] — *poznámky* · 16 modulov kurzu CCNA2 (NetAcad)
