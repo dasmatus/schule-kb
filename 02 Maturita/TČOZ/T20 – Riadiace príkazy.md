@@ -60,3 +60,7 @@ SVI (*Switched Virtual Interface*) je logické L3 rozhranie VLAN. Hostitelia pou
 ## Krátka ústna odpoveď
 
 Relačné operátory porovnávajú hodnoty a logické operátory tvoria zložené podmienky. `if/else` vetví program, `switch` vyberá z pevných možností a `for`, `while`, `do-while` a `foreach` opakujú kód; cyklus musí mať ukončenie. MLS je multilayer switch, ktorý prepína na L2 a smeruje medzi VLAN pomocou SVI a `ip routing`. Konkrétna konfigurácia závisí od výrobcu.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M04 – Inter-VLAN Routing]] — rozcestník [[CCNA2 – SRWE]]

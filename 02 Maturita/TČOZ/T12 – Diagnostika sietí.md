@@ -81,3 +81,7 @@ Prístup mimo rozsahu spôsobí chybu alebo poškodenie pamäte. Pri neznámej v
 ## Krátka ústna odpoveď
 
 Sieť diagnostikujem od fyzickej vrstvy cez linkovú a IP až po DNS a aplikáciu. Parametre zobrazím cez `ipconfig /all`, `ip addr` alebo príkazy `show` na zariadení; spojenie overím `ping`, trasu `traceroute`, DNS `nslookup` a porty `netstat`/`ss`. Wireshark ukáže pakety. Kryptovanie chráni obsah, hash kontroluje integritu. Pole je indexovaná kolekcia rovnakých prvkov, pri ktorej musím kontrolovať hranice.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M01 – Basic Device Configuration]] · [[M13 – WLAN Configuration]] · [[M16 – Troubleshoot Static and Default Routes]] — rozcestník [[CCNA2 – SRWE]]

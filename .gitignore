@@ -1,1 +1,5 @@
 www/
+
+# NetAcad raw course text (copyrighted, keep local)
+raw/
+netacad-*.json

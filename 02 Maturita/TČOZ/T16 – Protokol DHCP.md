@@ -56,3 +56,7 @@ Používajú sa na zapuzdrenie: verejné rozhranie zostane malé a interná impl
 ## Krátka ústna odpoveď
 
 DHCP prideľuje adresu, masku, bránu, DNS a prenájom. Pri IPv4 prebieha DORA: Discover, Offer, Request, Acknowledge; server používa pool, výnimky, rezervácie a relay. DNS prekladá mená na adresy pomocou záznamov A, AAAA, CNAME a MX. DHCPv6 pracuje bez broadcastu a dopĺňa SLAAC. V OOP modifikátory `public`, `private`, `protected` a podľa jazyka `internal` riadia viditeľnosť členov.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M07 – DHCPv4]] — rozcestník [[CCNA2 – SRWE]]

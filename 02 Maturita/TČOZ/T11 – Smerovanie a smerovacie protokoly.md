@@ -61,3 +61,7 @@ Smerovacie rozhodovanie v programe využíva riadiace príkazy: `if/else` na vý
 ## Krátka ústna odpoveď
 
 Router spája IP siete a podľa routovacej tabuľky vykonáva forwarding. Tabuľka obsahuje cieľový prefix, next hop alebo rozhranie, zdroj a metriku; rozhoduje najdlhší zhodný prefix. Trasy môžu byť statické alebo získané protokolmi RIP, OSPF, EIGRP či BGP. Základná konfigurácia nastaví rozhranie a trasu a overí sa príkazmi `show`. V programe smerovacie rozhodnutia realizujú podmienky, prepínače a cykly.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M09 – FHRP Concepts]] · [[M14 – Routing Concepts]] · [[M15 – IP Static Routing]] · [[M16 – Troubleshoot Static and Default Routes]] — rozcestník [[CCNA2 – SRWE]]

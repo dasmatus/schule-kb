@@ -65,3 +65,7 @@ Zvyšný priestor `.240 – .255` ostáva na ďalšie zarovnané podsiete. Pri p
 ## Krátka ústna odpoveď
 
 Algoritmus je konečný a jednoznačný postup; vo vývojovom diagrame ovál znamená začiatok/koniec, obdĺžnik činnosť, rovnobežník vstup/výstup a kosoštvorec rozhodnutie. Redundantné L2 linky vytvárajú slučky, preto ich riadi STP/RSTP. EtherChannel združuje porty do jedného logického kanála pomocou LACP alebo PAgP. VLSM prideľuje rôzne prefixy podľa počtu hostiteľov a bloky musia byť zarovnané a neprekrývať sa.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M05 – STP Concepts]] · [[M06 – EtherChannel]] — rozcestník [[CCNA2 – SRWE]]

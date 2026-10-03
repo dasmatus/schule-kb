@@ -11,14 +11,12 @@
             "id": "4987cd4e8f2123ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 Maturita/TČOZ/T15 – Virtuálne siete VLAN.md",
-                "mode": "source",
-                "source": false
+                "file": "99 Zdroje/pdf/SJL_pravidla_studenti_2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "T15 – Virtuálne siete VLAN"
+              "icon": "lucide-file-text",
+              "title": "SJL_pravidla_studenti_2026"
             }
           }
         ]
@@ -79,8 +77,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98340e9fa5d0a997",
+  "active": "4987cd4e8f2123ae",
   "lastOpenFiles": [
+    "02 Maturita/TČOZ/T15 – Virtuálne siete VLAN.md",
     "02 Maturita/TČOZ/T13 – Komunikácia na vrstve L2.md",
     "03 Projekty/LosOS/LosOS – článok (pracovná verzia).md",
     "01 Predmety/Informačné a sieťové technológie/TČOZ/Počítačové siete – TČOZ.md",
     "01 Predmety/Informačné a sieťové technológie/TČOZ/Hardvér a IoT – TČOZ.md",
     "01 Predmety/Matematika/Definičný obor funkcie – pracovný list.md",
     "02 Maturita/Oficiálne požiadavky (ŠPÚ).md",
-    "02 Maturita/TČOZ/T15 – Virtuálne siete VLAN.md",
     "02 Maturita/TČOZ/T14 – Architektúra počítača a operačné systémy.md",
     "02 Maturita/TČOZ/T12 – Diagnostika sietí.md",
     "02 Maturita/TČOZ/T11 – Smerovanie a smerovacie protokoly.md",

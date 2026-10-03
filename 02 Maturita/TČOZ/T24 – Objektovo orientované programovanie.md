@@ -69,3 +69,7 @@ Na routeri sa namiesto manažérskej SVI nastavujú IP adresy fyzických rozhran
 ## Krátka ústna odpoveď
 
 OOP používa triedy ako predlohy a objekty ako inštancie so stavom a správaním. Zapuzdrenie, abstrakcia, dedičnosť a polymorfizmus pomáhajú riadiť zložitosť. `private`, `public`, `protected` a podľa jazyka `internal` určujú prístup; statické členy patria triede, nestatické objektu. Základná konfigurácia zariadenia nastaví názov, prístup, IP, bránu alebo routovanie, SSH, uloženie a overenie príkazmi `show`.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M01 – Basic Device Configuration]] — rozcestník [[CCNA2 – SRWE]]

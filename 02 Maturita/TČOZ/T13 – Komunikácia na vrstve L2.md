@@ -60,3 +60,7 @@ Metódu voláme s argumentmi, jej výsledok uložíme alebo použijeme v podmien
 ## Krátka ústna odpoveď
 
 Linková vrstva prenáša rámce, používa MAC adresy a FCS. Switch sa učí zdrojové MAC do CAM tabuľky a známy unicast pošle na konkrétny port, kým broadcast a neznámy unicast zaplaví v rámci VLAN. Ethernet historicky používal CSMA/CD, Wi-Fi CSMA/CA. VLAN a trunk s 802.1Q oddeľujú broadcastové domény, STP rieši slučky medzi switchmi. Metóda je funkcia patriaca triede a môže mať parametre aj návratovú hodnotu.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M02 – Switching Concepts]] · [[M03 – VLANs]] · [[M05 – STP Concepts]] — rozcestník [[CCNA2 – SRWE]]

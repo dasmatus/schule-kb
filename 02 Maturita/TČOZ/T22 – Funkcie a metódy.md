@@ -66,3 +66,7 @@ Overuje sa `show ip ospf neighbor`, `show ip ospf interface` a `show ip route os
 ## Krátka ústna odpoveď
 
 Funkcia je znovupoužiteľný blok, metóda patrí triede alebo objektu. Bezparametrická nemá explicitné vstupy, parametrická prijíma argumenty a `return` odovzdá výsledok, kým `void` nič nevracia. Preťažovanie používa rovnaký názov s inou signatúrou. Statická metóda patrí triede, nestatická objektu; preddefinované metódy poskytuje knižnica. OSPF je link-state protokol s databázou topológie, oblasťami a SPF podľa costu.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M14 – Routing Concepts]] — rozcestník [[CCNA2 – SRWE]]

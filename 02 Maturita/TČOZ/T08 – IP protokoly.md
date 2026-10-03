@@ -42,3 +42,7 @@ Na hostiteľovi možno adresy zobraziť napríklad `ip addr` alebo `ipconfig`. I
 IPv6 má 128-bitovú adresu a používa prefix, napríklad `/64`; prefix určuje sieťovú časť. IPv4 má 32 bitov a maska `/24` je `255.255.255.0`. IPv4 adresy delíme na unicast, broadcast, multicast a smerovaním realizovaný anycast, pričom existujú aj verejné, súkromné, loopback a link-local adresy. IPv6 používa unicast, multicast a anycast, ale nemá broadcast; pri konfigurácii treba správne určiť prefix a bránu.
 
 IPv6 má 128 bitov, zapisuje sa hexadecimálne a používa prefixy. `::` smie v adrese nahradiť iba jednu súvislú skupinu núl. Typy adries: globálna unicast, link-local `fe80::/10`, unique-local `fc00::/7`, multicast `ff00::/8` a anycast. IPv6 nemá broadcast.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M08 – SLAAC and DHCPv6]] — rozcestník [[CCNA2 – SRWE]]

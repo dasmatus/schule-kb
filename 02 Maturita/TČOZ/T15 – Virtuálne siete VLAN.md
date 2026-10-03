@@ -72,3 +72,7 @@ Prístupové metódy, napríklad `getId()` a `setId()`, poskytujú kontrolované
 ## Krátka ústna odpoveď
 
 VLAN konfigurujeme na managed switchi; access port patrí do jednej VLAN a trunk prenáša viac VLAN s tagom 802.1Q. VLAN 1 je predvolená, no bežnú prevádzku a správu je vhodné oddeliť. Inter-VLAN routing sa robí router-on-a-stick subrozhraniami alebo SVI na multilayer switchi. Konštruktor nastaví objekt pri vytvorení a gettery/settery kontrolujú prístup k zapuzdreným údajom.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M03 – VLANs]] · [[M04 – Inter-VLAN Routing]] — rozcestník [[CCNA2 – SRWE]]

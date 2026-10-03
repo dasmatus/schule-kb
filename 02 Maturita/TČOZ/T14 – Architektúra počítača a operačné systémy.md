@@ -47,3 +47,7 @@ V objektovo orientovanom programovaní je **trieda** predloha so stavom a správ
 ## Krátka ústna odpoveď
 
 PC sa skladá z CPU, základnej dosky, RAM, úložiska, zdroja, GPU, sieťového a I/O hardvéru. Von Neumannova architektúra zdieľa pamäť programu a dát, Harvardova ich oddeľuje; pamäťová hierarchia ide od registrov cez cache a RAM po SSD/HDD. OS spravuje procesy, pamäť, súbory, ovládače a bezpečnosť, aplikácie využívajú jeho služby. IPv6 pozná global unicast, link-local, unique local, multicast a anycast. OOP používa triedy, objekty, atribúty a metódy.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M08 – SLAAC and DHCPv6]] — rozcestník [[CCNA2 – SRWE]]

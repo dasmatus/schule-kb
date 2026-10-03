@@ -42,3 +42,7 @@ Dual Stack prevádzkuje IPv4 aj IPv6 súčasne na rovnakom zariadení a rozhran�
 ## Krátka ústna odpoveď
 
 Jednoduché typy uchovávajú jednu hodnotu, reťazec je postupnosť znakov a klasické pole je súvislý blok rovnakých prvkov s indexom od nuly. Pri vytvorení poľa sa rezervuje súvislá pamäť a treba kontrolovať hranice. Kolekcie zahŕňajú zoznam, množinu, mapu, front a zásobník; úložisko môže byť pamäť, súbor alebo databáza. Dual Stack znamená súčasnú prevádzku IPv4 a IPv6.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M01 – Basic Device Configuration]] · [[M15 – IP Static Routing]] — rozcestník [[CCNA2 – SRWE]]

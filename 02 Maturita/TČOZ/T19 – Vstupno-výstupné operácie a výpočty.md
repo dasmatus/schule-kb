@@ -55,3 +55,7 @@ Používajú sa aj `Renew`, `Rebind`, `Release` a relay. IPv6 nemá broadcast; k
 ## Krátka ústna odpoveď
 
 Konzolový vstup číta text, napríklad cez `Console.ReadLine`, a výstup zapisuje `WriteLine`; hodnotu treba validovať cez `TryParse`. GUI používa textové polia a udalosti tlačidiel. Pri konverzii riešim formát, kultúru, rozsah a delenie nulou. Aritmetické operátory dopĺňajú funkcie `sqrt`, `pow` a `abs`. Zálohy chránim podľa 3-2-1 a testujem obnovu. DHCPv6 môže prideľovať adresu stavovo alebo iba dopĺňať SLAAC a používa Solicit–Advertise–Request–Reply.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M08 – SLAAC and DHCPv6]] — rozcestník [[CCNA2 – SRWE]]

@@ -55,3 +55,7 @@ Pri programovaní alebo výpočte parametrov siete používame:
 ## Krátka ústna odpoveď
 
 LAN je lokálna sieť, WAN spája vzdialené LAN. Topológia môže byť zbernica, hviezda, kruh, strom, mesh alebo hybrid; najčastejšia je hierarchická hviezda so switchmi. Intranet je interná sieť a extranet dáva obmedzený prístup partnerom. Tradičné siete oddeľovali hlas, dáta a video, konvergované ich prenášajú spoločne s QoS. Pri výpočtoch používam `+`, `-`, `*`, `/` a `%` s ohľadom na typ a prioritu operátorov.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M03 – VLANs]] · [[M12 – WLAN Concepts]] — rozcestník [[CCNA2 – SRWE]]

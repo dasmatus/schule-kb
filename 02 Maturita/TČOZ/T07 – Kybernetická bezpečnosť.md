@@ -66,3 +66,7 @@ V bezpečnom programe sa vstup validuje, premenné sa neinicializujú náhodným
 Kybernetická bezpečnosť chráni dôvernosť, integritu a dostupnosť. AAA znamená autentifikáciu, autorizáciu a účtovanie. Hrozby zahŕňajú phishing, sociálne inžinierstvo, malware, útoky na heslá, MitM a DoS/DDoS; malware môže byť vírus, červ, trójsky kôň alebo ransomware. Sieť zabezpečujem segmentáciou a firewallom, zariadenia aktualizáciami a MFA a dáta šifrovaním a zálohami. Premenná má typ, hodnotu a rozsah a pri bezpečnom programovaní sa jej vstup validuje.
 
 Ochrana: aktualizácie, MFA, jedinečné heslá v správcovi hesiel, princíp najmenších oprávnení, firewall, segmentácia siete, antivírus/EDR a testované zálohy 3-2-1. Dáta pri prenose chráni TLS/VPN a pri uložení šifrovanie. Premenná v programe je pomenované miesto v pamäti s typom a hodnotou; vstupy treba validovať, aby sa predišlo chybám a útokom.
+
+## Súvisiace poznámky (CCNA2)
+
+[[M10 – LAN Security Concepts]] · [[M11 – Switch Security Configuration]] · [[M12 – WLAN Concepts]] — rozcestník [[CCNA2 – SRWE]]
