@@ -1,3 +1,16 @@
+---
+title: "Výrazové prostriedky"
+predmet: "Slovenský jazyk a literatúra"
+typ: "poznámky"
+trieda: "III.IST"
+ročník_teraz: "IV.IST"
+tags:
+  - sjl/jazyk
+  - štylistika
+---
+
+# Výrazové prostriedky
+
 **Výrazové prostriedky** sú jazykové prostriedky, ktorými autor ozvláštňuje text, vyjadruje emócie alebo zdôrazňuje určitú myšlienku.
 
 Najčastejšie patria medzi ne:

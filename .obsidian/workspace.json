@@ -11,12 +11,14 @@
             "id": "4987cd4e8f2123ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "99 Zdroje/pdf/SJL_pravidla_studenti_2026.pdf"
+                "file": "01 Predmety/Informačné a sieťové technológie/Cacheovanie a monitoring databázy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SJL_pravidla_studenti_2026"
+              "icon": "lucide-file",
+              "title": "Cacheovanie a monitoring databázy"
             }
           }
         ]
@@ -196,6 +198,7 @@
   },
   "active": "4987cd4e8f2123ae",
   "lastOpenFiles": [
+    "99 Zdroje/pdf/SJL_pravidla_studenti_2026.pdf",
     "02 Maturita/TČOZ/T15 – Virtuálne siete VLAN.md",
     "02 Maturita/TČOZ/T13 – Komunikácia na vrstve L2.md",
     "03 Projekty/LosOS/LosOS – článok (pracovná verzia).md",
@@ -221,7 +224,6 @@
     "02 Maturita/TČOZ/T19 – Vstupno-výstupné operácie a výpočty.md",
     "02 Maturita/TČOZ/T20 – Riadiace príkazy.md",
     "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie).md",
-    "01 Predmety/Informačné a sieťové technológie/Základná doska.md",
     "06 Mapy/Mapa – TČOZ.canvas",
     "06 Mapy/Mapa – štyri roky.canvas",
     "06 Mapy/Mapa (SJL) - Súvetia.canvas",
