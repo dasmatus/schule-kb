@@ -14,6 +14,10 @@ tags:
 > [!info] Maturita
 > áno – TČOZ / PČOZ
 
+## CCNA3 – ENSA (IV. ročník)
+
+- [[CCNA3 – ENSA]] — *rozcestník kurzu* · 14 modulov + [[ENSA – Ťahák príkazov|ťahák príkazov]]
+
 ## Poznámky
 
 - [[Počítačové siete – TČOZ]] — *maturitný prehľad*

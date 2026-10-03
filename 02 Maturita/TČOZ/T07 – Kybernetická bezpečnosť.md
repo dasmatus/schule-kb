@@ -70,3 +70,9 @@ Ochrana: aktualizácie, MFA, jedinečné heslá v správcovi hesiel, princíp na
 ## Súvisiace poznámky (CCNA2)
 
 [[M10 – LAN Security Concepts]] · [[M11 – Switch Security Configuration]] · [[M12 – WLAN Concepts]] — rozcestník [[CCNA2 – SRWE]]
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 03 – Koncepty sieťovej bezpečnosti]]
+- [[ENSA 04 – Koncepty ACL]]
+- [[ENSA 08 – VPN a IPsec]]

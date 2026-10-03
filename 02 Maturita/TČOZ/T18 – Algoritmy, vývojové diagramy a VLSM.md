@@ -69,3 +69,7 @@ Algoritmus je konečný a jednoznačný postup; vo vývojovom diagrame ovál zna
 ## Súvisiace poznámky (CCNA2)
 
 [[M05 – STP Concepts]] · [[M06 – EtherChannel]] — rozcestník [[CCNA2 – SRWE]]
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 11 – Návrh siete]]

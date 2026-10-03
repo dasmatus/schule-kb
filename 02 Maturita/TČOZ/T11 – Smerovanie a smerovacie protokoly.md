@@ -65,3 +65,8 @@ Router spája IP siete a podľa routovacej tabuľky vykonáva forwarding. Tabuľ
 ## Súvisiace poznámky (CCNA2)
 
 [[M09 – FHRP Concepts]] · [[M14 – Routing Concepts]] · [[M15 – IP Static Routing]] · [[M16 – Troubleshoot Static and Default Routes]] — rozcestník [[CCNA2 – SRWE]]
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 01 – Koncepty OSPFv2]]
+- [[ENSA 02 – Konfigurácia OSPFv2]]

@@ -85,3 +85,8 @@ Sieť diagnostikujem od fyzickej vrstvy cez linkovú a IP až po DNS a aplikáci
 ## Súvisiace poznámky (CCNA2)
 
 [[M01 – Basic Device Configuration]] · [[M13 – WLAN Configuration]] · [[M16 – Troubleshoot Static and Default Routes]] — rozcestník [[CCNA2 – SRWE]]
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 12 – Riešenie problémov v sieti]]
+- [[ENSA 10 – Správa siete]]

@@ -59,3 +59,8 @@ LAN je lokálna sieť, WAN spája vzdialené LAN. Topológia môže byť zbernic
 ## Súvisiace poznámky (CCNA2)
 
 [[M03 – VLANs]] · [[M12 – WLAN Concepts]] — rozcestník [[CCNA2 – SRWE]]
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 07 – Koncepty WAN]]
+- [[ENSA 11 – Návrh siete]]

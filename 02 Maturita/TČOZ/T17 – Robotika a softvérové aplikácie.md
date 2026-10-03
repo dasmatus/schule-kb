@@ -75,3 +75,7 @@ Dokumentácia siete má opisovať skutočný aj plánovaný stav. Mala by obsaho
 ## Krátka ústna odpoveď
 
 Arduino je platforma s mikrokontrolérom, USB, napájaním, digitálnymi a analógovými pinmi, PWM a IDE; program používa `setup()` a opakovaný `loop()`. Servomotor vďaka PWM a spätnej väzbe nastavuje uhol. Robot je programovateľný stroj a manipulátor jeho kinematická časť s článkami, kĺbmi a efektorom. Podvozok môže byť kolesový, pásový, omnidirekcionálny alebo kráčajúci. Sieťová dokumentácia obsahuje fyzickú a logickú schému, adresy, porty, konfigurácie a zmeny.
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 12 – Riešenie problémov v sieti]]

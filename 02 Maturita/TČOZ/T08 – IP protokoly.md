@@ -46,3 +46,7 @@ IPv6 má 128 bitov, zapisuje sa hexadecimálne a používa prefixy. `::` smie v 
 ## Súvisiace poznámky (CCNA2)
 
 [[M08 – SLAAC and DHCPv6]] — rozcestník [[CCNA2 – SRWE]]
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 06 – NAT pre IPv4]]

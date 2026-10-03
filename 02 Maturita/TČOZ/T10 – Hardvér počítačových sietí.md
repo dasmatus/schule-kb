@@ -54,3 +54,7 @@ Relačné operátory porovnávajú hodnoty: `<`, `>`, `<=`, `>=`, `==` a `!=`. V
 ## Krátka ústna odpoveď
 
 Sieťový adaptér môže byť Ethernet, Wi-Fi, optický, celulárny alebo virtuálny. Na linkovej vrstve má MAC adresu. ARP zistí MAC adresu známej IPv4 adresy pomocou broadcast požiadavky a odpovede a výsledok uloží do cache. Pri RJ45 sa používajú normy T568A/B; rovnaké konce tvoria priamy kábel. Relačné operátory porovnávajú hodnoty a logické operátory skladajú podmienky.
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 11 – Návrh siete]]

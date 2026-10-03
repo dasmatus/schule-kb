@@ -70,3 +70,8 @@ Funkcia je znovupoužiteľný blok, metóda patrí triede alebo objektu. Bezpara
 ## Súvisiace poznámky (CCNA2)
 
 [[M14 – Routing Concepts]] — rozcestník [[CCNA2 – SRWE]]
+
+## Pozri aj – CCNA3 ENSA
+
+- [[ENSA 01 – Koncepty OSPFv2]]
+- [[ENSA 02 – Konfigurácia OSPFv2]]
