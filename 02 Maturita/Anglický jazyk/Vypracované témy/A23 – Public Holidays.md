@@ -110,3 +110,43 @@ Personally, my favourite holiday is Christmas — not so much for the presents a
 - [[A30 – Slovakia – My Homeland]] — slovenské tradície a zvyky
 - [[A05 – Food and Eating]] — sviatočné jedlá
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Why are public holidays in Britain called bank holidays?
+> Because banks are closed on those days, so people do not work either.
+
+> [!question]- Which holidays do you celebrate in your country?
+> Christmas, Easter, New Year, and national holidays like 1 January, 29 August
+> (SNP) and 17 November.
+
+> [!question]- What is traditionally eaten in Slovakia at Christmas?
+> Wafers with honey, cabbage soup (kapustnica), fried carp with potato salad
+> and Christmas cakes.
+
+> [!question]- How do Christmas traditions differ in Slovakia, Britain and the USA?
+> In Slovakia the main day is 24 December and presents come from Ježiško. In
+> Britain and the USA presents come from Santa Claus on the morning of 25 December.
+
+> [!question]- Why is the Fourth of July so important for Americans?
+> It is Independence Day – on 4 July 1776 the Declaration of Independence was
+> adopted. People celebrate with parades, barbecues and fireworks.
+
+> [!question]- What do you know about Thanksgiving?
+> It is celebrated in the USA on the fourth Thursday of November. Families
+> meet and eat roast turkey to give thanks for the harvest.
+
+> [!question]- Do you think Halloween should be celebrated in Slovakia?
+> It is fun for children, but it should not replace our own tradition of
+> remembering the dead on All Saints' Day.
+
+> [!question]- Which Slovak custom would a foreigner find strangest?
+> Easter Monday, when boys pour water on girls and whip them with a willow
+> whip.
+
+> [!question]- Which public holiday do you like most, and why?
+> Christmas, because the whole family is together, the atmosphere is calm and
+> we have a few days off.
+
+> [!question]- Are family celebrations more important to you than public holidays?
+> Yes, birthdays and family events are more personal for me.

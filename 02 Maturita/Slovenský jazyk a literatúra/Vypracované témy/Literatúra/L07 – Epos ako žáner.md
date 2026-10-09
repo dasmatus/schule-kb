@@ -98,3 +98,36 @@ Epos je najstarší veľký žáner veršovanej epiky, ktorý sa vyvíjal od sta
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aké sú znaky eposu?
+> Rozsiahla veršovaná epika členená na spevy, vznešená téma, výnimočný hrdina,
+> objektívny rozprávač v er-forme, in medias res, invokácia, epiteton, epické
+> prirovnanie, zásahy nadprirodzených síl.
+
+> [!question]- Ako sa vyvíjal epos v jednotlivých obdobiach?
+> Starovek – hrdinský (Gilgameš, Homér); stredovek – rytiersky (Pieseň o
+> Rolandovi); klasicizmus – národný (Hollý: Svätopluk); realizmus – zemiansky
+> a dedinský (Hviezdoslav).
+
+> [!question]- O čom je Epos o Gilgamešovi?
+> Najstarší dochovaný epos – kráľ Uruku, priateľstvo s Enkiduom a márne
+> hľadanie nesmrteľnosti; obsahuje mýtus o potope.
+
+> [!question]- Opíš dej Iliady.
+> Hnev Achilla po tom, čo mu Agamemnón vzal Bríseovnu; Achilles odmieta
+> bojovať, po smrti Patrokla sa vráti a zabije Hektora. 24 spevov, hexameter.
+
+> [!question]- O čom je Hájnikova žena?
+> Hanka sa v sebaobrane bráni grófovi Artušovi a zabije ho, Michal vezme vinu
+> na seba; Hanka sa na súde prizná, súd oboch oslobodí. Téma vernosti a
+> mravnej sily prostého človeka.
+
+> [!question]- Čo je invokácia, in medias res a epický epiteton?
+> Invokácia – vzývanie múzy na začiatku. In medias res – začiatok uprostred
+> deja. Epiteton – ustálený prívlastok („rýchlonohý Achilles“).
+
+> [!question]- Aké veršové systémy poznáš?
+> Časomerný (dĺžka slabík, antika), sylabický (počet slabík), sylabotonický
+> (počet slabík a striedanie prízvukov – Hviezdoslav).

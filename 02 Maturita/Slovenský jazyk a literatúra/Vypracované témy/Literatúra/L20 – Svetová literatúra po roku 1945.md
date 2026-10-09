@@ -64,3 +64,35 @@ Povojnová svetová literatúra reaguje na krízu hodnôt spôsobenú druhou sve
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aké smery vznikajú vo svetovej literatúre po roku 1945?
+> Existencializmus, beat generation, divadlo absurdna.
+
+> [!question]- Čo je existencializmus a kto sú jeho predstavitelia?
+> Človek je „odsúdený na slobodu“, zmysel si musí vytvoriť sám v absurdnom
+> svete. Sartre (Nevoľnosť), Camus (Cudzinec, Mor).
+
+> [!question]- Čo je beat generation?
+> Vzbura mladých proti konformite a materializmu povojnovej Ameriky; Kerouac
+> (Na ceste), Ginsberg (Kvílenie).
+
+> [!question]- Aké sú znaky divadla absurdna?
+> Chýba klasický dej, cyklická kompozícia, groteskný dialóg bez komunikácie;
+> Beckett (Čakanie na Godota), Ionesco (Plešatá speváčka, Nosorožec).
+
+> [!question]- O čom je Kto chytá v žite?
+> Holden Caulfield po vylúčení zo školy blúdi niekoľko dní New Yorkom;
+> kritizuje „falošnosť“ dospelých a chce chrániť detskú nevinnosť.
+
+> [!question]- Čo symbolizuje názov románu?
+> Holden chce chytať deti hrajúce sa v žite, aby nespadli z priepasti do sveta
+> dospelých – faloše a pokrytectva.
+
+> [!question]- Aký jazyk a rozprávač sú v diele?
+> Ich-forma, retrospektívne rozprávanie; hovorový a slangový jazyk ako
+> charakterizačný prostriedok.
+
+> [!question]- Čo je bildungsroman?
+> Výchovný (generačný) román o dospievaní a vnútornom zrení hrdinu.

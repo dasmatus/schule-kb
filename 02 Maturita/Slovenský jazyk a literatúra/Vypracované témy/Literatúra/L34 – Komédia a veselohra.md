@@ -72,3 +72,33 @@ Odpoveď postavím na dvoch pilieroch: (1) Molièrov [[Lakomec]] ako svetový pr
 ## Súvisiace poznámky
 
 - [[L27 – Humor, satira, irónia a paródia]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je komédia a čím sa líši od tragédie?
+> Dramatický žáner so šťastným alebo zmierlivým koncom, vyvoláva smiech;
+> tragédia končí zánikom hrdinu.
+
+> [!question]- Aký je rozdiel medzi komédiou a veselohrou?
+> Komédia je nadradený pojem (aj ostrá satira). Veselohra je miernejšia,
+> zábavnejšia forma typická pre slovenské divadlo 19. storočia.
+
+> [!question]- Aké zdroje komiky poznáš?
+> Situačnú (nedorozumenie, zámena osôb) a charakterovú (vysmievanie
+> vlastnosti); jazykové prostriedky – irónia, satira, paródia, slovná hra,
+> hyperbola.
+
+> [!question]- Vymenuj slovenské veselohry a ich autorov.
+> J. Chalupka – Kocúrkovo, J. Palárik – Zmierenie alebo Dobrodružstvo pri
+> obžinkoch, J. G. Tajovský – Statky-zmätky.
+
+> [!question]- O čom je Palárikovo Zmierenie?
+> Veselohra s dvojitou zámenou osôb; výzva na zmierenie šľachty s ľudom a
+> Slovákov s Maďarmi.
+
+> [!question]- Prečo sa Statky-zmätky označujú skôr ako sociálna dráma?
+> Nemajú zmierlivý koniec – manželstvo z majetku sa rozpadne, Zuzka sa k
+> Ďurovi nevráti.
+
+> [!question]- Kto je Harpagon?
+> Hlavná postava Molièrovho Lakomca – typizovaný lakomec posadnutý peniazmi.

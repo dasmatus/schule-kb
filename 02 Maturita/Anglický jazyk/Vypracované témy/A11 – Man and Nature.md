@@ -111,3 +111,44 @@ Finally, there are organisations that fight for the environment. The best known 
 - [[A15 – People and Society]] — zodpovednosť spoločnosti a jednotlivca
 - [[A21 – Towns and Places]] — život v meste verzus v prírode
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Which season of the year do you like best, and why?
+> Summer, because it is warm, the days are long and we have holidays. I can
+> go swimming and cycling.
+
+> [!question]- What is the weather like in Slovakia in each season?
+> Spring is mild and rainy, summer is hot with storms, autumn is foggy and
+> windy, and winter is cold with snow, mainly in the mountains.
+
+> [!question]- What are the three main kinds of pollution and what causes them?
+> Air pollution (traffic, factories, heating), water pollution (industrial
+> waste, chemicals from farming) and soil pollution (rubbish, pesticides).
+
+> [!question]- What is acid rain and what damage does it do?
+> Rain containing sulphur and nitrogen oxides from factories and cars. It
+> damages forests, lakes, buildings and monuments.
+
+> [!question]- Explain the greenhouse effect in your own words.
+> Gases like carbon dioxide trap heat in the atmosphere like the glass of a
+> greenhouse. Because we produce too much CO₂, the Earth is getting warmer.
+
+> [!question]- What consequences does global warming have?
+> Melting glaciers, rising sea levels, extreme weather such as droughts,
+> floods and heatwaves, and the extinction of species.
+
+> [!question]- What natural disasters have you heard about recently?
+> Floods, forest fires, hurricanes and earthquakes – give one example from the
+> news and say what happened.
+
+> [!question]- What can an ordinary person do to protect the environment?
+> Sort waste, save energy and water, use public transport or a bike, buy less
+> plastic and repair things instead of throwing them away.
+
+> [!question]- Do you sort your waste at home? Why or why not?
+> Yes, we sort paper, plastic and glass. It is easy and helps recycling.
+
+> [!question]- Do you think organisations like Greenpeace are effective?
+> Partly. They draw attention to problems and put pressure on governments,
+> but some of their protests are too radical.

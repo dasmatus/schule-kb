@@ -70,3 +70,33 @@ Pri odpovedi je vhodné začať definíciou trhu ako stretnutia ponuky a dopytu,
 
 - [[E13 – Cenová politika podniku]]
 - [[Odbytové činnosti podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je trh?
+> Miesto, kde sa stretávajú kupujúci a predávajúci (dopyt a ponuka), aby sa
+> dohodli na kúpe a predaji tovaru za určitú cenu.
+
+> [!question]- Aké sú trhové subjekty a ich úlohy?
+> Domácnosť (kupuje tovary, predáva prácu), podnik (kupuje výrobné faktory,
+> predáva výrobky), štát (vytvára pravidlá, rieši dopady trhu, kupuje aj predáva).
+
+> [!question]- Ako sa delí konkurencia podľa subjektov trhu?
+> Medzi dopytom a ponukou, na strane dopytu (pri nedostatku tovaru), na strane
+> ponuky (pri prebytku tovaru).
+
+> [!question]- Aký je rozdiel medzi cenovou a necenovou konkurenciou?
+> Cenová – získanie zákazníka nižšou cenou. Necenová – kvalitou, reklamou,
+> servisom, dizajnom, obalom.
+
+> [!question]- Charakterizuj typy konkurencie podľa trhových podmienok.
+> Dokonalá (teoretický ideál), monopolistická (veľa výrobcov s odlišnými
+> výrobkami), oligopol (niekoľko veľkých výrobcov), monopol (jediný výrobca).
+
+> [!question]- Uveď príklad oligopolu z IT.
+> Trh procesorov (Intel, AMD) a grafických čipov (Nvidia, AMD) – málo výrobcov,
+> vysoké vstupné náklady.
+
+> [!question]- Ako vzniká rovnovážna cena?
+> Pri prevahe dopytu ceny rastú, pri prevahe ponuky klesajú, kým sa dopyt a
+> ponuka nevyrovnajú.

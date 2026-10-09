@@ -79,3 +79,31 @@ Rozprávací [[slohový postup]] dynamicky zachytáva dej v časovej postupnosti
 
 - [[J02 – Umelecký jazykový štýl]]
 - [[J22 – Charakteristika a opis]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je rozprávací slohový postup?
+> Dynamický postup, ktorý zachytáva dej a konanie postáv v časovej postupnosti.
+
+> [!question]- Aké sú znaky rozprávania?
+> Dejovosť, chronológia (aj retrospektíva), gradácia, rozprávač (ich/er-forma),
+> minulý čas alebo historický prézent, dejové slovesá a časové spojovacie výrazy.
+
+> [!question]- Aká je kompozícia rozprávania?
+> Expozícia → zápletka (kolízia) → vyvrcholenie (kríza) → obrat → rozuzlenie.
+
+> [!question]- Čo je pásmo rozprávača a pásmo postáv?
+> Pásmo rozprávača – text rozprávača (opis, komentár deja). Pásmo postáv –
+> priama reč postáv (dialóg, monológ, vnútorný monológ).
+
+> [!question]- Čo je dialóg a replika?
+> Dialóg – rozhovor dvoch a viacerých postáv. Replika – jedna súvislá výpoveď
+> jednej postavy v dialógu.
+
+> [!question]- Čo je vnútorný monológ a prúd vedomia?
+> Nevyslovená reč postavy (myšlienky, pocity). Prúd vedomia je jeho krajná,
+> útržkovitá a asociatívna podoba.
+
+> [!question]- Aký je rozdiel medzi priamou, nepriamou a polopriamou rečou?
+> Priama – doslovne v úvodzovkách. Nepriama – sprostredkovaná rozprávačom.
+> Polopriama – myslenie postavy splýva s rečou rozprávača bez úvodzoviek.

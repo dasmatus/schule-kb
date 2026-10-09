@@ -76,3 +76,31 @@ Odpoveď stavám na troch krokoch: (1) definícia románu cez porovnanie s [[pov
 - [[Slovenská medzivojnová literatúra – kontext]]
 - [[L18 – Slovenská medzivojnová próza]]
 - [[L26 – Epika ako literárny druh]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je román a čím sa líši od novely a poviedky?
+> Najrozsiahlejší epický žáner – viac dejových línií, veľa (často dynamických)
+> postáv, dlhé časové obdobie.
+
+> [!question]- Ako sa vyvíjal román?
+> Pikareskný (renesancia, Don Quijote) → výchovný (osvietenstvo) → historický
+> (romantizmus) → spoločenský a psychologický (realizmus) → sociálno-
+> psychologický a nový román (20. storočie).
+
+> [!question]- Aké typy románu poznáš?
+> Historický, sociálny, psychologický, sociálno-psychologický, pikareskný,
+> utopický, dievčenský, nový román.
+
+> [!question]- Uveď príklady ku každému typu románu.
+> Historický – Kapitánova dcéra; sociálny – Otec Goriot; psychologický –
+> Zločin a trest; sociálno-psychologický – Jozef Mak; pikareskný – Don Quijote.
+
+> [!question]- Čo je paralelná kompozícia?
+> Viacero dejových línií sledovaných súčasne (Vojna a mier, Anna Kareninová).
+
+> [!question]- Čo je retardácia deja?
+> Zámerné spomaľovanie deja – vyzdvihuje vnútorné prežívanie (Jozef Mak).
+
+> [!question]- Môže byť román veršovaný?
+> Áno, výnimočne – Puškinov Eugen Onegin je román vo veršoch.

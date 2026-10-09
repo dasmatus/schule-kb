@@ -107,3 +107,46 @@ Politically, Canada is a constitutional monarchy and a parliamentary democracy. 
 - [[A29 – Australia and New Zealand]] — ďalšia krajina Commonwealthu
 - [[A22 – Multicultural Society]] — kanadská politika multikulturalizmu
 - [[Anglický jazyk]] — rozcestník predmetu
+
+## Kontrolné otázky
+
+> [!question]- Where exactly is Canada situated and which countries and oceans does it border on?
+> In the northern part of North America. It borders only on the USA and on
+> three oceans – the Atlantic, the Pacific and the Arctic.
+
+> [!question]- Why is Canada less crowded than the USA even though it is much bigger?
+> Most of the country is cold, with forests, tundra and mountains, so people
+> live mainly in the south near the US border.
+
+> [!question]- Which parts of Canada would you describe as mountainous, and which as flat?
+> The west with the Rocky Mountains is mountainous; the prairies in the middle
+> are flat.
+
+> [!question]- What are the Niagara Falls and why are they so famous?
+> Huge waterfalls on the Niagara River on the border between Canada and the
+> USA. They are one of the most visited natural sights in the world.
+
+> [!question]- How would you describe the Canadian climate to somebody who has never been there?
+> Winters are long and very cold with lots of snow, summers are short and can
+> be warm. The west coast is milder and rainy.
+
+> [!question]- What are the most important branches of Canadian industry and agriculture?
+> Mining, oil and gas, forestry and wood, fishing, wheat growing on the
+> prairies, and modern technology.
+
+> [!question]- How does the Canadian political system work and who is the head of state?
+> Canada is a parliamentary democracy and constitutional monarchy. The head
+> of state is King Charles III, represented by the Governor General; the Prime
+> Minister leads the government.
+
+> [!question]- Which places would you like to visit in Canada and why?
+> Toronto, Vancouver, Montreal, the Niagara Falls and Banff National Park in the
+> Rocky Mountains.
+
+> [!question]- What does it mean that Canada is a multicultural country?
+> People from many countries live there and keep their cultures; English and
+> French are both official languages.
+
+> [!question]- Which Canadian customs or holidays are different from ours?
+> Canada Day on 1 July, Thanksgiving in October, ice hockey as a national
+> passion and maple syrup.

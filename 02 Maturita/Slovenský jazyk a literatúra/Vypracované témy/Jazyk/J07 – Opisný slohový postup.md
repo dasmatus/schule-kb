@@ -76,3 +76,31 @@ Opisný [[slohový postup]] je statický postup, ktorý zachytáva vlastnosti a 
 - [[J22 – Charakteristika a opis]]
 - [[Kritériá na písanie úvahy]]
 - [[Básnické prostriedky a kompozícia úvahy]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je opisný slohový postup?
+> Statický postup, ktorý zachytáva vlastnosti a usporiadanie javov v priestore,
+> nie v čase.
+
+> [!question]- Aké sú znaky opisu?
+> Statickosť, postupnosť podľa hľadiska, výber podstatných znakov, prídavné
+> mená a príslovky, prítomný čas, menné konštrukcie, statické slovesá.
+
+> [!question]- Aké druhy opisu poznáš?
+> Prostý, umelecký, odborný, opis pracovného postupu, charakteristika, portrét.
+
+> [!question]- Aký je rozdiel medzi priamou a nepriamou charakteristikou?
+> Priama – vlastnosti sú výslovne pomenované. Nepriama – vyplývajú z konania,
+> reči a vzhľadu.
+
+> [!question]- Aké postupnosti môže opis použiť?
+> Zľava doprava, zhora nadol, od celku k detailu, od dôležitého k menej
+> dôležitému, od blízkeho k vzdialenému.
+
+> [!question]- Aký je rozdiel medzi opisom a rozprávaním?
+> Opis je statický (priestor, stav), rozprávanie dynamické (dej v čase).
+
+> [!question]- Čím sa líši odborný a umelecký opis?
+> Odborný – presná terminológia, objektívnosť. Umelecký – subjektívny, obrazné
+> prostriedky, zmyslové vnemy.

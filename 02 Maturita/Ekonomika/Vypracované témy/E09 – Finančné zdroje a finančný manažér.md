@@ -85,3 +85,29 @@ Finančný manažér zabezpečuje financovanie, finančné plánovanie, [[Invest
 
 - [[Podstata finančného hospodárenia podniku]]
 - [[E32 – Účtovné výkazy]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je finančné riadenie a aké oblasti zahŕňa?
+> Získavanie kapitálu, jeho rozloženie do majetku a rozdelenie zisku. Oblasti:
+> financovanie, finančné plánovanie, investovanie, finančná analýza.
+
+> [!question]- Ako sa členia finančné zdroje?
+> Podľa vlastníctva na vlastné a cudzie, podľa spôsobu získavania na interné
+> (zisk, odpisy) a externé (vklady, úvery, dotácie, lízing, faktoring, forfaiting).
+
+> [!question]- Čo je samofinancovanie?
+> Financovanie z interných zdrojov – zisku po zdanení a odpisov.
+
+> [!question]- Aký je rozdiel medzi faktoringom a forfaitingom?
+> Faktoring – odkúpenie krátkodobých pohľadávok (do 180 dní), obvykle za 60–90 %
+> hodnoty. Forfaiting – odkúpenie strednodobých a dlhodobých pohľadávok bez
+> spätného postihu.
+
+> [!question]- Ako vypočítaš výnosnosť a dobu návratnosti investície?
+> Výnosnosť = ročný čistý zisk : náklady investície. Návratnosť = náklady
+> investície : ročný čistý zisk. Príklad: 20 000 € a 5 000 € ročne → 25 %, 4 roky.
+
+> [!question]- Ako by si financoval novú výrobnú linku výrobcu PC?
+> Dlhodobým kapitálom – vlastné zdroje, investičný úver alebo lízing (zlaté
+> bilančné pravidlo); krátkodobý nedostatok hotovosti faktoringom.

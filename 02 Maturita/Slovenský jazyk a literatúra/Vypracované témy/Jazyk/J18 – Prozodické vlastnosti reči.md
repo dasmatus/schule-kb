@@ -88,3 +88,31 @@ Prozodické vlastnosti reči tvoria tri zložky: **časovú moduláciu** (kvanti
 
 - [[Zvuková rovina jazyka]]
 - [[Zvuková rovina jazyka – prezentácia]]
+
+## Kontrolné otázky
+
+> [!question]- Čo sú prozodické vlastnosti reči?
+> Suprasegmentálne zvukové javy viazané na slabiku, slovo, vetu; delia sa na
+> časovú, silovú a tónovú moduláciu.
+
+> [!question]- Čo patrí do časovej modulácie?
+> Kvantita (dĺžka), tempo, rytmus (takt), prestávka (fyziologická, významová,
+> defektná).
+
+> [!question]- Čo patrí do silovej modulácie?
+> Slovný prízvuk (stály, na prvej slabike), vetný dôraz (logický a citový –
+> emfáza), sila hlasu.
+
+> [!question]- Aký je rozdiel medzi slovným prízvukom a vetným dôrazom?
+> Slovný prízvuk je stály na prvej slabike; vetný dôraz volí hovoriaci, môže
+> meniť význam výpovede.
+
+> [!question]- Aké typy melódie vety poznáš?
+> Kadencia (klesavá – oznamovacie, rozkazovacie, doplňovacie otázky),
+> antikadencia (stúpavá – zisťovacie otázky), polokadencia (nekončiaca).
+
+> [!question]- Prečo má otázka „Kto ho režíroval?“ klesavú melódiu?
+> Je doplňovacia – otázku signalizuje už opytovacie zámeno.
+
+> [!question]- Aké funkcie má prozódia?
+> Rozlišovaciu (typ vety), organizačnú (členenie textu), výrazovú (city a postoj).

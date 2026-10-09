@@ -40,6 +40,140 @@ Príklad JSON reprezentácie objektu:
 
 **Deserializácia** načíta reprezentáciu, overí jej štruktúru a vytvorí objekt. Treba kontrolovať povinné polia, rozsah, verziu a typy; neznáme polia možno ignorovať alebo odmietnuť podľa politiky. Deserializácia nedôveryhodného vstupu sa nesmie používať na spustenie ľubovoľného kódu. Nebezpečné univerzálne binárne deserializéry sú rizikové; bezpečnejší je obmedzený dátový formát s validáciou.
 
+## Textový súbor v C#
+
+```csharp
+using System.IO;
+
+string cesta = Path.Combine("data", "zariadenia.txt");
+
+// zápis – prepíše súbor (append: true pripája na koniec)
+using (StreamWriter sw = new StreamWriter(cesta, append: false))
+{
+    sw.WriteLine("R1;192.168.10.1");
+    sw.WriteLine("SW1;192.168.10.2");
+}   // using súbor zavrie aj pri výnimke
+
+// čítanie po riadkoch
+using (StreamReader sr = new StreamReader(cesta))
+{
+    string riadok;
+    while ((riadok = sr.ReadLine()) != null)
+    {
+        string[] casti = riadok.Split(';');
+        Console.WriteLine($"{casti[0]} má IP {casti[1]}");
+    }
+}
+
+// skrátené statické metódy triedy File
+File.WriteAllText(cesta, "obsah");
+File.AppendAllText(cesta, "ďalší riadok\n");
+string[] riadky = File.ReadAllLines(cesta);
+bool existuje = File.Exists(cesta);
+```
+
+## Ošetrenie chýb
+
+```csharp
+try
+{
+    string text = File.ReadAllText("konfig.txt");
+}
+catch (FileNotFoundException)        { Console.WriteLine("Súbor neexistuje."); }
+catch (UnauthorizedAccessException)  { Console.WriteLine("Nemáš oprávnenie."); }
+catch (IOException ex)               { Console.WriteLine("Chyba: " + ex.Message); }
+```
+
+## Binárny súbor
+
+```csharp
+using (var bw = new BinaryWriter(File.Open("data.bin", FileMode.Create)))
+{
+    bw.Write(42);          // int – 4 bajty
+    bw.Write(3.14);        // double – 8 bajtov
+    bw.Write("R1");        // reťazec s dĺžkou
+}
+using (var br = new BinaryReader(File.Open("data.bin", FileMode.Open)))
+{
+    int a = br.ReadInt32();
+    double b = br.ReadDouble();
+    string c = br.ReadString();   // čítať treba v rovnakom poradí ako zápis
+}
+```
+
+| Režim `FileMode` | Význam |
+| --- | --- |
+| `Create` | vytvorí nový, existujúci prepíše |
+| `CreateNew` | vytvorí nový, ak existuje → výnimka |
+| `Open` | otvorí existujúci, ak neexistuje → výnimka |
+| `OpenOrCreate` | otvorí alebo vytvorí |
+| `Append` | otvorí a zapisuje na koniec |
+
+## Serializácia do JSON a XML v C#
+
+```csharp
+using System.Text.Json;
+
+public class Zariadenie
+{
+    public string Meno { get; set; }
+    public string Ip { get; set; }
+    public int Porty { get; set; }
+}
+
+var r = new Zariadenie { Meno = "R1", Ip = "192.168.10.1", Porty = 4 };
+
+// serializácia: objekt → text
+string json = JsonSerializer.Serialize(r);
+// {"Meno":"R1","Ip":"192.168.10.1","Porty":4}
+File.WriteAllText("r1.json", json);
+
+// deserializácia: text → objekt
+Zariadenie nacitany = JsonSerializer.Deserialize<Zariadenie>(
+    File.ReadAllText("r1.json"));
+```
+
+XML: `new XmlSerializer(typeof(Zariadenie))` a metódy `Serialize(stream, objekt)`
+/ `Deserialize(stream)`. Trieda musí byť `public` a mať konštruktor bez parametrov.
+
+| Formát | Čitateľný | Veľkosť | Použitie |
+| --- | --- | --- | --- |
+| JSON | áno | malá | web API, konfigurácie |
+| XML | áno | väčšia (značky) | staršie systémy, dokumenty, schémy |
+| CSV | áno | najmenšia pre tabuľky | export do Excelu |
+| binárny | nie | najmenšia | rýchle ukladanie, hry |
+
 ## Krátka ústna odpoveď
 
 Súbor je pomenovaná postupnosť dát; môže byť textový alebo binárny, prípadne JSON, XML, CSV či iný štruktúrovaný formát. Pri čítaní a zápise ho otvorím v správnom režime, spracujem, korektne zavriem a ošetrím neexistenciu, práva, plný disk a chybný formát. Serializácia uloží objekt do JSON/XML alebo binárnej reprezentácie a deserializácia ho obnoví; nedôveryhodný vstup vždy validujem a nepoužívam nebezpečnú binárnu deserializáciu.
+
+## Kontrolné otázky
+
+> [!question]- Aký je rozdiel medzi textovým a binárnym súborom?
+> Textový obsahuje znaky v kódovaní (UTF-8), dá sa čítať v editore. Binárny
+> obsahuje bajty v štruktúre programu (obrázky, exe), je menší a rýchlejší.
+
+> [!question]- Ako zapíšeš a prečítaš textový súbor v C#?
+> Zápis `StreamWriter` + `WriteLine` alebo `File.WriteAllText`. Čítanie
+> `StreamReader` + `ReadLine` v cykle alebo `File.ReadAllLines`. Všetko v `using`.
+
+> [!question]- Prečo sa používa blok using?
+> Automaticky zavrie súbor (uvoľní zdroj) aj pri výnimke.
+
+> [!question]- Aké chyby môžu nastať pri práci so súborom?
+> Súbor neexistuje, chýba oprávnenie, plný disk, súbor je zamknutý iným
+> procesom, zlé kódovanie alebo formát.
+
+> [!question]- Aký je rozdiel medzi prepísaním a pripojením (append)?
+> Prepísanie zmaže pôvodný obsah, append zapisuje na koniec existujúceho súboru.
+
+> [!question]- Čo je serializácia a deserializácia?
+> Serializácia – prevod objektu na reťazec bajtov/textu (JSON, XML) na
+> uloženie alebo prenos. Deserializácia – opačný prevod späť na objekt.
+
+> [!question]- Aké formáty serializácie poznáš?
+> JSON, XML, CSV, binárny.
+
+> [!question]- Prečo je deserializácia nedôveryhodných dát nebezpečná?
+> Útočník môže podvrhnúť dáta, ktoré vytvoria nečakané objekty alebo spustia
+> kód. Treba používať bezpečné formáty (JSON) a údaje validovať.

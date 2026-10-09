@@ -119,3 +119,48 @@ Americans are usually described as friendly, open and informal; they use first n
 - [[A22 – Multicultural Society]] — USA ako „melting pot"
 - [[A23 – Public Holidays]] — americké sviatky
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Where is the USA situated and which countries does it border on?
+> In North America, between the Atlantic and the Pacific. It borders on Canada
+> in the north and Mexico in the south.
+
+> [!question]- How is the American political system organised?
+> It is a federal republic of 50 states. The President is head of state and
+> government, Congress (Senate and House of Representatives) makes laws and the
+> Supreme Court is the highest court.
+
+> [!question]- What are the main geographical features of the country?
+> The Rocky Mountains in the west, the Appalachians in the east, the Great
+> Plains in the middle, the Mississippi river, the Great Lakes and deserts in
+> the south-west.
+
+> [!question]- Why does the USA have such a varied climate?
+> The country is huge and stretches from Alaska to Florida and Hawaii, so it
+> has arctic, mild, desert and tropical climates.
+
+> [!question]- What do you know about the history of the United States?
+> Native Americans lived there first. Europeans colonised it, the colonies
+> declared independence in 1776, then came the Civil War (1861–1865) and the
+> USA became a world power in the 20th century.
+
+> [!question]- Which places in the USA would you most like to visit?
+> New York, San Francisco and Silicon Valley, the Grand Canyon and Yellowstone
+> National Park.
+
+> [!question]- What is the American Dream, and do you think it still exists?
+> The idea that anybody can become successful through hard work. It still
+> inspires people, but it is harder today because of inequality.
+
+> [!question]- How does life in the USA differ from life in Slovakia?
+> Distances are bigger, people depend on cars, health care and universities are
+> expensive, salaries are higher and the culture is more individualistic.
+
+> [!question]- Why is the USA called a melting pot?
+> Immigrants from all over the world came there and their cultures mixed into
+> one American identity.
+
+> [!question]- What influence does American culture have on the rest of the world?
+> Huge – Hollywood films, music, fast food, technology companies and the
+> English language spread everywhere.

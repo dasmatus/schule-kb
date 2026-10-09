@@ -77,3 +77,31 @@ Barok stavia na kontraste pozemského a večného a na silnom náboženskom cite
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- V akých podmienkach vzniká barok?
+> V 17. a 18. storočí, v čase protireformácie a rekatolizácie, tureckých vojen
+> a stavovských povstaní.
+
+> [!question]- Aké sú znaky barokovej literatúry?
+> Kontrastnosť, pominuteľnosť (vanitas, memento mori), silný náboženský cit,
+> zdobný výraz (metafora, hyperbola, antitéza), didaktickosť.
+
+> [!question]- Aké línie má slovenský barok?
+> Katolícku (Gavlovič) a protestantskú (Tranovský – Cithara sanctorum).
+
+> [!question]- Opíš dielo Valaská škola mravúv stodola.
+> Gavlovičova didaktická veršovaná skladba (1755) – mravné ponaučenia o živote,
+> smrti a práci podané cez obrazy valaského života; bača učí valachov.
+
+> [!question]- Akým jazykom písal Gavlovič?
+> Slovakizovanou češtinou s prvkami západoslovenského nárečia – predstupeň
+> spisovnej slovenčiny.
+
+> [!question]- Čo je kancionál?
+> Zbierka duchovných piesní na spoločný spev (Cithara sanctorum).
+
+> [!question]- Čo je sylabický verš?
+> Verš s rovnakým počtom slabík bez ohľadu na ich dĺžku; základ barokovej
+> poézie aj ľudovej piesne.

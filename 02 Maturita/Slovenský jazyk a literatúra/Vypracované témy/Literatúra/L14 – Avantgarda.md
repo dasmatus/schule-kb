@@ -61,3 +61,33 @@ tags:
 
 - [[L13 – Literárna moderna]]
 - [[L15 – Slovenská medzivojnová poézia]] (slovenský nadrealizmus R. Fábryho nadväzuje na francúzsky surrealizmus)
+
+## Kontrolné otázky
+
+> [!question]- Čo je avantgarda a kedy vzniká?
+> Umelecké hnutia asi 1905–1930, ktoré radikálne odmietajú tradičné formy;
+> reakcia na techniku, veľkomesto a 1. svetovú vojnu.
+
+> [!question]- Charakterizuj kubizmus a futurizmus.
+> Kubizmus – rozklad skutočnosti na viac uhlov pohľadu, asociácie. Futurizmus
+> (Marinetti) – oslava techniky, rýchlosti, mesta, odmietnutie tradície.
+
+> [!question]- Charakterizuj expresionizmus a dadaizmus.
+> Expresionizmus – deformácia reality na vyjadrenie silného pocitu (úzkosť,
+> vojna). Dadaizmus (Tzara) – popretie zmyslu a logiky, náhoda, provokácia.
+
+> [!question]- Čo je surrealizmus a kto ho založil?
+> Smer zameraný na sen a podvedomie, metóda automatického textu; André Breton,
+> Manifest surrealizmu (1924).
+
+> [!question]- Čo je pásmo?
+> Apollinairov útvar – rozsiahla polytematická báseň s asociatívnou
+> kompozíciou, voľným veršom, bez interpunkcie.
+
+> [!question]- Čo sú kaligramy?
+> Básne, ktorých grafické usporiadanie tvorí obraz súvisiaci s témou
+> (Apollinaire, Kaligramy, 1918).
+
+> [!question]- Čo je automatický text?
+> Písanie bez kontroly rozumu, morálky a estetiky; zachytáva podvedomie
+> (Breton – Soupault: Magnetické polia).

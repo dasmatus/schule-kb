@@ -112,3 +112,44 @@ Finally there is the question of the printed book versus the e-book. An e-reader
 - [[A02 – Culture and the Arts]] — literatúra ako súčasť kultúry
 - [[Mark Twain]] — americký spisovateľ z materiálov k tejto téme
 - [[Anglické ekvivalenty]] — názvy diel a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Why do people read books?
+> For entertainment, to learn something new, to relax and to escape into
+> another world.
+
+> [!question]- What is the difference between fiction and non-fiction?
+> Fiction is invented (novels, stories, poetry). Non-fiction is based on facts
+> (biographies, textbooks, popular science).
+
+> [!question]- Which literary genre do you like best, and why?
+> Science fiction, because it shows how technology could change our future.
+
+> [!question]- Do you prefer buying books or borrowing them from a library?
+> Borrowing is cheaper and better for the environment, but I buy books I want
+> to keep.
+
+> [!question]- Which book has made the strongest impression on you?
+> Name a book, give its author, say briefly what it is about and why it
+> impressed you.
+
+> [!question]- Who is your favourite writer?
+> Name a writer, mention their best-known works and say what you like about
+> their style.
+
+> [!question]- Which English-speaking authors do you know?
+> Shakespeare, Charles Dickens, Jane Austen, Mark Twain, Ernest Hemingway,
+> George Orwell, J. R. R. Tolkien and J. K. Rowling.
+
+> [!question]- Do you prefer the book or the film version of a story?
+> Usually the book, because it gives more details and uses your imagination;
+> but a good film is a great experience too.
+
+> [!question]- What do you think about e-books and audiobooks?
+> They are practical – you can carry hundreds of books or listen while
+> travelling – but I still like a printed book.
+
+> [!question]- Do you agree that people read less than they used to? Why?
+> Partly – people spend more time on phones and watching videos, but they read
+> a lot of short texts online.

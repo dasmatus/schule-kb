@@ -104,3 +104,46 @@ Among the famous names in culture I should mention Louis Armstrong and the Beatl
 - [[A19 – Hobbies and Leisure]] — kultúra ako trávenie voľného času
 - [[A21 – Towns and Places]] — čo ponúka veľké mesto oproti dedine
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- How would you define the word "culture"?
+> Culture is everything a society creates and shares – art, music, literature,
+> traditions, language and the way people live.
+
+> [!question]- Do you prefer going to the cinema or to the theatre, and why?
+> I prefer the cinema because it is more relaxed and the choice of films is
+> wider, but a good theatre performance has a special live atmosphere.
+
+> [!question]- What kinds of films do you enjoy watching?
+> Mostly science fiction and thrillers, sometimes comedies. I like films with
+> a clever plot and good special effects.
+
+> [!question]- What are the advantages and disadvantages of watching a film at the cinema instead of at home?
+> The cinema has a big screen, great sound and atmosphere. On the other hand,
+> tickets are expensive, you cannot pause the film and other people can be noisy.
+
+> [!question]- Why do people visit the cinema less often than they used to?
+> Streaming services are cheap and convenient, and new films appear online
+> soon after the premiere.
+
+> [!question]- What was the last cultural event you attended? Describe it.
+> I went to a concert in Bratislava with my friends. The band played for two
+> hours, the light show was amazing and everybody sang along.
+
+> [!question]- Who is your favourite actor, singer or writer? Describe them.
+> Choose one person, say what they are famous for, describe one work you like
+> and explain why you admire them – their talent, hard work or message.
+
+> [!question]- Do you like folk music and folk dance performances? Why or why not?
+> I do not listen to it every day, but I respect it. Folk ensembles keep our
+> traditions alive and the costumes and dances are impressive.
+
+> [!question]- What is an Oscar, and do you think film awards really matter?
+> The Oscar is the award of the American Film Academy for the best films and
+> artists. Awards help good films get attention, but popularity does not
+> always mean quality.
+
+> [!question]- Should the state support culture with public money?
+> Yes, to some extent. Theatres, museums and libraries could not survive only
+> from tickets, and culture is part of our national identity.

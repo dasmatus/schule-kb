@@ -66,3 +66,31 @@ Popri komédii charakterov rozlišujeme aj **komédiu intríg**, postavenú pred
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Kde a kedy vzniká klasicizmus a z akej filozofie vychádza?
+> Vo Francúzsku 17. storočia za Ľudovíta XIV.; z racionalizmu (Descartes).
+
+> [!question]- Aké sú znaky klasicizmu?
+> Racionalizmus, normatívnosť (Boileau), hierarchia žánrov, zásada troch
+> jednôt, typizácia postáv, jasnosť a mravné ponaučenie.
+
+> [!question]- Ako sa delia žánre v klasicizme?
+> Vysoké (tragédia, epos, óda) pre vážne témy a šľachtu; nízke (komédia,
+> bájka, satira) pre meštiansky život.
+
+> [!question]- Vymenuj predstaviteľov francúzskeho klasicizmu.
+> Corneille, Racine (tragédia), Molière (komédia), Boileau (teória), La
+> Fontaine (bájky).
+
+> [!question]- O čom je Lakomec?
+> Lakomý Harpagon stavia peniaze nad šťastie detí, bráni im v sobáši z lásky a
+> sám sa uchádza o synovu milú; zápletka vrcholí stratou pokladnice.
+
+> [!question]- Čo je komédia charakterov a hovoriace meno?
+> Komika stojí na jednej zveličenej vlastnosti postavy. Hovoriace meno
+> naznačuje charakter (Harpagon – hák, dravec).
+
+> [!question]- Čím sa Lakomec líši od klasicistickej tragédie formou?
+> Je písaný prózou, tragédia alexandrínom (12-slabičný verš).

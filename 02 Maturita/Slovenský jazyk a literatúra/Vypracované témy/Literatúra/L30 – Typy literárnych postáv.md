@@ -71,3 +71,29 @@ Pri odpovedi je najúčinnejšie prejsť literárne obdobia chronologicky a pri 
 - [[Živý bič – čitateľský denník]]
 - [[Dva bratia – rozbor diela]]
 - [[Naturizmus – znaky a autori]]
+
+## Kontrolné otázky
+
+> [!question]- Aký typ postavy je typický pre klasicizmus, romantizmus a realizmus?
+> Klasicizmus – typizovaná, nemenná postava. Romantizmus – výnimočný buričský
+> hrdina. Realizmus – typický predstaviteľ spoločenskej vrstvy.
+
+> [!question]- Aký typ postavy prináša naturizmus a medzivojnová próza?
+> Naturizmus – tajomná postava spätá s prírodou (Drak). Medzivojnová próza –
+> „človek – milión“ (Jozef Mak) a kolektívna postava (dedina v Živom biči).
+
+> [!question]- Ako stavia postavy socialistická literatúra?
+> Kladný hrdina proti negatívnej, majetníckej postave (Dva bratia).
+
+> [!question]- Aký je rozdiel medzi typom a charakterom?
+> Typ je zovšeobecnený vzor typický pre obdobie; charakter je jedinečná,
+> individualizovaná postava.
+
+> [!question]- Čo je antihrdina?
+> Postava v centre deja, ktorej chýbajú hrdinské vlastnosti alebo je pasívna.
+
+> [!question]- Prečo je Jozef Mak „človek – milión“?
+> Obyčajný, trpiaci, vytrvalý človek, ktorý zastupuje osud miliónov ľudí.
+
+> [!question]- Čo je symbolická postava?
+> Postava, ktorá okrem úlohy v deji zastupuje širší, všeobecný význam.

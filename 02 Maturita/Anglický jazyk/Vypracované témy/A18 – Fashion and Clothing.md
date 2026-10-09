@@ -111,3 +111,43 @@ As for my own attitude, I would not call myself a fashionable person. I like cas
 - [[A02 – Culture and the Arts]] — móda ako súčasť kultúry
 - [[A11 – Man and Nature]] — textilný priemysel a životné prostredie
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What does fashion mean to you?
+> Not much – I prefer clothes that are comfortable and practical, but I want
+> to look neat.
+
+> [!question]- How would you describe your own style of dressing?
+> Casual – jeans or chinos, T-shirts, hoodies and trainers.
+
+> [!question]- Do you think women pay more attention to fashion than men? Why?
+> Usually yes, partly because of tradition and advertising, but nowadays many
+> men care about fashion too.
+
+> [!question]- How has fashion changed over the last hundred years?
+> Clothes became more comfortable and casual, women started wearing trousers
+> and short skirts, and jeans became popular everywhere.
+
+> [!question]- What is in your wardrobe for winter and what for summer?
+> Winter: a coat, jumpers, a hat, gloves, boots. Summer: T-shirts, shorts,
+> sandals and a cap.
+
+> [!question]- What do you wear on formal occasions?
+> A suit, a shirt and tie and smart shoes – for example at the maturita or a
+> wedding.
+
+> [!question]- Do you prefer brand-name clothes or is the brand unimportant to you?
+> The quality matters more than the brand. Brands are often just more expensive.
+
+> [!question]- What do you think about school uniforms?
+> They remove differences between students and save time in the morning, but
+> they limit individuality.
+
+> [!question]- Do you think people judge others by the way they dress?
+> Yes, the first impression often depends on clothes, for example at a job
+> interview.
+
+> [!question]- What do you know about fast fashion and its impact on the environment?
+> Cheap clothes are produced quickly and thrown away soon. It wastes water and
+> energy, creates huge amounts of waste and workers are often badly paid.

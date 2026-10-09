@@ -87,3 +87,31 @@ Traja absolventi SPŠE Hálova sa rozhodnú založiť **s. r. o. na predaj a mon
 
 ## Súvisiace poznámky
 - [[E20 – Funkcie a znaky podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Aké základné znaky má s. r. o.?
+> Kapitálová spoločnosť, 1–50 spoločníkov, ZI min. 5 000 €, vklad min. 750 €,
+> spoločník ručí do výšky nesplateného vkladu, dodatok „s. r. o.“.
+
+> [!question]- Ako s. r. o. vzniká?
+> Založí sa spoločenskou zmluvou alebo zakladateľskou listinou, vzniká zápisom
+> do obchodného registra.
+
+> [!question]- Aké orgány má s. r. o.?
+> Valné zhromaždenie (najvyšší), konatelia (štatutárny, fyzické osoby),
+> dozorná rada (ak je zriadená).
+
+> [!question]- Ako ručí spoločnosť a ako spoločník?
+> Spoločnosť celým majetkom, spoločník len do výšky nesplateného vkladu.
+
+> [!question]- Aké sú výhody s. r. o.?
+> Obmedzené ručenie, môže ju založiť jedna osoba, nižšie ZI a menej
+> administratívy ako a. s., väčšia dôveryhodnosť ako živnosť.
+
+> [!question]- Aké sú nevýhody s. r. o.?
+> Povinné ZI, podvojné účtovníctvo, drahšie založenie ako živnosť, dvojité
+> zdanenie zisku, nemôže verejne vydávať akcie.
+
+> [!question]- Ako sa rozdelí zisk 10 000 € pri vkladoch 2 000, 1 500 a 1 500 €?
+> Podľa podielu splatených vkladov: 40 % → 4 000 €, 30 % → 3 000 €, 30 % → 3 000 €.

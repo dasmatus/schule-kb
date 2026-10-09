@@ -84,3 +84,27 @@ Postup pri posudzovaní, či subjekt spĺňa znaky podniku, možno zhrnúť do t
 - [[Podstata finančného hospodárenia podniku]]
 - [[Odbytové činnosti podniku]]
 - [[E17 – Spoločnosť s ručením obmedzeným]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je podnik podľa Obchodného zákonníka?
+> Súbor hmotných, osobných a nehmotných zložiek podnikania; samostatný
+> ekonomicko-právny subjekt, ktorý vyrába výrobky alebo poskytuje služby.
+
+> [!question]- Aké zložky tvoria podnik?
+> Hmotné (veci, majetkové práva), nehmotné (obchodné meno, povesť, postavenie
+> na trhu), osobná (pracovníci a ich kvalifikácia).
+
+> [!question]- Aké funkcie má podnik?
+> Ekonomickú (zásobovanie, výroba, odbyt) a mimoekonomickú (sociálna,
+> bezpečnostná, ochrana životného prostredia, kultúrno-vzdelávacia).
+
+> [!question]- Aké sú základné znaky podniku?
+> Ekonomická samostatnosť, právna subjektivita, prípadne majetková samostatnosť.
+
+> [!question]- Kedy podnik nadobúda právnu subjektivitu?
+> Zápisom do obchodného registra alebo získaním živnostenského oprávnenia.
+
+> [!question]- Ako sa delia podniky podľa veľkosti?
+> Malé (do 50 zamestnancov), stredné (51–500), veľké (nad 500). Firma s 80
+> zamestnancami je stredná.

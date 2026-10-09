@@ -62,6 +62,62 @@ Pre `192.168.10.0/24` a potreby 100, 50, 20 a 10 hostiteľov môže byť návrh:
 
 Zvyšný priestor `.240 – .255` ostáva na ďalšie zarovnané podsiete. Pri point-to-point linke môže byť podľa technológie vhodný aj `/31`; vždy treba zohľadniť pravidlá konkrétneho zariadenia.
 
+## Príklad vývojového diagramu – väčšie z dvoch čísel
+
+```mermaid
+flowchart TD
+    A([Začiatok]) --> B[/Načítaj a, b/]
+    B --> C{a > b ?}
+    C -- áno --> D[max = a]
+    C -- nie --> E[max = b]
+    D --> F[/Vypíš max/]
+    E --> F
+    F --> G([Koniec])
+```
+
+Rovnaký algoritmus v C#:
+
+```csharp
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int max = (a > b) ? a : b;
+Console.WriteLine(max);
+```
+
+Cyklus vo vývojovom diagrame sa kreslí ako rozhodnutie, z ktorého šípka
+vedie späť pred telo cyklu (napr. súčet čísel 1 až n: `i = 1`, `s = 0` →
+`i <= n?` → `s = s + i`, `i = i + 1` → späť na podmienku).
+
+Základné **algoritmické konštrukcie**: postupnosť (sekvencia), vetvenie
+(podmienka) a cyklus (opakovanie).
+
+## EtherChannel – režimy vyjednávania
+
+| Protokol | Režimy | Kanál vznikne pri |
+| --- | --- | --- |
+| **LACP** (IEEE 802.3ad, otvorený) | `active`, `passive` | active–active, active–passive |
+| **PAgP** (Cisco) | `desirable`, `auto` | desirable–desirable, desirable–auto |
+| bez protokolu | `on` | on–on |
+
+`passive–passive` ani `auto–auto` kanál nevytvorí – nikto nezačne vyjednávať.
+Do jedného kanála možno spojiť až **8 aktívnych** portov. Prevádzka sa
+rozdeľuje podľa MAC alebo IP adries (*load balancing*), jeden tok ide vždy
+jednou linkou.
+
+## Druhý príklad VLSM – s linkami medzi routermi
+
+Sieť `172.16.0.0/24`, potreby: LAN A 60 hostí, LAN B 28 hostí, 2 linky medzi routermi.
+
+| Podsieť | Hostí | Prefix | Sieť | Rozsah | Broadcast |
+| --- | --- | --- | --- | --- | --- |
+| LAN A | 60 | /26 | 172.16.0.0 | .1 – .62 | .63 |
+| LAN B | 28 | /27 | 172.16.0.64 | .65 – .94 | .95 |
+| linka R1–R2 | 2 | /30 | 172.16.0.96 | .97 – .98 | .99 |
+| linka R2–R3 | 2 | /30 | 172.16.0.100 | .101 – .102 | .103 |
+
+Postup: najprv najväčšia podsieť, ďalšia začína hneď za broadcastom
+predchádzajúcej. Linky medzi routermi dostávajú `/30` (2 použiteľné adresy).
+
 ## Krátka ústna odpoveď
 
 Algoritmus je konečný a jednoznačný postup; vo vývojovom diagrame ovál znamená začiatok/koniec, obdĺžnik činnosť, rovnobežník vstup/výstup a kosoštvorec rozhodnutie. Redundantné L2 linky vytvárajú slučky, preto ich riadi STP/RSTP. EtherChannel združuje porty do jedného logického kanála pomocou LACP alebo PAgP. VLSM prideľuje rôzne prefixy podľa počtu hostiteľov a bloky musia byť zarovnané a neprekrývať sa.
@@ -73,3 +129,36 @@ Algoritmus je konečný a jednoznačný postup; vo vývojovom diagrame ovál zna
 ## Pozri aj – CCNA3 ENSA
 
 - [[ENSA 11 – Návrh siete]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je algoritmus a aké má vlastnosti?
+> Konečný, jednoznačný postup z elementárnych krokov, ktorý pre vstup dá
+> výsledok. Vlastnosti: konečnosť, jednoznačnosť, hromadnosť, rezultatívnosť,
+> elementárnosť, efektívnosť.
+
+> [!question]- Aké značky má vývojový diagram?
+> Ovál – začiatok/koniec, obdĺžnik – spracovanie, rovnobežník – vstup/výstup,
+> kosoštvorec – rozhodnutie, šípky – tok, krúžok – spojka.
+
+> [!question]- Prečo je redundancia na L2 problém a ako sa rieši?
+> Vznikajú slučky: broadcastové búrky, nestabilná MAC tabuľka, duplicitné rámce.
+> Rieši sa STP/RSTP (blokovanie portov) alebo EtherChannel.
+
+> [!question]- Čo je EtherChannel a aké má výhody?
+> Spojenie viacerých fyzických liniek do jednej logickej. Väčšia šírka pásma,
+> redundancia, STP neblokuje jednotlivé linky, jednoduchšia konfigurácia.
+
+> [!question]- Ktoré kombinácie režimov LACP a PAgP vytvoria kanál?
+> LACP: active–active, active–passive. PAgP: desirable–desirable,
+> desirable–auto. Bez protokolu on–on.
+
+> [!question]- Čo musia mať porty v EtherChannel zhodné?
+> Rýchlosť, duplex, režim (access/trunk), VLAN, native VLAN a povolené VLAN.
+
+> [!question]- Opíš postup VLSM.
+> Zoradiť podsiete od najväčšej, každej zvoliť najmenší vyhovujúci prefix
+> (`2^h − 2 ≥ hostí`), prideľovať bloky za sebou bez prekrytia, nakoniec linky /30.
+
+> [!question]- Aký prefix zvolíš pre 50 hostí?
+> `/26` (62 hostí); `/27` má len 30.

@@ -91,3 +91,29 @@ Spisovná výslovnosť je kodifikovaná v Pravidlách slovenskej výslovnosti a 
 - [[Zvuková rovina jazyka]]
 - [[Zvuková rovina jazyka – prezentácia]]
 - [[Pracovný list – zvuková rovina (vypracovaný)]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je ortoepia a kde je kodifikovaná?
+> Náuka o spisovnej výslovnosti; Pravidlá slovenskej výslovnosti.
+
+> [!question]- Čo je splývavosť výslovnosti?
+> Hlásky na hraniciach slabík, slov aj viet sa vyslovujú plynulo a ovplyvňujú sa.
+
+> [!question]- Čo je spodobovanie a aké je v slovenčine?
+> Znelostná asimilácia – regresívna: predchádzajúca spoluhláska sa prispôsobí
+> znelosti nasledujúcej (prosba [prozba], mužský [mušský]).
+
+> [!question]- Kde sa uplatňuje spodobovanie?
+> Na hranici predpony a základu, základu a prípony, zložených slov, dvoch slov a
+> na konci slova pred prestávkou.
+
+> [!question]- Ako sa vyslovujú de, te, ne, le v domácich a cudzích slovách?
+> V domácich mäkko (teplo [ťeplo]), v cudzích tvrdo (telefón).
+
+> [!question]- Kedy sa vyslovuje ä?
+> Len po perných spoluhláskach b, m, p, v (mäso, päť).
+
+> [!question]- Kedy sa predložky s, z, v, k vokalizujú?
+> Pred rovnakou alebo príbuznou spoluhláskou alebo zhlukom spoluhlások (zo
+> stoličky, ku knižnici, so Samkom).

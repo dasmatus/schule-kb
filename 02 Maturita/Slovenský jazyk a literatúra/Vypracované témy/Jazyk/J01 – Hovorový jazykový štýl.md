@@ -71,3 +71,26 @@ Hovorový štýl je štýl bežnej, neoficiálnej a spontánnej [[komunikácia|k
 - [[J03 – Náučný jazykový štýl]]
 - [[J04 – Administratívny jazykový štýl]]
 - [[J05 – Publicistický jazykový štýl]]
+
+## Kontrolné otázky
+
+> [!question]- Aké funkčné štýly poznáš?
+> Hovorový, umelecký, náučný, administratívny, publicistický, rečnícky.
+
+> [!question]- Na čo slúži hovorový štýl a aké má funkcie?
+> Na bežnú neoficiálnu komunikáciu; funkcia dorozumievacia, kontaktová a expresívna.
+
+> [!question]- Aké sú znaky hovorového štýlu?
+> Neoficiálnosť, spontánnosť, situačnosť, dialogickosť, jednoduchá syntax a
+> elipsy, expresívna lexika, výplňové slová, kontaktové prostriedky.
+
+> [!question]- Aké útvary má hovorový štýl?
+> Hovorené: rozhovor, telefonát, debata, vtip. Písané: súkromný list, SMS,
+> chat, odkaz, blahoželanie.
+
+> [!question]- Je hovorový štýl spisovný?
+> Áno, je to štýl spisovného jazyka; len v obmedzenej miere pripúšťa hovorové
+> a slangové prvky.
+
+> [!question]- Je každý hovorený prejav hovorovým štýlom?
+> Nie – prednáška patrí do náučného, správa v rozhlase do publicistického štýlu.

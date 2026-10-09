@@ -77,3 +77,33 @@ Pri odpovedi je potrebné najprv zaradiť cenovú politiku do kontraktačnej pol
 - [[Odbytové činnosti podniku]]
 - [[E11 – Náklady a výnosy podniku]]
 - [[E14 – Trh, trhové subjekty a konkurencia]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je kontraktačná politika a z čoho sa skladá?
+> Obchodná politika v oblasti úhrad za výkony. Tvorí ju cenová politika a
+> politika ďalších obchodných podmienok.
+
+> [!question]- Aké metódy tvorby ceny poznáš?
+> Podľa nákladov (analytická, prirážková – náklady sú dolná hranica), podľa
+> dopytu (veľkosť a elasticita dopytu), podľa konkurencie (ceny konkurencie sú
+> horná hranica).
+
+> [!question]- Ako vypočítaš minimálnu cenu analytickou metódou?
+> Minimálna cena = FN : plánovaný objem + VN na kus. Napr. 3 000 : 200 + 380 =
+> 395 €.
+
+> [!question]- Aké druhy rabatov poznáš?
+> Množstvový (veľký odber), funkčný (obchodnému partnerovi), časový (akcie,
+> mimo sezóny), vernostný (stálym zákazníkom).
+
+> [!question]- Čo patrí do ďalších obchodných podmienok?
+> Rabaty, dodacie podmienky (doprava, vrátenie, záruka), platobné podmienky
+> (zľavy za rýchlu platbu) a financovanie dopytu.
+
+> [!question]- Ako môže podnik financovať dopyt zákazníkov?
+> Dodávateľský úver (odklad platby), faktoring, lízing, spotrebiteľský úver v
+> spolupráci s bankou.
+
+> [!question]- Vypočítaj cenu so 15 % prirážkou a 5 % rabatom z nákladov 395 €.
+> 395 × 1,15 = 454,25 €; po rabate 454,25 × 0,95 = 431,54 €.

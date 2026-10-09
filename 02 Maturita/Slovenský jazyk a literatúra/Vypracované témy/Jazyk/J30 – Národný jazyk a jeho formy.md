@@ -71,3 +71,26 @@ Národný jazyk zahŕňa všetky podoby jazyka národa – spisovnú, štandardn
 
 - [[J29 – Jazyk a reč – vývin, jazykové rodiny]]
 - [[J28 – Vývin slovenského jazyka v spisovnom období]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je národný jazyk?
+> Súhrn všetkých foriem jazyka národa – spisovnej, štandardnej, subštandardnej
+> aj nárečí.
+
+> [!question]- Čo je spisovná forma a kde je kodifikovaná?
+> Kultivovaná nadnárečová záväzná podoba; Pravidlá slovenského pravopisu,
+> Krátky slovník slovenského jazyka, Morfológia, Pravidlá slovenskej výslovnosti.
+
+> [!question]- Čo je štandardná forma?
+> Bežná kultivovaná reč vzdelaných ľudí, nie prísne kodifikovaná, ale
+> spoločensky akceptovaná.
+
+> [!question]- Čo patrí do subštandardnej formy?
+> Bežná mestská hovorená reč (interdialekt), slang, argot.
+
+> [!question]- Ako sa delia slovenské nárečia?
+> Západoslovenské, stredoslovenské, východoslovenské (a lokálne, prechodné).
+
+> [!question]- Sú nárečia „nesprávna“ slovenčina?
+> Nie, majú vlastný ustálený systém a sú plnohodnotnou súčasťou národného jazyka.

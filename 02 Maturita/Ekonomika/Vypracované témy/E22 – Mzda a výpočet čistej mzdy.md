@@ -109,3 +109,32 @@ Zamestnávateľ (IT firma) navyše z tejto hrubej mzdy odvádza vlastné poistn�
 
 - [[E21 – Pracovný pomer a pracovná zmluva]]
 - [[E26 – Priame a nepriame dane]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je mzda?
+> Odmena za prácu v pracovnom pomere – cena práce na trhu práce.
+
+> [!question]- Aký je rozdiel medzi nominálnou a reálnou mzdou?
+> Nominálna – suma v peniazoch. Reálna – množstvo tovarov a služieb, ktoré si
+> za ňu možno kúpiť (závisí od inflácie).
+
+> [!question]- Z čoho sa skladá hrubá mzda?
+> Základná mzda, doplnková mzda (odmeny, prémie), mzdové zvýhodnenia
+> (príplatky) a náhrady mzdy.
+
+> [!question]- Aké odvody platí zamestnanec?
+> Zdravotné 4 %, nemocenské 1,4 %, starobné 4 %, invalidné 3 %, v
+> nezamestnanosti 1 % – spolu 13,4 % (sadzby k roku 2025).
+
+> [!question]- Opíš postup výpočtu čistej mzdy.
+> Hrubá mzda − poistné = čiastkový základ dane; − nezdaniteľná časť = základ
+> dane; × 19 % = preddavok na daň; čistá mzda = hrubá − poistné − daň (+ bonus).
+
+> [!question]- Vypočítaj čistú mzdu z hrubej mzdy 1 000 €.
+> Poistné 134 €, ČZD 866 €, základ dane 386,52 €, daň 73,44 €, čistá mzda
+> 792,56 € (NČZD 479,48 € podľa cvičebnice).
+
+> [!question]- Prečo treba pri výpočte uviesť rok?
+> Sadzby poistného a nezdaniteľná časť (viazaná na životné minimum) sa menia
+> takmer každý rok.

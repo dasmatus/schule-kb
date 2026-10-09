@@ -66,3 +66,31 @@ Pri odpovedi je vhodné postupovať chronologicky: najprv vysvetliť podstatu pe
 - [[Finančný trh]]
 - [[Obchodné banky]]
 - [[Banková sústava]]
+
+## Kontrolné otázky
+
+> [!question]- Čo sú peniaze?
+> Všeobecný prostriedok výmeny pri nákupe a predaji tovarov a služieb.
+
+> [!question]- Opíš vývojové formy peňazí.
+> Barter → tovarové peniaze (dobytok, soľ, plátno) → drahé kovy (bimetalizmus,
+> monometalizmus) → papierové peniaze.
+
+> [!question]- Aké sú súčasné formy peňazí?
+> Bankovky a mince (hotovosť, emituje centrálna banka – ECB) a depozitné
+> (bankové) peniaze na účtoch, ktoré vytvárajú obchodné banky.
+
+> [!question]- Vymenuj funkcie peňazí.
+> Prostriedok výmeny, zúčtovacia jednotka (vyjadrenie ceny), nositeľ hodnoty
+> (uchovanie kúpnej sily).
+
+> [!question]- Prečo sa drahé kovy stali peniazmi?
+> Sú trvanlivé, deliteľné, ľahko skladovateľné a majú vysokú hodnotu v malom objeme.
+
+> [!question]- Aký je rozdiel medzi hotovostným a bezhotovostným platobným stykom?
+> Hotovostný – bankovky a mince, pomalší a nákladnejší. Bezhotovostný – prevod
+> z účtu na účet cez banku, rýchlejší a bezpečnejší.
+
+> [!question]- Kto reguluje množstvo peňazí v obehu?
+> Centrálna banka (v eurozóne ECB) – úrokovými sadzbami a povinnými minimálnymi
+> rezervami.

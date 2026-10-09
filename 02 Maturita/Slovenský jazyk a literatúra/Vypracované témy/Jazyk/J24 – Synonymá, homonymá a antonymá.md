@@ -89,3 +89,28 @@ Odpoveď treba postaviť na troch dvojiciach pojmov: [[synonymum|synonymá]] (po
 
 - [[J23 – Význam slova a jeho zložky]]
 - [[J21 – Frazeológia a lexikografia]]
+
+## Kontrolné otázky
+
+> [!question]- Čo sú synonymá a aké druhy poznáš?
+> Slová s podobným významom a inou formou. Úplné (jazykoveda – lingvistika) a
+> čiastočné (líšia sa odtienkom alebo štylisticky: ísť – kráčať – vliecť sa).
+
+> [!question]- Čo sú homonymá a aké druhy poznáš?
+> Slová s rovnakou formou a nesúvisiacim významom (list, kosa). Úplné homonymá,
+> homofóny (rovnaká výslovnosť), homografy (rovnaký zápis).
+
+> [!question]- Aké druhy antoným poznáš?
+> Kontrárne (veľký – malý, existuje stred), kontradiktórne (živý – mŕtvy),
+> konverzné (kúpiť – predať).
+
+> [!question]- Ako rozlíšiš homonymiu od polysémie?
+> Ak medzi významami vieme vysvetliť logickú súvislosť, je to polysémia; ak
+> nie, homonymia.
+
+> [!question]- Ako sa delia slová podľa štýlovej príslušnosti?
+> Neutrálne, knižné, hovorové, odborné, básnické, expresívne, slangové, nárečové.
+
+> [!question]- Prečo synonymá nie sú vždy zameniteľné?
+> Líšia sa jemným významovým odtienkom alebo štylistickým príznakom; výber
+> závisí od situácie.

@@ -66,3 +66,34 @@ Prvá svetová vojna vyvolala v literatúre hlbokú krízu hodnôt, ktorú najsi
 
 - [[Slovenská medzivojnová literatúra – kontext]]
 - [[Živý bič – čitateľský denník]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je stratená generácia?
+> Autori, ktorí prešli frontom 1. svetovej vojny a po nej sa nedokázali vrátiť
+> do civilného života; sklamaní a odcudzení (termín G. Steinovej, Hemingway).
+
+> [!question]- Aké sú znaky prózy stratenej generácie?
+> Autobiografickosť, vecný jazyk s expresívnymi pasážami, kontrast propagandy
+> a reality, kolektívny osud generácie, nezmierlivý koniec.
+
+> [!question]- Ako expresionizmus zobrazuje vojnu?
+> Hyperbolou, kontrastom, deformáciou, drastickými obrazmi a expresívnou lexikou.
+
+> [!question]- O čom je Na západe nič nové?
+> Paul Bäumer a jeho spolužiaci narukujú pod vplyvom učiteľa Kantoreka;
+> postupne na fronte umierajú, Paul padne v deň hlásenia „na západe nič nové“.
+
+> [!question]- Aký význam má názov románu?
+> Trpká irónia – smrť človeka je pre velenie bezvýznamná udalosť.
+
+> [!question]- Aký rozprávač je v diele a prečo?
+> Ich-forma (Paul Bäumer) – zvyšuje autentickosť a naliehavosť.
+
+> [!question]- Vymenuj ďalších autorov vojnovej prózy.
+> Hemingway (Zbohom, zbraniam), Barbusse (Oheň), Fitzgerald (Veľký Gatsby –
+> povojnové rozčarovanie).
+
+> [!question]- Aký je rozdiel medzi fabulou a sujetom?
+> Fabula – chronologický sled udalostí. Sujet – spôsob, akým ich autor
+> usporiadal v texte.

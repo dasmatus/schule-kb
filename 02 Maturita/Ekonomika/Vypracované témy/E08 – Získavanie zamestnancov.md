@@ -76,3 +76,34 @@ Získavanie zamestnancov využíva dva zdroje – interný (lacnejší, rýchlej
 
 - [[E21 – Pracovný pomer a pracovná zmluva]]
 - [[E22 – Mzda a výpočet čistej mzdy]]
+
+## Kontrolné otázky
+
+> [!question]- Aké zdroje uchádzačov o prácu poznáš?
+> Interné (vlastní zamestnanci – povýšenie, preradenie) a externé (absolventi,
+> nezamestnaní, zamestnanci iných firiem).
+
+> [!question]- Aké sú výhody a nevýhody interných zdrojov?
+> Výhody: nižšie náklady, rýchlosť, kariérny postup, motivácia. Nevýhody:
+> obmedzený výber, náklady na doškolenie, chýbajú nové pohľady zvonka.
+
+> [!question]- Aké sú výhody a nevýhody externých zdrojov?
+> Výhody: širší výber, skúsenosti a nápady z iných firiem. Nevýhody: vyššie
+> náklady, dlhší výber a adaptácia, riziko prenesených zlozvykov.
+
+> [!question]- Aké metódy získavania zamestnancov poznáš?
+> Inzercia, internetové portály, personálne agentúry a headhunting, vlastná
+> databáza, úrady práce, spolupráca so školami, veľtrhy, odporúčania,
+> personálny lízing.
+
+> [!question]- Čo je headhunting a personálny lízing?
+> Headhunting – cielené oslovovanie špičkových odborníkov z iných firiem.
+> Personálny lízing – agentúra dočasne pridelí svojich zamestnancov.
+
+> [!question]- Opíš postup výberu zamestnanca.
+> Analýza miesta → voľba zdroja → voľba metódy → zber životopisov → predvýber
+> → pohovor/testy → ponuka → pracovná zmluva.
+
+> [!question]- Aké podstatné náležitosti má pracovná zmluva?
+> Druh práce, miesto výkonu práce, deň nástupu, mzdové podmienky. Skúšobná
+> doba max. 3 mesiace (vedúci max. 6).

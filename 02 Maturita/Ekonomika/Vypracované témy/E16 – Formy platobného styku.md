@@ -98,3 +98,35 @@ Malý **e-shop s počítačovými komponentmi** v praxi využíva viacero foriem
 - [[Obchodné banky]]
 - [[Finančný trh]]
 - [[E18 – Bankový dohľad nad finančným trhom]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je platobný styk a kto sú jeho účastníci?
+> Prevod peňazí od platiteľa k príjemcovi pomocou platobných nástrojov.
+> Účastníci: platiteľ, príjemca, sprostredkujúca inštitúcia (banka, pošta).
+
+> [!question]- Ako sa člení platobný styk?
+> Podľa územia (tuzemský, medzinárodný), organizácie (hotovostný,
+> bezhotovostný, kombinovaný), technológie (tradičný, elektronický).
+
+> [!question]- Uveď príklad kombinovaného platobného styku.
+> Výber z bankomatu, dobierka (hotovosť kuriérovi, potom prevod na účet e-shopu).
+
+> [!question]- Aké nástroje elektronického bankovníctva poznáš?
+> Home banking, internet banking, e-mail banking, SMS banking, mobil (GSM)
+> banking, telefón banking.
+
+> [!question]- Aký je rozdiel medzi SMS bankingom a GSM bankingom?
+> SMS banking – klient iba prijíma informácie o účte. GSM banking – klient cez
+> mobil aj vykonáva operácie.
+
+> [!question]- Aký je rozdiel medzi debetnou a kreditnou kartou?
+> Debetná – čerpám vlastné peniaze z účtu. Kreditná – čerpám úverový rámec
+> banky s bezúročným obdobím 30–50 dní.
+
+> [!question]- Opíš platbu cez internet banking.
+> Prihlásenie → príkaz na úhradu (IBAN, suma, VS, dátum) → autorizácia →
+> banka odpíše sumu a prevedie ju banke príjemcu → pripísanie na účet.
+
+> [!question]- Aké sú výhody elektronického bankovníctva?
+> Dostupnosť 24/7 odkiaľkoľvek, aktívne aj pasívne operácie, nižšie poplatky.

@@ -107,3 +107,43 @@ As for me, I use services quite often. I go to the cinema and to the swimming po
 - [[A16 – Mass Media]] — reklama v médiách
 - [[A09 – Jobs and Employment]] — práca predavača a v službách
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Do you enjoy shopping, or do you consider it a waste of time?
+> I enjoy buying electronics or clothes I need, but I do not like walking
+> around shops for hours.
+
+> [!question]- What are the advantages of small specialised shops compared with supermarkets?
+> They offer expert advice, better quality and a personal approach, although
+> they are usually more expensive.
+
+> [!question]- Why are shopping malls so popular nowadays?
+> You find everything under one roof – shops, restaurants, cinema – and you
+> can spend the whole day there regardless of the weather.
+
+> [!question]- Do you shop online? What are the advantages and disadvantages?
+> Yes. It is fast, there is a huge choice and you can compare prices. But you
+> cannot try things on and there is a risk of fraud.
+
+> [!question]- How do you usually pay, and why?
+> Mostly by card or mobile phone. It is quick and I do not have to carry cash.
+
+> [!question]- What would you do if you bought something that turned out to be faulty?
+> I would take it back with the receipt and make a complaint. I can ask for a
+> repair, an exchange or a refund.
+
+> [!question]- Which services do you and your family use most often?
+> The post office, the bank, the hairdresser, car services and online delivery.
+
+> [!question]- How does advertising influence what people buy?
+> Adverts make us want things we do not need, they create trends and use
+> celebrities to make products look attractive.
+
+> [!question]- Should shops be open on Sundays? Give arguments for both sides.
+> For: it is convenient for people who work during the week. Against: shop
+> assistants deserve a day off with their families.
+
+> [!question]- Do you think people today buy far more than they really need?
+> Yes. Consumerism and cheap products make people buy and throw away too much,
+> which also harms the environment.

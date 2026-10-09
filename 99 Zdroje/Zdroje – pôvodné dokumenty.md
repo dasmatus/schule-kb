@@ -143,11 +143,12 @@ tags:
 
 ## Nové zdroje (5)
 
-Prvé dva majú poznámku, ostatné sú sylaby, duplikát a osobný dokument.
+Prvé tri majú poznámku, ostatné sú sylaby, duplikát a osobný dokument.
 
 | Súbor | Obsah |
 | --- | --- |
 | `Elektrická bezpečnosť.pdf` | [[Elektrická bezpečnosť a hardvér PC]] |
+| `Externe karty.pdf` | [[Pamäť, adaptérové karty a rozširujúce sloty]] |
 | `Historia pocitacov.pdf` | [[História počítačov]] |
 | `Okruhy maturitných tém TČOZ MS_Sylaby_odbor IST.pdf` | sylaby TČOZ, zdroj pre [[Zoznam tém – TČOZ]] |
 | `Odbytové činnosti podniku (1) (1).docx` | kópia zdroja poznámky [[Odbytové činnosti podniku]] |

@@ -93,3 +93,29 @@ Vety sa triedia z troch hľadísk: **podľa zloženia** (jednoduchá veta × sú
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Podľa akých hľadísk triedime vety?
+> Podľa zloženia, členitosti a obsahu (modálnosti).
+
+> [!question]- Ako sa delia vety podľa zloženia?
+> Jednoduchá veta, súvetie priraďovacie, podraďovacie a zložené (3 a viac viet).
+
+> [!question]- Aké priraďovacie pomery poznáš?
+> Zlučovací, stupňovací, odporovací, vylučovací, príčinný, dôsledkový.
+
+> [!question]- Aké vedľajšie vety poznáš?
+> Podmetová, prísudková, predmetová, prívlastková, doplnková, príslovkové
+> (miesta, času, spôsobu, príčiny, účelu, podmienky, prípustky, zreteľa).
+
+> [!question]- Ako sa delia vety podľa členitosti?
+> Dvojčlenné, jednočlenné slovesné (Prší.), jednočlenné neslovesné (Ticho.),
+> vetné ekvivalenty (Áno.).
+
+> [!question]- Ako sa delia vety podľa obsahu?
+> Oznamovacie, opytovacie (zisťovacie a doplňovacie), rozkazovacie, želacie, zvolacie.
+
+> [!question]- Čo je modálnosť a ako sa vyjadruje?
+> Postoj hovoriaceho k obsahu výpovede; slovesným spôsobom, modálnymi slovesami
+> (musieť, môcť) a intonáciou.

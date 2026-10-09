@@ -92,3 +92,33 @@ V odpovedi treba vyjsť z definície slova ako základnej lexikálnej jednotky a
 
 - [[J21 – Frazeológia a lexikografia]]
 - [[J24 – Synonymá, homonymá a antonymá]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je slovo a ktorá disciplína ho skúma?
+> Základná pomenovacia jednotka jazyka so zvukovou podobou a významom;
+> skúma ho lexikológia.
+
+> [!question]- Aký je rozdiel medzi lexikálnym a gramatickým významom?
+> Lexikálny – čo slovo pomenúva, nesie ho koreň. Gramatický – pád, číslo, rod,
+> čas…, vyjadrujú ho koncovky a prípony (dom-ami).
+
+> [!question]- Aký je rozdiel medzi jednovýznamovými a viacvýznamovými slovami?
+> Jednovýznamové majú jeden význam (termíny – podmet). Viacvýznamové majú viac
+> súvisiacich významov vzniknutých prenesením (hlava, koreň).
+
+> [!question]- Čo sú spisovné a nespisovné slová?
+> Spisovné patria do kodifikovanej normy. Nespisovné: nárečové, slangové,
+> argotické, hovorové (na hranici), vulgárne.
+
+> [!question]- Aký je rozdiel medzi metaforou a metonymiou?
+> Metafora – podobnosť (hlava klinca). Metonymia – reálna súvislosť (vypil pohár,
+> čítam Kukučína).
+
+> [!question]- Aké typy metonymie poznáš?
+> Nádoba za obsah, autor za dielo, miesto za ľudí, materiál za výrobok, časť za
+> celok (synekdocha).
+
+> [!question]- Aký je rozdiel medzi polysémiou a homonymiou?
+> Polysémia – významy jedného slova súvisia (koruna stromu, panovníka).
+> Homonymia – zhoda formy nesúvisiacich slov (zámok – stavba a na dverách).

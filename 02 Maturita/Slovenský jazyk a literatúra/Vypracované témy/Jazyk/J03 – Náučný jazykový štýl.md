@@ -73,3 +73,31 @@ Náučný štýl slúži na presné a objektívne sprostredkovanie odborných po
 - [[J01 – Hovorový jazykový štýl]]
 - [[J02 – Umelecký jazykový štýl]]
 - [[J04 – Administratívny jazykový štýl]]
+
+## Kontrolné otázky
+
+> [!question]- Na čo slúži náučný štýl?
+> Na presné, objektívne a logicky usporiadané sprostredkovanie poznatkov.
+
+> [!question]- Aké sú znaky náučného štýlu?
+> Objektívnosť, presnosť, terminológia, nocionálna lexika, neosobnosť (autorský
+> plurál, zvratné sa), kauzálnosť, konektory, tabuľky a grafy, prehľadné členenie.
+
+> [!question]- Aké podštýly má náučný štýl?
+> Vedecký, populárno-náučný, učebný (didaktický).
+
+> [!question]- Aké útvary patria do náučného štýlu?
+> Výklad, odborný opis, charakteristika, referát, prednáška, odborná recenzia,
+> slovníkové heslo.
+
+> [!question]- Aký je rozdiel medzi dedukciou a indukciou?
+> Dedukcia ide od všeobecného k jednotlivému, indukcia od jednotlivých prípadov
+> k všeobecnému záveru.
+
+> [!question]- Aké kauzálne vzťahy vyjadruje náučný text?
+> Príčinu, dôsledok, podmienku, prípustku, účel, spôsob, zreteľ – podraďovacími
+> spojkami (pretože, ak, hoci, aby).
+
+> [!question]- Aký je rozdiel medzi náučným štýlom a výkladovým postupom?
+> Náučný štýl je funkčný štýl, výklad je slohový postup, ktorý sa v ňom
+> najčastejšie uplatňuje.

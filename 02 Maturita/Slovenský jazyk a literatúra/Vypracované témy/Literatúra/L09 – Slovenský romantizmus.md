@@ -68,3 +68,32 @@ Slovenský romantizmus je neoddeliteľný od Štúrovej jazykovej [[kodifikácia
 
 - [[Reflexia filmu Štúr – verzia 1]]
 - [[Reflexia filmu Štúr – verzia 2]]
+
+## Kontrolné otázky
+
+> [!question]- Kedy sa rozvíja slovenský romantizmus a s kým sa spája?
+> 40. – 60. roky 19. storočia, Ľudovít Štúr a štúrovci.
+
+> [!question]- Čo urobil Štúr pre spisovný jazyk?
+> Roku 1843 kodifikoval spisovnú slovenčinu na základe stredoslovenčiny
+> (Nauka reči slovenskej).
+
+> [!question]- Čím sa slovenský romantizmus líši od svetového?
+> Je kolektivistický a národne angažovaný – hrdina koná v mene národa, nie z
+> osobnej vzbury.
+
+> [!question]- Vymenuj štúrovcov a ich diela.
+> S. Chalupka (Mor ho!), J. Botto (Smrť Jánošíkova), J. Kráľ (Zakliata panna
+> vo Váhu a divný Janko), A. Sládkovič (Marína, Detvan), J. Matúška (Nad
+> Tatrou sa blýska).
+
+> [!question]- O čom je Mor ho!?
+> Slovanskí poslovia odmietnu podrobiť sa rímskemu cárovi a padnú v nerovnom
+> boji; víťazstvo je mravné – sloboda je cennejšia než život.
+
+> [!question]- Kto je hrdina v Mor ho!?
+> Kolektívny, bezmenný – slovanskí bojovníci ako stelesnenie národa.
+
+> [!question]- Prečo štúrovci čerpali z ľudovej slovesnosti?
+> Štúr ju považoval za prameň národnej tvorby (O národných povestiach a
+> piesňach); preto balady, povesti, zbojnícka tematika a sylabický verš.

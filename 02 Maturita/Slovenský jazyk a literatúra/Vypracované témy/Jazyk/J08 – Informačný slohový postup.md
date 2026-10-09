@@ -74,3 +74,25 @@ Informačný [[slohový postup]] je vecný, stručný a objektívny spôsob poda
 ## Súvisiace poznámky
 
 - [[J05 – Publicistický jazykový štýl]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je informačný slohový postup?
+> Vecné, presné, stručné a objektívne podanie faktov; odpovedá na otázky kto,
+> čo, kde, kedy, ako.
+
+> [!question]- Aké sú znaky informačného postupu?
+> Objektívnosť, vecnosť, stručnosť, aktuálnosť, neutrálna lexika, obrátená
+> pyramída, jednoduché oznamovacie vety, trpný rod, overiteľnosť.
+
+> [!question]- Aké útvary patria k informačnému postupu?
+> Správa, oznam, inzerát, pozvánka, plagát, telegram/SMS, zápisnica, tlačová správa.
+
+> [!question]- Čím sa informačný postup líši od výkladového?
+> Fakty iba oznamuje, nevysvetľuje príčiny a súvislosti.
+
+> [!question]- Ktoré otázky musí zodpovedať pozvánka?
+> Čo, kde, kedy, kto organizuje, pre koho; plus výzva na účasť a program.
+
+> [!question]- Prečo sa v informačných textoch používa trpný rod?
+> Na neosobné, vecné vyjadrenie („koná sa“, „bolo oznámené“).

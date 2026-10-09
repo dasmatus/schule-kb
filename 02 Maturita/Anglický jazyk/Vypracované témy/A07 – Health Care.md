@@ -113,3 +113,45 @@ Some people also use alternative medicine, such as acupuncture, homeopathy or ar
 - [[A12 – Science and Technology]] — pokrok v medicíne
 - [[A15 – People and Society]] — dostupnosť zdravotnej starostlivosti
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What do you usually do when you catch a cold or the flu?
+> I stay at home, rest, drink a lot of tea and take medicine for fever. If it
+> does not get better, I go to the doctor.
+
+> [!question]- Describe a typical visit to the doctor's surgery.
+> You wait in the waiting room, then the doctor asks about your symptoms,
+> examines you, prescribes medicine and gives you a sick note if necessary.
+
+> [!question]- What are the most common civilisation diseases and what causes them?
+> Heart diseases, cancer, diabetes, obesity and stress. They are caused by
+> unhealthy food, lack of exercise, smoking and stress.
+
+> [!question]- What does a healthy lifestyle mean to you?
+> Eating well, exercising regularly, sleeping enough, not smoking and keeping
+> a balance between work and rest.
+
+> [!question]- Do you go for preventive medical check-ups? Why or why not?
+> Yes, I go to the GP and the dentist regularly. It is better to discover a
+> problem early.
+
+> [!question]- What is the difference between state and private health care?
+> State care is paid from health insurance and is available to everybody, but
+> waiting times can be long. Private care is faster and more comfortable, but you pay extra.
+
+> [!question]- What would you do if you saw somebody have an accident in the street?
+> I would call 112 or 155, check if the person is breathing and give first
+> aid if needed until the ambulance arrives.
+
+> [!question]- What do you think about alternative medicine?
+> Some methods like herbs or massage can help, but they should not replace
+> proper medical treatment.
+
+> [!question]- Why do so many young people start smoking, even though they know the risks?
+> Because of curiosity, peer pressure and wanting to look grown-up. Nowadays
+> many try e-cigarettes, which are also addictive.
+
+> [!question]- Should people who damage their own health pay more for treatment?
+> It is a difficult question. It seems fair, but it would be hard to decide who
+> is guilty, and everybody has a right to treatment.

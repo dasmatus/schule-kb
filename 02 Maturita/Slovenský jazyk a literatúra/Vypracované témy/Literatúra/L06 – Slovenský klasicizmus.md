@@ -80,3 +80,36 @@ Slovenský klasicizmus vznikol z potreby dokázať kultúrnu a jazykovú svojbyt
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aký je kontext slovenského klasicizmu?
+> Prelom 18. a 19. storočia, národné obrodenie; Slováci nemali štát ani
+> jednotný spisovný jazyk.
+
+> [!question]- Aké dva jazykové tábory existovali?
+> Bernolákovčina (katolíci, 1787, západoslovenčina) a bibličtina (evanjelici,
+> biblická čeština).
+
+> [!question]- Čo napísal Ján Hollý?
+> Eposy Svätopluk a Cyrillo-Metodiada, idyly Selanky; prekladal Vergília a
+> Homéra; najvýznamnejší básnik bernolákovcov.
+
+> [!question]- Čo je prvý slovenský román?
+> Bajzov René mláďenca príhody a skúsenosti.
+
+> [!question]- Opíš kompozíciu Slávy dcery.
+> Predspev (elegické distichon) a spevy pomenované podľa riek – Sála, Labe,
+> Dunaj (1824), neskôr Léthe a Acheron (1832, 615 sonetov).
+
+> [!question]- Aká je téma a hlavná myšlienka Slávy dcery?
+> Žiaľ nad úpadkom Slovanov spojený s láskou k Míne; výzva k slovanskej
+> vzájomnosti a jednote.
+
+> [!question]- Čo je slovanská vzájomnosť?
+> Kollárova myšlienka kultúrnej a literárnej spolupráce slovanských národov
+> ako cesty k ich záchrane.
+
+> [!question]- Aké znaky klasicizmu nájdeš u Hollého a Kollára?
+> Napodobňovanie antiky, časomerný verš, vysoké žánre (epos, óda), národne
+> významné témy.

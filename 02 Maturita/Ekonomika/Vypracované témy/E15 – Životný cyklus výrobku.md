@@ -62,3 +62,27 @@ Pri odpovedi treba najprv vysvetliť podstatu životného cyklu produktu ako obd
 
 - [[Odbytové činnosti podniku]]
 - [[E13 – Cenová politika podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je životný cyklus výrobku?
+> Obdobie od vývoja produktu po jeho stiahnutie z trhu; súčasť výrobkovej
+> politiky (product v 4P).
+
+> [!question]- Ako vyzerá graf životného cyklu?
+> Os x čas, os y obrat; krivka má tvar obráteného U – pomaly rastie, strmo
+> stúpa, dosiahne vrchol a klesne k nule.
+
+> [!question]- Vymenuj fázy životného cyklu.
+> Vývoj, uvedenie na trh, rast predaja, zrelosť, nasýtenosť, útlm.
+
+> [!question]- Čo sa deje so ziskom v jednotlivých fázach?
+> Vývoj – len náklady; uvedenie – strata alebo nula; rast – zisk rýchlo rastie;
+> zrelosť – začína klesať; nasýtenosť – klesá; útlm – prudko klesá.
+
+> [!question]- Čo je prah zisku a kde ho na grafe vyznačíš?
+> Bod, keď tržby prvýkrát pokryjú náklady; na konci fázy uvedenia na trh.
+
+> [!question]- Ako podnik reaguje vo fáze nasýtenosti a útlmu?
+> Znižuje ceny, dáva zľavy; v útlme výrobok stiahne z trhu alebo ho zásadne
+> inovuje.

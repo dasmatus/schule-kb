@@ -120,3 +120,45 @@ To sum up, technology has made communication faster and easier, but whether it h
 - [[A14 – Learning Languages]] — jazyk ako nástroj dorozumievania
 - [[A10 – Human Relationships]] — komunikácia vo vzťahoch
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What does communication actually mean?
+> Exchanging information, ideas and feelings between people using words,
+> writing, gestures or technology.
+
+> [!question]- In what situations do you communicate formally?
+> At school with teachers, at job interviews, at the doctor's or at an office,
+> and when writing official emails.
+
+> [!question]- What are the advantages and disadvantages of spoken communication?
+> It is quick, direct and you get immediate feedback. But words cannot be
+> taken back and you can misunderstand each other.
+
+> [!question]- Why do we sometimes prefer to write instead of speaking?
+> We have time to think, we can keep a record and it is easier to express
+> difficult feelings.
+
+> [!question]- How important is body language in a conversation?
+> Very important – gestures, facial expressions and eye contact often say more
+> than words.
+
+> [!question]- Can you think of gestures that mean different things in different countries?
+> In Bulgaria nodding can mean "no". The thumbs-up or the OK sign can be rude in
+> some countries.
+
+> [!question]- How do deaf and blind people communicate?
+> Deaf people use sign language and lip-reading; blind people use Braille,
+> screen readers and voice assistants.
+
+> [!question]- How has the mobile phone changed the way people communicate?
+> We are reachable all the time, we text more than we talk and we use
+> messaging apps and video calls.
+
+> [!question]- What are the biggest problems connected with communicating online?
+> Misunderstandings, cyberbullying, fake identities, addiction and less real
+> contact.
+
+> [!question]- Do you think social networks bring people together or keep them apart?
+> Both. They help you stay in touch with friends far away, but people
+> sometimes ignore those sitting next to them.

@@ -115,3 +115,43 @@ To conclude, the media are extremely useful, but we should use them consciously 
 - [[A25 – Role Models and Idols]] — pseudoidoly vytvárané médiami
 - [[A06 – Shopping and Services]] — reklama a jej vplyv na zákazníka
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Which kinds of mass media do you know and what are their functions?
+> Press, radio, television and the internet. They inform, educate, entertain
+> and influence public opinion.
+
+> [!question]- What is the difference between broadsheets and tabloids?
+> Broadsheets are serious newspapers with in-depth news. Tabloids focus on
+> scandals, celebrities and big headlines.
+
+> [!question]- Which medium do you personally use most, and why?
+> The internet, because it is fast, available everywhere and I can choose
+> what I want to read or watch.
+
+> [!question]- Do you read newspapers? Why or why not?
+> Not printed ones. I read news on websites and apps because it is quicker.
+
+> [!question]- What kinds of television programmes do you like and dislike?
+> I like documentaries, sports and films. I dislike reality shows and soap operas.
+
+> [!question]- How do the media influence public opinion?
+> They choose which topics to cover and how, so they can shape what people
+> think and even how they vote.
+
+> [!question]- What do you think about reality shows?
+> They are entertaining for some people, but most are fake and show bad
+> behaviour.
+
+> [!question]- What are the dangers of spending too much time on the internet?
+> Addiction, lack of sleep and exercise, cyberbullying, fake news and less real
+> contact with people.
+
+> [!question]- How can we recognise fake news?
+> Check the source and the author, compare with other serious media, look at
+> the date and be careful with shocking headlines.
+
+> [!question]- Should the media be free to publish anything they want?
+> Freedom of the press is essential for democracy, but the media must not
+> spread lies or hate.

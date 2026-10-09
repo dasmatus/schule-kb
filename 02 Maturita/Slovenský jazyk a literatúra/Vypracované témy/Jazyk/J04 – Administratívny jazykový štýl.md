@@ -65,3 +65,28 @@ Administratívny štýl slúži na záväznú, presnú a neosobnú komunikáciu 
 - [[J01 – Hovorový jazykový štýl]]
 - [[J03 – Náučný jazykový štýl]]
 - [[J05 – Publicistický jazykový štýl]]
+
+## Kontrolné otázky
+
+> [!question]- Na čo slúži administratívny štýl?
+> Na záväznú, presnú komunikáciu v úradnom, právnom a hospodárskom styku;
+> funkcia regulačná a informačná.
+
+> [!question]- Aké sú znaky administratívneho štýlu?
+> Vecnosť, strohosť, ustálené formulky, neosobnosť, terminológia, presné údaje,
+> predpísaná forma, grafické členenie.
+
+> [!question]- Uveď ustálené formulky administratívneho štýlu.
+> „Vec:“, „Dolupodpísaný žiada...“, „V zmysle zákona č. ...“, „S pozdravom“.
+
+> [!question]- Aké útvary patria do administratívneho štýlu?
+> Osobné: žiadosť, životopis, motivačný list, splnomocnenie, potvrdenie.
+> Úradné: zápisnica, zákon, zmluva, objednávka, faktúra, reklamácia.
+
+> [!question]- Aký je rozdiel medzi štruktúrovaným a beletrizovaným životopisom?
+> Štruktúrovaný (Europass) je administratívny útvar. Beletrizovaný má prvky
+> rozprávania, blíži sa k umeleckému štýlu.
+
+> [!question]- Čím sa líši administratívny štýl od náučného?
+> Oba sú vecné a neosobné, ale administratívny rieši konkrétny úradný úkon,
+> náučný sprostredkúva poznatky.

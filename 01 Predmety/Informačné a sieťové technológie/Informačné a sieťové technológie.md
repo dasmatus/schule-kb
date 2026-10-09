@@ -28,6 +28,7 @@ tags:
 - [[Pevné disky]] — *referát* · 2025
 - [[Základná doska]] — *referát* · 2025
 - [[Elektrická bezpečnosť a hardvér PC]] — *poznámky*
+- [[Pamäť, adaptérové karty a rozširujúce sloty]] — *poznámky*
 - [[História počítačov]] — *poznámky*
 - [[Cacheovanie a monitoring databázy]] — *prezentácia*
 - [[Packet Tracer – Physical View]] — *prezentácia*

@@ -101,3 +101,35 @@ Podstatné meno je ohybný, plnovýznamový slovný druh pomenúvajúci osoby, z
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Čo pomenúvajú podstatné mená?
+> Osoby, zvieratá, veci, vlastnosti, deje a stavy.
+
+> [!question]- Akú vetnú funkciu môžu mať podstatné mená?
+> Podmet, predmet, prívlastok (strecha domu), príslovkové určenie, menná časť
+> prísudku, doplnok.
+
+> [!question]- Aký je rozdiel medzi konkrétnymi a abstraktnými podstatnými menami?
+> Konkrétne pomenúvajú zmyslami vnímateľné javy (stôl), abstraktné vlastnosti,
+> deje a stavy (láska, rýchlosť).
+
+> [!question]- Čo sú hromadné, pomnožné a látkové podstatné mená?
+> Hromadné – množstvo ako celok, len jednotné číslo (lístie). Pomnožné – jeden
+> predmet, len množné číslo (dvere, nožnice). Látkové – nepočítateľná látka
+> (voda, múka).
+
+> [!question]- Aký je rozdiel medzi všeobecnými a vlastnými podstatnými menami?
+> Všeobecné pomenúvajú druh (mesto), vlastné jedinečný predmet, píšu sa s
+> veľkým písmenom (Bratislava).
+
+> [!question]- Aké gramatické kategórie a vzory majú podstatné mená?
+> Rod, číslo, pád (6). Vzory: chlap, hrdina, dub, stroj; žena, ulica, dlaň,
+> kosť, gazdiná; mesto, srdce, vysvedčenie, dievča.
+
+> [!question]- Čo je vokatív?
+> Historický 5. pád (oslovenie); dnes len skamenelé zvyšky (Bože, otče, priateľu).
+
+> [!question]- Urč kategórie slova „kvetov“ vo vete „kyticu kvetov“.
+> Mužský neživotný rod, množné číslo, genitív, vzor dub.

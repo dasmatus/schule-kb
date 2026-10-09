@@ -66,3 +66,34 @@ Pri tejto téme mám pripravenú tabuľku štyroch typov [[román|románu]] s je
 ## Súvisiace poznámky
 
 - [[Slovenská medzivojnová literatúra – kontext]]
+
+## Kontrolné otázky
+
+> [!question]- Aké sú znaky realizmu?
+> Objektivita, typizácia („typický hrdina v typických okolnostiach“),
+> determinizmus, kritika spoločnosti, presný opis, psychológia postáv,
+> vševediaci rozprávač.
+
+> [!question]- Vymenuj typy realistického románu s príkladmi.
+> Sociálny – Otec Goriot; psychologicko-filozofický – Zločin a trest;
+> spoločensko-psychologický – Anna Kareninová; historicko-spoločenský
+> (epopeja) – Vojna a mier.
+
+> [!question]- O čom je Otec Goriot?
+> Goriot obetuje majetok dcéram, ktoré ho opustia; Rastignac sa učí presadiť v
+> Paríži. Kritika spoločnosti, kde peniaze nahradili city (cyklus Ľudská komédia).
+
+> [!question]- Aká je hlavná myšlienka Zločinu a trestu?
+> Žiadna teória nedáva právo prekročiť mravný zákon; skutočný trest sú muky
+> svedomia.
+
+> [!question]- O čom je Anna Kareninová?
+> Anna opustí manželstvo kvôli Vronskému a doplatí na porušenie konvencií;
+> paralelne beží línia Ľevina a Kitty.
+
+> [!question]- Čo je románová epopeja?
+> Rozsiahla próza zobrazujúca dejinnú udalosť cez osudy mnohých rodín (Vojna a
+> mier – napoleonské vojny, Rostovovci, Bolkonskovci, Bezuchovovci).
+
+> [!question]- Čo je determinizmus v realizme?
+> Charakter človeka formuje prostredie, výchova a spoločenské postavenie.

@@ -91,3 +91,31 @@ Pri odpovedi treba vymenovať všetkých päť neohybných slovných druhov (pr�
 ## Súvisiace poznámky
 
 - [[J14 – Ohybné slovné druhy a gramatické kategórie]]
+
+## Kontrolné otázky
+
+> [!question]- Ktoré slovné druhy sú neohybné?
+> Príslovky, predložky, spojky, častice, citoslovcia.
+
+> [!question]- Ktorý neohybný slovný druh je plnovýznamový?
+> Príslovka – má lexikálny význam a je vetným členom (príslovkové určenie).
+
+> [!question]- Aké druhy prísloviek poznáš?
+> Miesta (tu, hore), času (dnes, často), spôsobu (pekne), príčiny (naschvál);
+> príslovky od akostných prídavných mien sa stupňujú.
+
+> [!question]- Aký je rozdiel medzi prvotnými a druhotnými predložkami?
+> Prvotné sú pôvodné (v, na, do, s, z), druhotné odvodené z iných slovných
+> druhov (počas, namiesto, vďaka, kvôli).
+
+> [!question]- Ako sa delia spojky?
+> Priraďovacie (zlučovací, stupňovací, odporovací, vylučovací, dôvodkový,
+> dôsledkový pomer) a podraďovacie (že, aby, keď, ak, hoci, pretože).
+
+> [!question]- Čo vyjadrujú častice a citoslovcia?
+> Častice – postoj hovoriaceho (azda, vraj, kiež, nech). Citoslovcia – city
+> (ach, fuj), zvuky (buch, mňau), výzvy (pst, hor sa).
+
+> [!question]- Ako je to so spojkou „lebo“?
+> Školská gramatika ju radí k priraďovacím spojkám dôvodkového pomeru; niektoré
+> príručky ju považujú za podraďovaciu (príčinnú).

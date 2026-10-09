@@ -95,3 +95,34 @@ Pri odpovedi treba vymenovať všetkých päť ohybných slovných druhov a pri 
 ## Súvisiace poznámky
 
 - [[J15 – Neohybné slovné druhy]]
+
+## Kontrolné otázky
+
+> [!question]- Ktoré slovné druhy sú ohybné?
+> Podstatné mená, prídavné mená, zámená, číslovky (skloňujú sa) a slovesá
+> (časujú sa).
+
+> [!question]- Aké gramatické kategórie majú podstatné mená?
+> Rod (mužský životný/neživotný, ženský, stredný), číslo, pád (6) a vzor (12).
+
+> [!question]- Vymenuj vzory podstatných mien.
+> Chlap, hrdina, dub, stroj; žena, ulica, dlaň, kosť; mesto, srdce,
+> vysvedčenie, dievča. Niektoré učebnice pridávajú ako 13. vzor *gazdiná*
+> (pozri [[J16 – Podstatné mená]]).
+
+> [!question]- Aké druhy prídavných mien poznáš a ako sa stupňujú?
+> Akostné, vzťahové, privlastňovacie. Akostné sa stupňujú: pekný – krajší –
+> najkrajší.
+
+> [!question]- Aké druhy zámen poznáš?
+> Osobné, privlastňovacie, ukazovacie, opytovacie, vzťažné, neurčité,
+> vymedzovacie, zvratné.
+
+> [!question]- Aké druhy čísloviek poznáš?
+> Základné, radové, násobné, skupinové, druhové, neurčité.
+
+> [!question]- Aké gramatické kategórie majú slovesá?
+> Osoba, číslo, čas, spôsob, slovesný rod, vid.
+
+> [!question]- Urč kategórie slovesa „kúpila“.
+> 3. osoba, jednotné číslo, minulý čas, oznamovací spôsob, činný rod, dokonavý vid.

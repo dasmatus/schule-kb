@@ -66,3 +66,36 @@ Humanizmus priniesol do literatúry človeka ako mieru všetkých vecí, [[Human
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aký je rozdiel medzi humanizmom a renesanciou?
+> Humanizmus je myšlienkový prúd (antropocentrizmus, človek a rozum v strede).
+> Renesancia je umelecký sloh, ktorý obnovuje antické ideály krásy.
+
+> [!question]- Aké sú znaky renesančnej literatúry?
+> Antropocentrizmus, návrat k antike, individualizmus, národné jazyky, radosť
+> zo života, kritika cirkvi, nové žánre (novela, sonet).
+
+> [!question]- O čom je Danteho Božská komédia?
+> Alegorická cesta peklom, očistcom a rajom ako cesta duše k spáse; písaná v
+> terzínach, na prahu stredoveku a renesancie.
+
+> [!question]- Čo je Dekameron?
+> Boccacciova rámcová zbierka sto noviel, ktoré si rozprávajú mladí ľudia
+> utekajúci pred morom z Florencie.
+
+> [!question]- Prečo je Don Quijote paródiou?
+> Zosmiešňuje rytierske romány – Quijotov idealizmus naráža na prozaický svet a
+> praktický pohľad Sancha Panzu.
+
+> [!question]- Aký konflikt rieši Hamlet?
+> Pomsta za otca zavraždeného Claudiom; konflikt medzi myslením a konaním,
+> povinnosťou a pochybnosťou („Byť či nebyť“).
+
+> [!question]- Čo je hamletovský typ hrdinu?
+> Intelektuál, vnútorne rozpoltený, váhavý, neschopný rozhodného činu.
+
+> [!question]- Čo je sonet a blankvers?
+> Sonet – 14 veršov (4+4+3+3 alebo 4+4+4+2). Blankvers – nerýmovaný jambický
+> pentameter alžbetínskej drámy.

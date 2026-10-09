@@ -78,3 +78,28 @@ Pri odpovedi treba najprv vymedziť životopis ako slohový útvar informačno-r
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Čo je životopis a aký slohový postup používa?
+> Útvar, ktorý chronologicky zachytáva podstatné fakty zo života; informačný
+> postup, pri voľných formách aj rozprávací.
+
+> [!question]- V akých štýloch sa životopis realizuje?
+> Administratívnom (CV), umeleckom (autobiografia, memoáre, denník),
+> publicistickom (medailón, nekrológ).
+
+> [!question]- Aké sú znaky štruktúrovaného životopisu?
+> Heslovitosť, rubriky, fakty a presné dátumy, neutrálny tón, často reverzná
+> chronológia (najnovšie hore), štandardizovaný formulár (Europass).
+
+> [!question]- Čím sa líši autobiografia od CV?
+> Autobiografia je subjektívna, v 1. osobe, súvislé rozprávanie s hodnotením a
+> umeleckými prostriedkami; CV je vecné a heslovité.
+
+> [!question]- Čo je medailón a nekrológ?
+> Medailón – predstavenie osobnosti pri jubileu. Nekrológ – správa o úmrtí so
+> stručným životopisom a zhodnotením.
+
+> [!question]- Aké údaje patria do štruktúrovaného životopisu?
+> Osobné údaje a kontakt, vzdelanie, pracovné skúsenosti, jazyky, zručnosti.

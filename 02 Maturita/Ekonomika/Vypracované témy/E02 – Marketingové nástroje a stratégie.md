@@ -88,3 +88,31 @@ Ak by takýto e-shop doteraz predával iba komponenty pre stolné počítače na
 
 - [[Odbytové činnosti podniku]]
 - [[E01 – Právne formy podnikania]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je marketing?
+> Podnikateľský spôsob myslenia, pri ktorom sú všetky rozhodnutia zamerané na
+> trh a zákazníka; cieľom je spokojný zákazník a úspešná firma.
+
+> [!question]- Čo je marketingový mix (4P)?
+> Product (výrobok), price (cena), place (distribúcia), promotion (propagácia).
+
+> [!question]- Čo patrí do zložky promotion?
+> Reklama, podpora predaja, osobný predaj, public relations a online marketing
+> (sociálne siete, SEO, PPC).
+
+> [!question]- Aké prístupy podniku k zákazníkovi poznáš?
+> Výrobný, výrobkový, predajný, marketingový („vyrábať predajné“), spoločenský.
+
+> [!question]- Vymenuj marketingové stratégie podľa výrobku a trhu.
+> Využitie trhu (starý/starý), rozšírenie trhu (starý výrobok/nový trh),
+> diferenciácia výrobkov (nový/starý), diverzifikácia (nový/nový).
+
+> [!question]- Ktorá stratégia je najrizikovejšia a prečo?
+> Diverzifikácia – nový výrobok na novom trhu, najnákladnejšia, krátkodobo
+> stratová, dlhodobo môže priniesť vysoký zisk.
+
+> [!question]- Opíš postup zostavenia marketingovej stratégie.
+> Prieskum trhu → segmentácia → targeting → positioning → marketingový mix →
+> realizácia a kontrola.

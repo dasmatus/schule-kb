@@ -90,3 +90,31 @@ Keďže firma musí zaplatiť dodávateľovi komponenty vopred, no od zákazník
 - [[Banková sústava]]
 - [[Finančný trh]]
 - [[E18 – Bankový dohľad nad finančným trhom]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je banka podľa zákona o bankách?
+> Akciová spoločnosť so sídlom v SR, ktorá prijíma vklady a poskytuje úvery a
+> má bankové povolenie.
+
+> [!question]- Aký je rozdiel medzi pasívnymi a aktívnymi operáciami?
+> Pasívne – banka prijíma zdroje, je dlžník, úrok je jej náklad. Aktívne –
+> banka požičiava, je veriteľ, úrok je jej výnos.
+
+> [!question]- Aké druhy vkladov poznáš?
+> Na požiadanie (bežné účty, najnižší úrok), úsporné (vkladné knižky,
+> stavebné sporenie), termínované (viazané na lehotu, vyšší úrok).
+
+> [!question]- Aké krátkodobé úvery poznáš?
+> Kontokorentný, eskontný, ručiteľský, lombardný, účelový (spotrebiteľský),
+> faktoringový.
+
+> [!question]- Čo je hypotekárny a lombardný úver?
+> Hypotekárny – dlhodobý na nehnuteľnosť, zabezpečený záložným právom k nej.
+> Lombardný – krátkodobý, zabezpečený zálohom hnuteľného majetku.
+
+> [!question]- Ako vypočítaš jednoduchý úrok?
+> Istina × sadzba × mesiace / 12; napr. 5 000 € × 0,08 × 3/12 = 100 €.
+
+> [!question]- Kto chráni vklady a do akej výšky?
+> Fond ochrany vkladov – 100 % vkladu, max. 100 000 € na vkladateľa v jednej banke.

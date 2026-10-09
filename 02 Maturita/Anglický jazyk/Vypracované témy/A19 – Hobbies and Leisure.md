@@ -112,3 +112,41 @@ As for me, my main interests are sport and computers. I play football with my fr
 - [[A02 – Culture and the Arts]] — kultúra vo voľnom čase
 - [[A24 – Books and Reading]] — čítanie ako záľuba
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Why do people practise hobbies?
+> To relax, have fun, meet people, learn new skills and forget about stress.
+
+> [!question]- What is the difference between active and passive leisure?
+> Active means doing something – sport, playing music, building things.
+> Passive means watching TV, scrolling or listening to music.
+
+> [!question]- Which hobbies are common among your friends?
+> Computer games, football, the gym, cycling, music and programming.
+
+> [!question]- Which hobbies did you have as a child, and have they changed?
+> I played with Lego and football. Now I build computers and work on my own IT
+> projects – Lego changed into technology.
+
+> [!question]- How do you spend a typical weekend?
+> I sleep longer, meet friends, do some sport, help at home and sometimes go on
+> a trip with my family.
+
+> [!question]- How do leisure activities differ between summer and winter?
+> In summer people swim, cycle and travel; in winter they ski, skate or stay
+> inside reading and watching films.
+
+> [!question]- What extracurricular activities does your school offer?
+> Clubs like robotics, programming, sports and preparation for competitions.
+
+> [!question]- Do you think men and women have different hobbies?
+> Sometimes, because of tradition, but today anybody can do any hobby.
+
+> [!question]- Are some hobbies too expensive to be fair to everybody?
+> Yes, for example skiing, horse riding or golf. But there are many cheap
+> hobbies too, like running or reading.
+
+> [!question]- Do people today have more or less free time than their grandparents did?
+> Officially more, because of shorter working hours, but we feel we have less
+> because we are always online and busy.

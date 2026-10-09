@@ -75,3 +75,30 @@ Slovenská dráma po roku 1945 sa rozvíja v dvoch líniách: vážna, komorná 
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aké dve línie má slovenská dráma po roku 1945?
+> Vážna morálno-filozofická dráma (Karvaš, Bukovčan) a ľudová, satirická a
+> kabaretná dráma (Štepka, Lasica a Satinský).
+
+> [!question]- O čom je Kým kohút nezaspieva?
+> V novembri 1944 je desať rukojemníkov zavretých v pivnici; do rána si musia
+> vybrať jedného, ktorý bude popravený.
+
+> [!question]- Aká je kompozícia a myšlienka Bukovčanovej hry?
+> Jednotné miesto (pivnica), krátky čas, gradácia cez dialóg; hraničná
+> situácia odhalí skutočnú povahu ľudí – otázka zodpovednosti.
+
+> [!question]- Ktoré hry napísal Peter Karvaš?
+> Polnočná omša, Antigona a tí druhí, Veľká parochňa, Absolútny zákaz.
+
+> [!question]- Čím je typické Radošinské naivné divadlo?
+> Štepkova ľudová, naivná dráma s folklórnym základom, jazykovou hravosťou a humorom.
+
+> [!question]- Aké sú fázy kompozície drámy?
+> Expozícia, kolízia, kríza, peripetia, katastrofa (rozuzlenie).
+
+> [!question]- Čo je tragikomédia a kabaret?
+> Tragikomédia spája vážne a komické prvky. Kabaret je hybrid drámy, poézie a
+> zábavy – krátke scény, slovná hra, kontakt s publikom.

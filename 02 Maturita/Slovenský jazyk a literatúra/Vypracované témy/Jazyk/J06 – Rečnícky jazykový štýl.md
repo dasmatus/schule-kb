@@ -82,3 +82,27 @@ Rečnícky štýl je štýlom živého, verejného a adresného prejavu, ktoréh
 - [[J01 – Hovorový jazykový štýl]]
 - [[J03 – Náučný jazykový štýl]]
 - [[J05 – Publicistický jazykový štýl]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je rečnícky štýl a akú má funkciu?
+> Štýl verejného ústneho prejavu; funkcia ovplyvňovacia, informačná, pri
+> slávnostiach aj estetická.
+
+> [!question]- Aké sú znaky rečníckeho štýlu?
+> Adresnosť, presvedčivosť, zrozumiteľná syntax, kompozícia úvod – jadro –
+> záver, citovosť a obraznosť, rečnícke figúry, prozódia, neverbálna zložka.
+
+> [!question]- Aké rečnícke figúry poznáš?
+> Rečnícka otázka, zvolanie, apostrofa, anafora, gradácia, antitéza, tricolon.
+
+> [!question]- Aké útvary má rečnícky štýl?
+> Slávnostný, príležitostný a smútočný prejav, agitačný prejav, prednáška,
+> kázeň, diskusný príspevok, obhajoba.
+
+> [!question]- Prečo má mať rečnícky prejav jednoduchšiu syntax?
+> Poslucháč ho vníma len sluchom a jedenkrát, zložité súvetia by nesledoval.
+
+> [!question]- Aké chyby treba v prejave vynechať?
+> Dlhé súvetia, nevysvetlené cudzie slová, chýbajúci kontakt s publikom,
+> nevhodné miešanie štýlových vrstiev.

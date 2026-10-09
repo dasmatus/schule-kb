@@ -53,6 +53,100 @@ Modifikátory určujú, odkiaľ možno pristupovať k triede alebo členom. V ja
 
 Používajú sa na zapuzdrenie: verejné rozhranie zostane malé a interná implementácia sa môže meniť bez rozbitia klienta.
 
+## DORA podrobnejšie
+
+| Správa | Od → komu | Typ | Porty |
+| --- | --- | --- | --- |
+| DHCPDISCOVER | klient → všetci | broadcast | UDP 68 → 67 |
+| DHCPOFFER | server → klient | unicast/broadcast | UDP 67 → 68 |
+| DHCPREQUEST | klient → všetci | broadcast (ostatné servery sa dozvedia, že ich ponuka neprešla) | UDP 68 → 67 |
+| DHCPACK | server → klient | unicast/broadcast | UDP 67 → 68 |
+
+**Obnovenie prenájmu:** v čase **T1 = 50 %** prenájmu klient pošle unicast
+Request svojmu serveru; v čase **T2 = 87,5 %** skúša broadcastom akýkoľvek
+server. Pri odmietnutí server pošle **DHCPNAK**, klient uvoľní adresu správou
+**DHCPRELEASE**.
+
+## Ďalšie príkazy
+
+```text
+! router ako DHCP klient (napr. smerom k ISP)
+interface g0/1
+ ip address dhcp
+ no shutdown
+!
+! relay na rozhraní siete bez DHCP servera
+interface g0/0
+ ip helper-address 192.168.10.5
+!
+! kontrola
+show ip dhcp binding
+show ip dhcp pool
+show ip dhcp conflict
+```
+
+Na Windows klientovi: `ipconfig /release`, `ipconfig /renew`, `ipconfig /all`.
+
+## DNS – hierarchia a preklad
+
+```text
+                 . (root)
+        ┌────────┼────────┐
+       sk       com      org        ← TLD
+        │        │
+     skola      google              ← doména 2. úrovne
+        │
+       www                          ← hostiteľ
+```
+
+Preklad `www.skola.sk`:
+
+1. PC sa spýta svojho DNS servera (resolvera) – **rekurzívny** dotaz.
+2. Resolver sa pýta **root** servera → odkáže ho na server **.sk**.
+3. Server .sk ho odkáže na autoritatívny server **skola.sk**.
+4. Ten vráti IP adresu; resolver ju uloží do **cache** (na dobu TTL) a pošle PC.
+
+Kroky 2–4 sú **iteratívne** dotazy. Overenie: `nslookup www.skola.sk`.
+
+| Záznam | Obsah |
+| --- | --- |
+| A | meno → IPv4 |
+| AAAA | meno → IPv6 |
+| CNAME | alias na iné meno |
+| MX | poštový server domény |
+| NS | autoritatívny server zóny |
+| PTR | IP → meno (spätný preklad) |
+
+## Modifikátory prístupu v C#
+
+| Modifikátor | Kto má prístup |
+| --- | --- |
+| `public` | ktokoľvek |
+| `private` | len trieda, v ktorej je člen deklarovaný |
+| `protected` | trieda a triedy z nej odvodené |
+| `internal` | celý projekt (assembly), ale nie iné projekty |
+
+Kombinácie: `protected internal` = projekt **alebo** odvodené triedy,
+`private protected` = odvodené triedy **len** v tom istom projekte.
+
+Predvolene sú **členy triedy `private`** a **trieda `internal`**.
+
+```csharp
+class DhcpPool
+{
+    private int obsadene;                 // vidí len táto trieda
+    protected string siet;                // aj odvodené triedy
+    public string Nazov { get; set; }     // všetci
+
+    public bool PridelAdresu()
+    {
+        if (obsadene >= 254) return false;
+        obsadene++;
+        return true;
+    }
+}
+```
+
 ## Krátka ústna odpoveď
 
 DHCP prideľuje adresu, masku, bránu, DNS a prenájom. Pri IPv4 prebieha DORA: Discover, Offer, Request, Acknowledge; server používa pool, výnimky, rezervácie a relay. DNS prekladá mená na adresy pomocou záznamov A, AAAA, CNAME a MX. DHCPv6 pracuje bez broadcastu a dopĺňa SLAAC. V OOP modifikátory `public`, `private`, `protected` a podľa jazyka `internal` riadia viditeľnosť členov.
@@ -60,3 +154,35 @@ DHCP prideľuje adresu, masku, bránu, DNS a prenájom. Pri IPv4 prebieha DORA: 
 ## Súvisiace poznámky (CCNA2)
 
 [[M07 – DHCPv4]] — rozcestník [[CCNA2 – SRWE]]
+
+## Kontrolné otázky
+
+> [!question]- Čo všetko prideľuje DHCP klientovi?
+> IP adresu, masku, predvolenú bránu, DNS server, dobu prenájmu, prípadne
+> doménové meno a ďalšie voľby.
+
+> [!question]- Opíš proces DORA.
+> Discover (klient hľadá server, broadcast), Offer (server ponúkne adresu),
+> Request (klient ponuku prijme), Acknowledge (server potvrdí).
+
+> [!question]- Ktoré porty používa DHCPv4?
+> UDP 67 server, UDP 68 klient.
+
+> [!question]- Na čo slúži ip helper-address?
+> Router funguje ako DHCP relay – preposiela broadcast Discover z inej siete
+> ako unicast na DHCP server.
+
+> [!question]- Ako nakonfiguruješ DHCP server na routeri Cisco?
+> `ip dhcp excluded-address` (vylúčené adresy), `ip dhcp pool MENO`,
+> `network`, `default-router`, `dns-server`, prípadne `lease`.
+
+> [!question]- Ako prebieha preklad mena v DNS?
+> Klient sa rekurzívne pýta resolvera, ten iteratívne root → TLD →
+> autoritatívny server, výsledok uloží do cache a vráti klientovi.
+
+> [!question]- Aké DNS záznamy poznáš?
+> A, AAAA, CNAME, MX, NS, PTR.
+
+> [!question]- Vysvetli modifikátory public, private a protected.
+> public – prístupné odkiaľkoľvek; private – len vo vnútri triedy; protected –
+> v triede a v odvodených triedach.

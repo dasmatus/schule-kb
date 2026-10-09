@@ -115,3 +115,44 @@ Finally, conflicts are a normal part of every relationship. What matters is how 
 - [[A15 – People and Society]] — menšiny, tolerancia a predsudky
 - [[A22 – Multicultural Society]] — vzťahy medzi kultúrami
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Why are relationships so important in our lives?
+> People are social beings. Relationships give us support, love and help, and
+> they make us happy.
+
+> [!question]- What kind of relationship do you have with your parents and your siblings?
+> A good one. I can talk to my parents about problems and I get on well with
+> my brother, although we sometimes argue.
+
+> [!question]- What qualities make somebody a real friend?
+> Loyalty, honesty, trust and being there when you need help.
+
+> [!question]- How do you look after your friendships?
+> I spend time with my friends, keep in touch online, help them and keep their
+> secrets.
+
+> [!question]- In what ways can people get to know each other?
+> At school or work, through hobbies and sports, through friends, at parties
+> or on social networks and dating apps.
+
+> [!question]- Which relationships require more formality and politeness?
+> Relationships with teachers, employers, doctors, officials and older people
+> we do not know well.
+
+> [!question]- What kind of relationship should there be between students and teachers?
+> Respectful and friendly, but with clear rules. A teacher should be fair and
+> students should be polite.
+
+> [!question]- Why do you think so many marriages end in divorce nowadays?
+> People get married too quickly, they do not communicate, and divorce is
+> socially more accepted than it used to be.
+
+> [!question]- How has the position of women in society changed?
+> Women can vote, study and have careers. But there are still problems, such
+> as lower salaries and the double burden of job and household.
+
+> [!question]- Are relationships more difficult today than they used to be? Why?
+> In some ways yes. People are busy, communicate mostly online and expect
+> perfection, but they also have more freedom to choose their partners.

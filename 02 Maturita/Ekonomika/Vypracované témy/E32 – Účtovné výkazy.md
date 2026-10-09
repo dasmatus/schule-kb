@@ -95,3 +95,27 @@ E-shop s počítačovými komponentmi žiada banku o **prevádzkový úver** na 
 - [[Podstata finančného hospodárenia podniku]]
 - [[Banková sústava]]
 - [[Zoznam tém – ekonomika]]
+
+## Kontrolné otázky
+
+> [!question]- Čo sú účtovné výkazy a čo tvoria spolu?
+> Prehľady majetkovej, finančnej a výsledkovej situácie podniku; spolu s
+> poznámkami tvoria účtovnú závierku (zákon 431/2002 Z. z.).
+
+> [!question]- Ktoré sú hlavné účtovné výkazy?
+> Súvaha, výkaz ziskov a strát, výkaz cash flow, výkaz o použití zisku.
+
+> [!question]- Čo zobrazuje súvaha a aká rovnica pre ňu platí?
+> Majetok (aktíva) a zdroje jeho krytia (pasíva) k určitému dátumu; aktíva =
+> pasíva.
+
+> [!question]- Aký je rozdiel medzi výkazom ziskov a strát a cash flow?
+> VZaS pracuje s nákladmi a výnosmi, cash flow so skutočnými príjmami a
+> výdavkami peňazí (odpisy sú náklad, ale nie výdavok).
+
+> [!question]- Na aké činnosti sa delí cash flow?
+> Prevádzkovú, investičnú a finančnú.
+
+> [!question]- Čo je finančné zdravie podniku?
+> Podnik má likviditu (platí záväzky včas) a rentabilitu (dosahuje zisk).
+> Inak je vo finančnej tiesni.

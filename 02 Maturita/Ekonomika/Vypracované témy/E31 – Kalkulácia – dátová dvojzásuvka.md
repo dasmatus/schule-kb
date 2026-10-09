@@ -126,3 +126,28 @@ IT firma zaoberajúca sa štruktúrovanou kabelážou pripravuje **cenovú ponuk
 - [[Odbytové činnosti podniku]]
 - [[Podstata finančného hospodárenia podniku]]
 - [[Zoznam tém – ekonomika]]
+
+## Kontrolné otázky
+
+> [!question]- Aký je rozdiel medzi priamymi a nepriamymi nákladmi zákazky?
+> Priame – presne priraditeľné (materiál, mzda montéra). Nepriame (réžia) –
+> doprava, náradie, odpisy meračov, administratíva, rozpočítajú sa prirážkou.
+
+> [!question]- Aký materiál treba na dátovú dvojzásuvku?
+> 2 keystone moduly RJ45 Cat6, rámček, podomietková krabica, UTP kábel, kryt,
+> drobný spojovací materiál.
+
+> [!question]- Vypočítaj cenu dvojzásuvky.
+> Materiál 20 € + montáž 15 € = 35 €; réžia 20 % = 7 € → 42 €; zisk 15 % = 6,30 €
+> → 48,30 € bez DPH; s DPH 23 % = 59,41 €.
+
+> [!question]- Ktorú metódu tvorby ceny použiješ a prečo?
+> Nákladovú prirážkovú – náklady na jednu zásuvku sa dajú presne vyčísliť.
+> Doplnkovo porovnám s cenami konkurencie.
+
+> [!question]- Prečo je analytická metóda nevhodná?
+> Zásuvka je jednorazová zákazka, nie sériová výroba so stálym objemom, z
+> ktorého by sa počítal nulový bod.
+
+> [!question]- Čo tvorí dolnú hranicu ceny?
+> Vlastné náklady – pod nimi by firma bola na zákazke v strate.

@@ -61,3 +61,33 @@ Svetový romantizmus reaguje na sklamanie z osvietenského rozumu obratom k citu
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Ako vzniká romantizmus?
+> Koniec 18. – polovica 19. storočia, ako reakcia na osvietenský racionalizmus
+> a klasicistické pravidlá, po sklamaní z Francúzskej revolúcie.
+
+> [!question]- Aké sú znaky romantizmu?
+> Cit a fantázia nad rozumom, výnimočný jedinec v rozpore so spoločnosťou,
+> záujem o históriu, folklór a exotiku, tajomné motívy, kontrasty, sloboda
+> tvorby, subjektivizácia.
+
+> [!question]- Kto je lord Byron a čo je byronský hrdina?
+> Anglický romantik (Childe Haroldova púť). Byronský hrdina je osamelý,
+> nepochopený, sklamaný a vzbúrený jedinec.
+
+> [!question]- Čo je princíp grotesknosti u V. Huga?
+> Spájanie vznešeného so škaredým; Quasimodo (škaredý, ale citlivý) v
+> Chráme Matky Božej v Paríži.
+
+> [!question]- Čím je významný E. A. Poe?
+> Zakladateľ hororovej poviedky a detektívky (Vraždy v Ulici Morgue), autor
+> Havrana, teória jednoty účinku.
+
+> [!question]- O čom je Kapitánova dcéra?
+> Peter Griňov počas Pugačovovho povstania ostane verný prísahe, zachráni Mášu;
+> Pugačov ho ušetrí za darovaný kožuch. Kontrast so zradcom Švabrinom.
+
+> [!question]- Akú formu rozprávania má Kapitánova dcéra?
+> Ich-forma, retrospektívne spomienky starého Griňova.

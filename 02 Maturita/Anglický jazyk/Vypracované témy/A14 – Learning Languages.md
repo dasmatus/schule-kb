@@ -108,3 +108,42 @@ As for me, I have been learning English since primary school, so it is about ten
 - [[A20 – Travelling]] — jazyk pri cestovaní
 - [[A22 – Multicultural Society]] — jazyky a kultúrna rozmanitosť
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What are your reasons for learning English?
+> It is the language of IT and the internet, I need it for my future job,
+> for studying and for travelling.
+
+> [!question]- What do you find most difficult about learning a foreign language?
+> Speaking fluently without mistakes and understanding native speakers who
+> talk fast.
+
+> [!question]- Why are some people afraid to speak a foreign language?
+> They are afraid of making mistakes and being laughed at.
+
+> [!question]- Which is more important — intelligence or motivation?
+> Motivation. A motivated person practises regularly and improves, even if
+> languages are not easy for them.
+
+> [!question]- What do you think is the best age to start learning a foreign language?
+> As early as possible – small children learn pronunciation naturally.
+
+> [!question]- Can you learn a language just by watching television in it?
+> It helps a lot with listening and vocabulary, but you also need to speak and
+> write.
+
+> [!question]- How do small children learn their mother tongue?
+> By listening and imitating their parents, repeating words and learning
+> through play.
+
+> [!question]- Do you know anybody who speaks two languages as a native?
+> Talk about a bilingual friend or relative, e.g. a child of a Slovak-Hungarian
+> or a mixed family abroad.
+
+> [!question]- What should a learner do to improve faster?
+> Use the language every day – watch films with subtitles, read, talk to
+> people, use apps and not be afraid of mistakes.
+
+> [!question]- What is the purpose of taking the maturita exam in English?
+> It proves your level (B1 or B2) and you need it for university or a job.

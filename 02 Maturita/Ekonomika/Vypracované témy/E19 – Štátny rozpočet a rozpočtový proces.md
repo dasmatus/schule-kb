@@ -88,3 +88,33 @@ Rozpočet je teda **schodkový (deficitný)** o 1 500 000 000 €. Tento schodok
 ## Súvisiace poznámky
 - [[Podstata finančného hospodárenia podniku]]
 - [[Banková sústava]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je štátny rozpočet?
+> Centralizovaný peňažný fond štátu – bilancia príjmov a výdavkov na
+> kalendárny rok.
+
+> [!question]- Aké sú príjmy štátneho rozpočtu?
+> Daňové (takmer 90 %), nedaňové (z majetku, clá, dary, úroky), príjmy zo
+> splácania úverov a predaja akcií.
+
+> [!question]- Aké sú výdavky štátneho rozpočtu?
+> Dotácie podnikom, verejná spotreba obyvateľstva (školstvo, kultúra) a štátu
+> (obrana, súdy), transfery domácnostiam a obciam.
+
+> [!question]- Opíš rozpočtový proces.
+> Návrh (MF SR, posudzuje vláda, schvaľuje parlament) → plnenie a kontrola
+> počas roka → záverečný účet (MF SR, schvaľuje parlament).
+
+> [!question]- Aké faktory ovplyvňujú štátny rozpočet?
+> Fáza hospodárskeho cyklu, nezamestnanosť a inflácia, daňové sadzby,
+> demografia, obrana a obsluha dlhu, členstvo v EÚ.
+
+> [!question]- Aký je vzťah medzi štátnym rozpočtom a daňami?
+> Dane tvoria takmer 90 % príjmov ŠR; výška sadzieb a ekonomická situácia
+> priamo určujú, koľko štát vyberie.
+
+> [!question]- Aký môže byť rozpočet podľa salda?
+> Prebytkový (príjmy > výdavky), schodkový (príjmy < výdavky, kryje sa
+> dlhopismi alebo úverom), vyrovnaný.
