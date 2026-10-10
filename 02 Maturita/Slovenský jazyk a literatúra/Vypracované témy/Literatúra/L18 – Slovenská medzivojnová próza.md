@@ -61,3 +61,34 @@ Slovenská medzivojnová próza sa profiluje ako sociálno-psychologický realiz
 - [[Živý bič – čitateľský denník]]
 - [[Jozef Mak – rozbor diela]]
 - [[Slovenská medzivojnová literatúra – kontext]]
+
+## Kontrolné otázky
+
+> [!question]- Aké prúdy má slovenská medzivojnová próza?
+> Naturalizmus a expresionizmus, naturizmus a sociálno-psychologický realizmus.
+
+> [!question]- Aké sú znaky sociálno-psychologickej prózy?
+> Sociálna rovina (bieda, dedina), psychologická hĺbka, expresionizmus,
+> lyrizácia, fatalizmus, retardácia.
+
+> [!question]- O čom je Živý bič?
+> Dosah 1. svetovej vojny na oravskú dedinu Ráztoky; Eva Hlavajová zneuctená
+> notárom sa utopí, Adam Hlavaj sa vracia ako zbeh a symbol vzbury.
+
+> [!question]- Čo je unanimizmus?
+> Kolektívny hrdina – celá dedina koná a cíti ako jedna duša.
+
+> [!question]- Aké postavy sú v Živom biči a čo symbolizujú?
+> Adam Hlavaj (vzbura), Eva (obeť), Ondrej Koreň (zmrzačený, ale mravne pevný),
+> notár Okolický (zlo moci), Štefan Ilčík (vzbura vojaka).
+
+> [!question]- Prečo je Jozef Mak „človek – milión“?
+> Je obyčajný, typizovaný človek, ktorý zastupuje osud slovenského ľudu.
+
+> [!question]- Aké postavy stoja v kontraste v Jozefovi Makovi?
+> Maruša (krásna, morálne upadá) a Jula (telesne postihnutá, vnútorne krásna,
+> obetavá).
+
+> [!question]- Čo je lyrizácia a polopriamy rozprávač?
+> Lyrizácia – básnické prostriedky v próze. Polopriamy rozprávač – reč
+> rozprávača sa prelína s vnútornou rečou postavy.

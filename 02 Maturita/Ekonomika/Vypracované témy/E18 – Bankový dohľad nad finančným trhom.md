@@ -80,3 +80,34 @@ Bankový dohľad má priamy dosah aj na IT sektor. IT spoločnosť, ktorá pre b
 - [[Obchodné banky]]
 - [[Finančný trh]]
 - [[E16 – Formy platobného styku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je bankový dohľad a kto ho vykonáva?
+> Kontrola činnosti bánk na zabezpečenie ich bezpečnosti, ochrany vkladateľov a
+> stability systému. Vykonáva ho NBS ako integrovaný orgán dohľadu nad celým
+> finančným trhom.
+
+> [!question]- Prečo je bankový dohľad potrebný?
+> Ochrana vkladateľov, dôvera v bankový systém, prevencia systémového rizika
+> (reťazový pád bánk).
+
+> [!question]- Aké formy dohľadu poznáš?
+> Na diaľku (off-site) – analýza povinných výkazov; na mieste (on-site) –
+> kontrola priamo v banke.
+
+> [!question]- Aké opatrenia môže NBS uložiť?
+> Upozornenie a nápravné opatrenia, pokutu, obmedzenie činností, nútenú
+> správu, odobratie bankového povolenia.
+
+> [!question]- Čo je nútená správa?
+> Najzávažnejšie opatrenie – pôsobnosť predstavenstva a dozornej rady prejde na
+> správcu menovaného NBS.
+
+> [!question]- Koľko vyplatí Fond ochrany vkladov?
+> Najviac 100 000 € na vkladateľa v jednej banke. Pri vklade 120 000 € dostane
+> klient 100 000 €, zvyšok uplatní v konkurze.
+
+> [!question]- Kto riadi NBS?
+> Banková rada, ktorej predsedá guvernér menovaný prezidentom na 6 rokov; NBS
+> je nezávislá od vlády.

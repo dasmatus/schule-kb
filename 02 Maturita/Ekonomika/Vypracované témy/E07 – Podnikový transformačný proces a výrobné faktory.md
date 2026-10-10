@@ -77,3 +77,28 @@ Podnik funguje ako transformačný systém, ktorý premieňa vstupy na výstupy 
 - [[E04 – Dlhodobý a krátkodobý majetok]]
 - [[E05 – Opotrebenie a odpisovanie majetku]]
 - [[Odbytové činnosti podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je podnikový transformačný proces?
+> Súbor činností, ktorými podnik premieňa vstupy (výrobné faktory) na výstupy
+> (výrobky a služby): vstupy → výroba → výstupy → odbyt.
+
+> [!question]- Aké fázy má transformačný proces?
+> Zásobovacia činnosť (nákup), vlastná výroba, odbytová činnosť (predaj).
+
+> [!question]- Vymenuj výrobné faktory a ich odmeny.
+> Práca – mzda, pôda/prírodné zdroje – renta, kapitál – úrok, podnikateľské
+> schopnosti – zisk.
+
+> [!question]- Aký je rozdiel medzi hmotným a finančným kapitálom?
+> Hmotný – stroje, budovy, technológie (dlhodobý majetok). Finančný – peniaze a
+> cenné papiere na obstaranie ostatných zložiek majetku.
+
+> [!question]- Ako sa v transformačnom procese správa dlhodobý a krátkodobý majetok?
+> Dlhodobý pôsobí opakovane a postupne sa opotrebúva, krátkodobý sa v jednom
+> cykle spotrebuje a celý prejde do výrobku.
+
+> [!question]- Ako sa posudzuje efektívnosť transformačného procesu?
+> Pomerom výstupov k vstupom (produktivita) – čím menej faktorov na jednotku
+> výstupu, tým efektívnejšie.

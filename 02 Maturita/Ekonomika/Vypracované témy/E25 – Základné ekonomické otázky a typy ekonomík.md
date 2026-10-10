@@ -72,3 +72,26 @@ Výrobca počítačových zostáv na Slovensku pôsobí v podmienkach **[[Zmieš
 - [[E28 – Úloha štátu v trhovej ekonomike]]
 - [[E14 – Trh, trhové subjekty a konkurencia]]
 - [[Ekonomika]]
+
+## Kontrolné otázky
+
+> [!question]- Aké sú tri základné ekonomické otázky?
+> Čo vyrábať, ako vyrábať a pre koho vyrábať.
+
+> [!question]- Prečo musí každá spoločnosť tieto otázky riešiť?
+> Zdroje (pôda, práca, kapitál) sú vzácne a potreby neobmedzené.
+
+> [!question]- Kto rozhoduje o otázkach v trhovej ekonomike?
+> Čo – dopyt spotrebiteľov, ako – konkurencia výrobcov, pre koho – trh
+> (dôchodky a ceny).
+
+> [!question]- Aké typy ekonomík poznáš?
+> Tradičná, príkazová (centrálne riadená), trhová, zmiešaná.
+
+> [!question]- Aké nevýhody má príkazová ekonomika?
+> Neefektívne využitie zdrojov, niektoré tovary chýbajú a iné sa hromadia,
+> monopol výrobcov.
+
+> [!question]- Čo je zmiešaná ekonomika?
+> Trhový mechanizmus doplnený zásahmi štátu (pravidlá, ochrana spotrebiteľa,
+> riešenie nezamestnanosti); funguje v nej aj Slovensko.

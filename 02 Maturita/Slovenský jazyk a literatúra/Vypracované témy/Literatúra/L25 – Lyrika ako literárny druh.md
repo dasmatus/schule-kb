@@ -85,3 +85,34 @@ Lyrika je literárny druh založený na subjektívnom vyjadrení citov a myšlie
 
 - [[Rozbor textov – nadradený motív]] (analýza voľného verša a kaligramu)
 - [[Slovenská medzivojnová poézia]] ([[veršový systém]] a rým v konkrétnych básňach)
+
+## Kontrolné otázky
+
+> [!question]- Čím sa lyrika líši od epiky a drámy?
+> Nemá rozvinutý dej ani rozprávača, nie je určená na javisko; subjektívne
+> vyjadruje city a myšlienky lyrického subjektu.
+
+> [!question]- Čo je lyrický subjekt?
+> Fiktívny „hovoriaci“ v básni, cez ktorého sa vyjadrujú city; netreba ho
+> stotožňovať s autorom.
+
+> [!question]- Aké typy lyriky poznáš?
+> Osobná (intímna), prírodná, ľúbostná, reflexívna, spoločenská, duchovná.
+
+> [!question]- Vymenuj žánre lyriky.
+> Óda, hymna, elégia, pieseň, sonet, epigram, žalm.
+
+> [!question]- Aké veršové systémy poznáš?
+> Sylabický, sylabotonický, tonický, voľný verš.
+
+> [!question]- Aké typy rýmu poznáš?
+> Združený (aabb), striedavý (abab), obkročný (abba), prerývaný; bez rýmu je
+> biely verš.
+
+> [!question]- Vysvetli metaforu, metonymiu, personifikáciu a epiteton.
+> Metafora – prenesenie na základe podobnosti; metonymia – na základe vecnej
+> súvislosti; personifikácia – zosobnenie; epiteton – básnický prívlastok.
+
+> [!question]- Čo je anafora, apostrofa a litotes?
+> Anafora – opakovanie slova na začiatku veršov; apostrofa – oslovenie
+> neprítomného; litotes – zmiernenie dvojitým záporom.

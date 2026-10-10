@@ -71,3 +71,30 @@ Pri odpovedi treba vysvetliť ortografiu ako disciplínu o pravopisnej norme kod
 
 - [[Zvuková rovina jazyka]]
 - [[Pracovný list – zvuková rovina (vypracovaný)]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je ortografia a čím sa líši od ortoepie?
+> Ortografia je pravopisná norma (Pravidlá slovenského pravopisu), ortoepia
+> norma výslovnosti.
+
+> [!question]- Aké princípy má slovenský pravopis?
+> Fonematický, morfologický, etymologický, gramatický.
+
+> [!question]- Vysvetli morfologický princíp na príklade.
+> Dub sa vyslovuje [dup], ale píše sa s „b“, lebo v iných tvaroch (duba) znie b
+> – zachováva sa jednotná podoba koreňa.
+
+> [!question]- Vysvetli etymologický princíp na príklade.
+> Vír a výr sa vyslovujú rovnako, píšu sa rozdielne podľa pôvodu (i/y po
+> obojakých spoluhláskach).
+
+> [!question]- Vysvetli gramatický princíp na príklade.
+> Vysokí chlapci (mužský životný, -í) oproti vysoké stromy, vysoké dievčatá (-é).
+
+> [!question]- Čo je rytmické krátenie?
+> Po dlhej slabike nenasleduje ďalšia dlhá (múdrych, nie múdrých); má výnimky.
+
+> [!question]- Kde sa najčastejšie robia pravopisné chyby?
+> I/y po obojakých spoluhláskach, veľké písmená, interpunkcia, rytmické
+> krátenie, zdvojené spoluhlásky, predpony a predložky s/so, z/zo.

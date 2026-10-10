@@ -70,3 +70,29 @@ V odpovedi treba najprv rozlíšiť typy konfliktu podľa toho, kto proti komu s
 - [[Dva bratia – rozbor diela]]
 - [[Drak sa vracia – rozbor diela]]
 - [[Živý bič – čitateľský denník]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je literárny konflikt?
+> Stret protikladných záujmov, hodnôt alebo síl – hybná sila deja.
+
+> [!question]- Aké typy konfliktu poznáš?
+> Intrapersonálny (vnútorný), interpersonálny (medzi postavami), sociálny
+> (jednotlivec proti spoločnosti).
+
+> [!question]- Aký je rozdiel medzi harmonickým a neharmonickým riešením?
+> Harmonické – zmierenie, náprava, kompromis. Neharmonické – rozchod, tragédia,
+> smrť, bez zmierenia.
+
+> [!question]- O čom je novela Dva bratia?
+> Vendel z chamtivosti bojuje s bratom Jozefom o majetok, odmietne zaplatiť
+> lekára dieťaťu, pokúsi sa podpáliť statok; Jozef odchádza bez zmierenia.
+
+> [!question]- Ako je riešený konflikt v Drak sa vracia?
+> Harmonicky – Eva sa vnútorne zmieri a pochopí, že čakala na Šimona.
+
+> [!question]- Aké fázy prechádza konflikt v kompozícii?
+> Expozícia, kolízia (zápletka), kríza, peripetia, rozuzlenie.
+
+> [!question]- Čo je protagonista a antagonista?
+> Nositelia opačných strán konfliktu (Jozef a Vendel).

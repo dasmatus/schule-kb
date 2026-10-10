@@ -74,3 +74,28 @@ Týmto spôsobom trh bez centrálneho plánovania sám rozhoduje, koľko ktorýc
 - [[E28 – Úloha štátu v trhovej ekonomike]]
 - [[E14 – Trh, trhové subjekty a konkurencia]]
 - [[Odbytové činnosti podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je trhový mechanizmus?
+> Vzájomné pôsobenie dopytu a ponuky, ktorého výsledkom je trhová cena;
+> základný regulátor trhovej ekonomiky.
+
+> [!question]- Aké podmienky treba na vznik trhového hospodárstva?
+> Spoločenská deľba práce, samostatní výrobcovia, súkromné vlastníctvo.
+
+> [!question]- Čo je dopyt a ponuka a ako závisia od ceny?
+> Dopyt – množstvo, ktoré spotrebitelia chcú a môžu kúpiť; s rastom ceny klesá.
+> Ponuka – množstvo, ktoré výrobcovia chcú predať; s rastom ceny rastie.
+
+> [!question]- Ako vzniká rovnovážna cena?
+> V priesečníku kriviek dopytu a ponuky. Vyššia cena → prebytok → tlak na
+> pokles; nižšia cena → nedostatok → tlak na rast.
+
+> [!question]- Aké funkcie plní cena?
+> Informačnú (signál, čo sa oplatí vyrábať a kupovať) a alokačnú (rozdeľuje
+> vzácne zdroje).
+
+> [!question]- Akú úlohu má konkurencia v trhovom mechanizme?
+> Núti výrobcov k efektivite, rozhoduje, ako vyrábať – drahších a horších
+> vytlačí z trhu.

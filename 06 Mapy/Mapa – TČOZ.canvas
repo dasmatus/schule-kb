@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"root","type":"text","text":"# TČOZ — IST\n25 odborných maturitných okruhov","x":-480,"y":310,"width":320,"height":110,"color":"4"},
+		{"id":"index","type":"file","file":"02 Maturita/TČOZ/Zoznam tém – TČOZ.md","x":0,"y":-20,"width":320,"height":60,"color":"4"},
+		{"id":"net","type":"file","file":"01 Predmety/Informačné a sieťové technológie/TČOZ/Počítačové siete – TČOZ.md","x":0,"y":90,"width":320,"height":60,"color":"6"},
+		{"id":"program","type":"file","file":"01 Predmety/Informačné a sieťové technológie/TČOZ/Programovanie – TČOZ.md","x":0,"y":200,"width":320,"height":60,"color":"5"},
+		{"id":"hardware","type":"file","file":"01 Predmety/Informačné a sieťové technológie/TČOZ/Hardvér a IoT – TČOZ.md","x":0,"y":310,"width":320,"height":60,"color":"3"},
+		{"id":"electronics","type":"file","file":"01 Predmety/Elektrotechnické merania/TČOZ/Elektronika a obvody – TČOZ.md","x":0,"y":420,"width":320,"height":60,"color":"1"},
+		{"id":"economics","type":"file","file":"02 Maturita/Ekonomika/Zoznam tém – ekonomika.md","x":0,"y":530,"width":320,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"e-index","fromNode":"root","fromSide":"right","toNode":"index","toSide":"left"},
+		{"id":"e-net","fromNode":"root","fromSide":"right","toNode":"net","toSide":"left"},
+		{"id":"e-program","fromNode":"root","fromSide":"right","toNode":"program","toSide":"left"},
+		{"id":"e-hardware","fromNode":"root","fromSide":"right","toNode":"hardware","toSide":"left"},
+		{"id":"e-electronics","fromNode":"root","fromSide":"right","toNode":"electronics","toSide":"left"},
+		{"id":"e-economics","fromNode":"root","fromSide":"right","toNode":"economics","toSide":"left"}
+	]
+}

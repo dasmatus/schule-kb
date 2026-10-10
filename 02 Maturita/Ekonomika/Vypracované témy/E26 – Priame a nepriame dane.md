@@ -103,3 +103,32 @@ Z pohľadu firmy je dôležité, že [[Priama daň|priame dane]] znižujú jej v
 ## Súvisiace poznámky
 
 - [[Podstata finančného hospodárenia podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je daň?
+> Povinná, zákonom stanovená, neúčelová a nenávratná platba FO a PO štátu
+> alebo samospráve.
+
+> [!question]- Ako sa členia dane?
+> Podľa objektu (z príjmov, z majetku, zo spotreby), podľa subjektu (FO, PO),
+> podľa dopadu (priame, nepriame).
+
+> [!question]- Aký je rozdiel medzi priamou a nepriamou daňou?
+> Priamu platí a znáša tá istá osoba, daňovník je známy (daň z príjmov).
+> Nepriamu odvádza podnikateľ, ale znáša ju spotrebiteľ v cene (DPH).
+
+> [!question]- Uveď príklady priamych daní.
+> Daň z príjmov FO a PO, miestne dane – daň z nehnuteľností, za psa, za
+> ubytovanie, za užívanie verejného priestranstva.
+
+> [!question]- Uveď príklady nepriamych daní.
+> DPH (univerzálna) a spotrebné dane z piva, vína, liehu, tabaku a minerálneho
+> oleja (selektívne).
+
+> [!question]- Vypočítaj cenu s DPH pre zostavu za 800 € bez DPH.
+> DPH 23 % = 184 €, cena s DPH 984 €.
+
+> [!question]- Aký je vzťah medzi daňami a štátnym rozpočtom?
+> Dane tvoria asi 90 % príjmov ŠR; potreby rozpočtu ovplyvňujú výšku daňového
+> zaťaženia.

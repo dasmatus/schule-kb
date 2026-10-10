@@ -118,3 +118,45 @@ Both countries share an indigenous heritage that is now much more respected than
 - [[A11 – Man and Nature]] — Veľká bariérová útesová sústava a klimatická zmena
 - [[A22 – Multicultural Society]] — pôvodní obyvatelia a ich postavenie
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Why is Australia unusual from a geographical point of view?
+> It is a country and a continent at the same time, mostly flat and dry, and
+> isolated from other continents.
+
+> [!question]- Where do most Australians live, and why?
+> On the south-east and east coast, in cities like Sydney and Melbourne,
+> because the interior is too hot and dry.
+
+> [!question]- What is the Outback?
+> The huge, dry, sparsely populated interior of Australia.
+
+> [!question]- Why is Australian wildlife so different from wildlife elsewhere?
+> Australia was isolated for millions of years, so unique animals evolved
+> there, like marsupials – kangaroos and koalas – and the platypus.
+
+> [!question]- What do you know about the Great Barrier Reef and the threats to it?
+> It is the largest coral reef in the world, off the coast of Queensland. It is
+> threatened by rising sea temperatures, which cause coral bleaching, and by pollution.
+
+> [!question]- Which Australian landmarks can you name?
+> The Sydney Opera House, Sydney Harbour Bridge, Uluru (Ayers Rock) and the
+> Great Barrier Reef.
+
+> [!question]- How is New Zealand different from Australia?
+> New Zealand is much smaller, consists of two main islands, is greener and
+> more mountainous, and has volcanoes and glaciers.
+
+> [!question]- What is New Zealand famous for?
+> Beautiful nature, the Lord of the Rings films, the kiwi bird, sheep, rugby and
+> Māori culture.
+
+> [!question]- What do you know about the Aborigines and the Māori?
+> Aborigines are the original inhabitants of Australia, living there for tens
+> of thousands of years. The Māori are the native people of New Zealand. Both
+> suffered under colonisation.
+
+> [!question]- Which of the two countries would you rather visit, and why?
+> Choose one and explain – e.g. New Zealand for its mountains and nature, or
+> Australia for its cities, beaches and wildlife.

@@ -120,3 +120,47 @@ In my opinion, a good teacher should be an expert in the subject, but also patie
 - [[A17 – Young People]] — život študenta
 - [[A26 – The United Kingdom]] — britský školský systém v kontexte reálií
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Describe your school and your classroom.
+> I attend a secondary technical school of electrical engineering in
+> Bratislava. Our classroom has computers, a projector and network equipment
+> for practical lessons.
+
+> [!question]- What does a typical school day look like for you?
+> Lessons start at eight and finish around two or three. We have general
+> subjects and technical subjects like networking and programming.
+
+> [!question]- Which subjects do you like most and least, and why?
+> I like networking and programming because they are practical and useful. I
+> like history less because I have to memorise a lot of dates.
+
+> [!question]- What are the main differences between the Slovak and the British school systems?
+> British students wear uniforms, take GCSEs at 16 and A-levels at 18, and
+> choose only a few subjects. In Slovakia we study many subjects and finish
+> with the maturita.
+
+> [!question]- What do you think about school uniforms?
+> They remove differences between rich and poor students, but they take away
+> the freedom to express yourself.
+
+> [!question]- Should students be evaluated by marks, or is there a better way?
+> Marks are simple, but verbal feedback tells you more about what to improve.
+> A combination would be best.
+
+> [!question]- What are the biggest problems at schools today?
+> Too much theory, overloaded students, bullying, mobile phones in lessons and
+> a lack of qualified teachers.
+
+> [!question]- What qualities should a good teacher have?
+> Knowledge, patience, fairness, a sense of humour and the ability to explain
+> things clearly and motivate students.
+
+> [!question]- What would your ideal school be like?
+> More practical lessons and projects, modern equipment, fewer subjects but in
+> more depth, and a friendly relationship between teachers and students.
+
+> [!question]- What are your plans after you pass the maturita?
+> I would like to study information technology at university, or start working
+> as a network administrator and get Cisco certificates.

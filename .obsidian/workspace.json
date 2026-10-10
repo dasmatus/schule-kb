@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "54ae300cc33a20b4",
+        "id": "ad0112946056ce1d",
         "type": "tabs",
         "children": [
           {
-            "id": "daba96017d995ce9",
+            "id": "d95cf572562ea882",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vyrazov",
+                "query": "prejav",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 583.1640625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,38 +192,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "daba96017d995ce9",
+  "active": "d95cf572562ea882",
   "lastOpenFiles": [
-    "02 Maturita/TČOZ/T03 – CAD systémy v praxi a 3D tlač.md",
+    "01 Predmety/Informačné a sieťové technológie/Cacheovanie a monitoring databázy.md",
+    "99 Zdroje/pdf/SJL_pravidla_studenti_2026.pdf",
+    "02 Maturita/TČOZ/T15 – Virtuálne siete VLAN.md",
+    "02 Maturita/TČOZ/T13 – Komunikácia na vrstve L2.md",
+    "03 Projekty/LosOS/LosOS – článok (pracovná verzia).md",
+    "01 Predmety/Informačné a sieťové technológie/TČOZ/Počítačové siete – TČOZ.md",
+    "01 Predmety/Informačné a sieťové technológie/TČOZ/Hardvér a IoT – TČOZ.md",
+    "01 Predmety/Matematika/Definičný obor funkcie – pracovný list.md",
+    "02 Maturita/Oficiálne požiadavky (ŠPÚ).md",
+    "02 Maturita/TČOZ/T14 – Architektúra počítača a operačné systémy.md",
+    "02 Maturita/TČOZ/T12 – Diagnostika sietí.md",
+    "02 Maturita/TČOZ/T11 – Smerovanie a smerovacie protokoly.md",
+    "02 Maturita/TČOZ/T10 – Hardvér počítačových sietí.md",
+    "02 Maturita/TČOZ/T09 – Siete LAN, WAN, VLAN.md",
+    "02 Maturita/TČOZ/T08 – IP protokoly.md",
+    "02 Maturita/TČOZ/T07 – Kybernetická bezpečnosť.md",
+    "02 Maturita/TČOZ/T06 – Komunikačné modely.md",
     "02 Maturita/TČOZ/T05 – Polovodiče.md",
-    "06 Mapy/Mapa (SJL) - Súvetia.canvas",
-    "06 Mapy/Unbenannt.md",
-    "06 Mapy/Mapa – slovenský jazyk.canvas",
-    "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Vyrazove prostriedky.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J06 – Rečnícky jazykový štýl.md",
-    "Unbenannt.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J03 – Náučný jazykový štýl.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J05 – Publicistický jazykový štýl.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J07 – Opisný slohový postup.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J08 – Informačný slohový postup.md",
-    "01 Predmety/Slovenský jazyk a literatúra/Sloh/Výklad vs. úvaha.md",
-    "01 Predmety/Slovenský jazyk a literatúra/Sloh/Úvaha – prezentácia.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J19 – Výklad a úvaha.md",
-    "01 Predmety/Slovenský jazyk a literatúra/Sloh/Básnické prostriedky a kompozícia úvahy.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J10 – Výkladový slohový postup.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J27 – Nadvetná syntax a kompozícia textu.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Literatúra/L09 – Slovenský romantizmus.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Literatúra/L10 – Slovenský a svetový romantizmus.md",
-    "01 Predmety/Ekonomika/Finančný trh.md",
-    "01 Predmety/Ekonomika/Ekonomika.md",
-    "01 Predmety/Ekonomika/Banková sústava.md",
+    "02 Maturita/TČOZ/T04 – Internet vecí.md",
+    "02 Maturita/TČOZ/T03 – CAD systémy v praxi a 3D tlač.md",
+    "02 Maturita/TČOZ/T02 – Digitalizácia signálu a spracovanie informácií.md",
+    "02 Maturita/TČOZ/T16 – Protokol DHCP.md",
+    "02 Maturita/TČOZ/T17 – Robotika a softvérové aplikácie.md",
+    "02 Maturita/TČOZ/T18 – Algoritmy, vývojové diagramy a VLSM.md",
+    "02 Maturita/TČOZ/T19 – Vstupno-výstupné operácie a výpočty.md",
+    "02 Maturita/TČOZ/T20 – Riadiace príkazy.md",
     "01 Predmety/Slovenský jazyk a literatúra/Jazyk/Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie).md",
-    "01 Predmety/Slovenský jazyk a literatúra/Literatúra/Dráma.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J26 – Druhy viet.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Literatúra/L24 – Slovenská dráma po roku 1945.md",
-    "02 Maturita/Slovenský jazyk a literatúra/Vypracované témy/Jazyk/J02 – Umelecký jazykový štýl.md",
-    "Unbenannt.base",
+    "06 Mapy/Mapa – TČOZ.canvas",
     "06 Mapy/Mapa – štyri roky.canvas",
+    "06 Mapy/Mapa (SJL) - Súvetia.canvas",
+    "06 Mapy/Mapa – slovenský jazyk.canvas",
+    "Unbenannt.base",
     "99 Zdroje/pdf/III_literatura_slovenska_medzivojnova_poezia_.pdf",
     "99 Zdroje/pdf/III_jazyk_Úvaha.pdf",
     "06 Mapy/Mapa – maturita.canvas",
@@ -235,7 +237,6 @@
     "02 Maturita/Ekonomika/Vypracované témy/E31 – Kalkulácia – dátová dvojzásuvka.md.tmp.5644.be7d796cd04d",
     "02 Maturita/Ekonomika/Vypracované témy/E31 – Kalkulácia – dátová dvojzásuvka.md.tmp.5644.f4d67df4d15f",
     "02 Maturita/Ekonomika/Vypracované témy/E29 – Kalkulácia – tlač farebných osvedčení.md.tmp.5644.1be9e93d1b61",
-    "02 Maturita/Ekonomika/Vypracované témy/E26 – Priame a nepriame dane.md.tmp.5644.1837d44e4011",
-    "02 Maturita/Ekonomika/Vypracované témy/E24 – Pasívne a aktívne operácie bánk.md.tmp.5644.3f5d716de96d"
+    "02 Maturita/Ekonomika/Vypracované témy/E26 – Priame a nepriame dane.md.tmp.5644.1837d44e4011"
   ]
 }

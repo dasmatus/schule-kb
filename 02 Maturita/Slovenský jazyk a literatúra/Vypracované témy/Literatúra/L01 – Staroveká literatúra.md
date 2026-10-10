@@ -65,3 +65,32 @@ Grécka literatúra sa vyvíjala vo viacerých obdobiach: archaickom (homérsky 
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aké sú znaky starovekej literatúry?
+> Mytologický základ, spätosť s náboženstvom a osudom, prevaha veršovanej reči,
+> vznik epiky, lyriky a drámy, kult hrdinu, prísne pravidlá drámy.
+
+> [!question]- Kto je autorom Iliady a Odysey a o čom sú?
+> Homér. Ilias – posledný rok trójskej vojny, hnev Achilla. Odysea – desaťročný
+> návrat Odysea domov. Obe sú písané hexametrom.
+
+> [!question]- Aký konflikt rieši Sofoklova Antigona?
+> Konflikt medzi štátnym zákonom (Kreónov zákaz pochovať Polyneika) a
+> nepísaným mravným (božským) zákonom a svedomím.
+
+> [!question]- Čo je katarzia, hybris a hamartia?
+> Katarzia – očistenie diváka súcitom a strachom. Hybris – pýcha. Hamartia –
+> tragická vina hrdinu (Kreón).
+
+> [!question]- Aký je rozdiel medzi bájou a bájkou?
+> Báj (mýtus) je príbeh o bohoch a vzniku sveta. Bájka je krátky alegorický
+> príbeh so zvieratami a mravným ponaučením (Ezop).
+
+> [!question]- Čo je zásada troch jednôt a akú úlohu má chór?
+> Jednota miesta, času a deja. Chór je kolektívna postava, ktorá komentuje dej
+> a vyslovuje mravné posolstvo.
+
+> [!question]- Vymenuj predstaviteľov rímskej literatúry.
+> Vergílius (Aeneis), Horácius (carpe diem), Ovídius, Plautus (komédie).

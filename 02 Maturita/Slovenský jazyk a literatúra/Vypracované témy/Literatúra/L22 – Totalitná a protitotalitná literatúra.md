@@ -72,3 +72,30 @@ Slovenská literatúra po roku 1948 sa štiepi na líniu stotožnenú s režimom
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aké dve línie literatúry vznikajú po roku 1948?
+> Oficiálna (stotožnená s režimom, schematická) a kritická, protitotalitná.
+
+> [!question]- Aké prostriedky používa protitotalitná literatúra?
+> Satiru, iróniu, čierny humor, absurditu, alegóriu – nepriamu kritiku, ktorá
+> obchádza cenzúru.
+
+> [!question]- O čom je Ako chutí moc?
+> Rekonštrukcia života straníckeho funkcionára po jeho smrti; ukazuje, ako moc
+> postupne deformuje charakter. Dielo bolo stiahnuté z obehu.
+
+> [!question]- Kto bol Rudolf Jašík?
+> Autor lyrizovanej protivojnovej prózy – Námestie svätej Alžbety (1958), Mŕtvi
+> nespievajú (1961); prekonal schematizmus.
+
+> [!question]- Čím je Soirée protitotalitné?
+> Lasica a Satinský cez absurdné dialógy a slovné hry nepriamo kritizovali pomery.
+
+> [!question]- Čo je samizdat a exilová literatúra?
+> Samizdat – doma rozmnožované necenzurované texty. Exilová – tvorba autorov,
+> ktorí emigrovali (aj Mňačko po roku 1968).
+
+> [!question]- Čo je čierny humor?
+> Humor s tragickými alebo tabuizovanými témami (smrť, násilie, útlak).

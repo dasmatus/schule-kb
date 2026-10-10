@@ -77,3 +77,33 @@ Názov smeru je odvodený od slova *natura* (príroda) a treba ho dôsledne odli
 
 - [[Naturizmus – znaky a autori]]
 - [[Drak sa vracia – rozbor diela]]
+
+## Kontrolné otázky
+
+> [!question]- Na čo reaguje naturizmus?
+> Na hospodársku krízu a politickú radikalizáciu 30. rokov – autori utekajú do
+> sveta prírody a archetypálneho, mravne čistého človeka.
+
+> [!question]- Aký je rozdiel medzi naturizmom a naturalizmom?
+> Naturalizmus – surové, vecné zobrazenie reality (bieda, biologický
+> determinizmus). Naturizmus – lyrizovaný obraz prírody a vnútra človeka.
+
+> [!question]- Aké sú znaky naturizmu?
+> Lyrizované opisy prírody, kontrast dedina – hora, tajomné postavy, biologický
+> čas, rámcová kompozícia, symbolika a mýtus, inštinktívny vzťah k prírode.
+
+> [!question]- Vymenuj naturistov a ich diela.
+> Chrobák – Drak sa vracia (1943), Švantner – Nevesta hôľ (1946), Figuli – Tri
+> gaštanové kone (1940), Ondrejov – Zbojnícka mladosť (1937).
+
+> [!question]- Opíš kompozíciu Draka sa vracia.
+> Rámcová – stará matka rozpráva vnukovi; na konci sa ukáže, že rozprávačkou
+> je samotná Eva.
+
+> [!question]- Aké konflikty sú v diele Drak sa vracia?
+> Interpersonálny (Drak a Šimon o Evu), sociálny (Drak proti predsudkom
+> dediny), intrapersonálny (Evino váhanie).
+
+> [!question]- Aká je hlavná myšlienka Draka sa vracia?
+> Vernosť a pevný charakter prevážia nad vášňou a tajomnom; Eva pochopí, že
+> čakala na Šimona.

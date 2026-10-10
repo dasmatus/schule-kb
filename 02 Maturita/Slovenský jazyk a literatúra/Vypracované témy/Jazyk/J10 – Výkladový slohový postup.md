@@ -75,3 +75,32 @@ Výkladový [[slohový postup]] objektívne vysvetľuje príčinné súvislosti 
 - [[Náučný štýl a logické postupy]]
 - [[Výklad vs. úvaha]]
 - [[PFIČ MS – výklad a kritériá]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je výkladový slohový postup?
+> Objektívne vysvetlenie javu a jeho príčinných súvislostí; odpovedá na otázky
+> prečo, ako to súvisí.
+
+> [!question]- Aké sú znaky výkladu?
+> Objektívnosť, logická usporiadanosť (príčina pred dôsledkom), myšlienkové
+> postupy, kauzálny reťazec, argumentácia faktami, odborná lexika, neosobnosť.
+
+> [!question]- Aké logické myšlienkové postupy sa vo výklade používajú?
+> Indukcia, dedukcia, analýza, syntéza, komparácia, konkretizácia, abstrakcia.
+
+> [!question]- Aká je kompozícia výkladu?
+> Trojdielna: úvod (vymedzenie pojmu), jadro (aspoň päť logicky nadväzujúcich
+> odsekov), záver (zhrnutie).
+
+> [!question]- Čím sa výklad líši od úvahy?
+> Výklad je objektívny, bez 1. osoby jednotného čísla a citového hodnotenia;
+> úvaha je subjektívna, pripúšťa vlastný názor a skúsenosť.
+
+> [!question]- Aké spojovacie výrazy vyjadrujú príčinu a dôsledok?
+> Pretože, keďže, totiž (príčina); preto, teda, dôsledkom je (dôsledok); ak
+> (podmienka); hoci (prípustka).
+
+> [!question]- Aké útvary používajú výkladový postup?
+> Výklad, odborný a populárno-náučný článok, štúdia, učebnicový text, heslo,
+> prednáška, referát.

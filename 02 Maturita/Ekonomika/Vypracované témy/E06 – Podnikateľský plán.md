@@ -77,3 +77,28 @@ Podnikateľský plán je písomný dokument, ktorý podnikateľovi pomáha premy
 - [[E01 – Právne formy podnikania]]
 - [[E32 – Účtovné výkazy]]
 - [[Odbytové činnosti podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je podnikateľský plán?
+> Písomný dokument s podnikateľským zámerom, cieľmi, spôsobom ich dosiahnutia
+> a potrebnými zdrojmi.
+
+> [!question]- Aké úlohy plní podnikateľský plán?
+> Prinúti premyslieť podnikanie, presvedčí investora alebo banku, slúži ako
+> sprievodca pri rozbehu a nástroj kontroly.
+
+> [!question]- Vymenuj časti podnikateľského plánu.
+> Zhrnutie, opis firmy, opis výrobku, trh a konkurencia, marketing, výrobný
+> proces, organizačný plán, dopad na životné prostredie, finančné plány, prílohy.
+
+> [!question]- Ktorá časť sa píše posledná a prečo?
+> Zhrnutie projektu – zhŕňa všetky ostatné časti, hoci v dokumente stojí na
+> začiatku.
+
+> [!question]- Čo obsahujú finančné plány?
+> Plánovaný výkaz ziskov a strát, súvahu a tok hotovosti na obdobie splácania úveru.
+
+> [!question]- Aké prílohy sa prikladajú?
+> Prieskumy trhu, fotografie výrobku, výsledky testov, zmluvy, cenové ponuky,
+> výpis z obchodného registra alebo živnostenský list.

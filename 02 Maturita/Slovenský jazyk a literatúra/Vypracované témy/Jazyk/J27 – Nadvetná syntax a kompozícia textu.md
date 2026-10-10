@@ -82,3 +82,26 @@ Nadvetná syntax skúma text ako celok presahujúci jednu vetu, pričom kľúčo
 
 - [[J26 – Druhy viet]]
 - [[Náučný štýl a logické postupy]]
+
+## Kontrolné otázky
+
+> [!question]- Čo skúma nadvetná syntax?
+> Text ako celok väčší ako veta – jeho organizáciu a nadväznosť viet a odsekov.
+
+> [!question]- Aký je rozdiel medzi koherenciou a kohéziou?
+> Koherencia – obsahová súvislosť textu. Kohézia – formálne jazykové prepojenie viet.
+
+> [!question]- Čo je aktuálne členenie výpovede?
+> Delenie na tému (známa informácia) a rému (nová informácia).
+
+> [!question]- Aké prostriedky nadväznosti textu poznáš?
+> Gramatické (zámená, spojky, slovosled, elipsa), lexikálne (opakovanie,
+> synonymá, nadradené pojmy), kompozičné (téma – réma, nadpisy, odseky).
+
+> [!question]- Aký je rozdiel medzi vnútornou a vonkajšou kompozíciou?
+> Vnútorná – logická a obsahová výstavba (úvod – jadro – záver, chronológia).
+> Vonkajšia – grafické členenie (nadpisy, kapitoly, odseky, zoznamy, tabuľky).
+
+> [!question]- Aké typy tematickej postupnosti poznáš?
+> Reťazová (réma jednej vety je témou ďalšej) a so stálou témou (téma sa
+> opakuje, pribúdajú nové rémy).

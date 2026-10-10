@@ -104,3 +104,31 @@ Jazyk (langue) je abstraktný, spoločenský znakový systém, reč (parole) je 
 
 - [[J28 – Vývin slovenského jazyka v spisovnom období]]
 - [[J30 – Národný jazyk a jeho formy]]
+
+## Kontrolné otázky
+
+> [!question]- Aký je rozdiel medzi jazykom a rečou?
+> Jazyk (langue) je abstraktný spoločenský znakový systém; reč (parole) jeho
+> konkrétna individuálna realizácia (F. de Saussure).
+
+> [!question]- Čo je fylogenéza a ontogenéza jazyka?
+> Fylogenéza – vývin jazyka v dejinách ľudstva. Ontogenéza – osvojovanie
+> jazyka jednotlivcom od narodenia.
+
+> [!question]- Aké teórie vzniku jazyka poznáš?
+> Božská, onomatopoická, citoslovcová, teória dohody, pracovná (sociálna).
+
+> [!question]- Ako sa jazyky delia typologicky?
+> Izolačné (čínština), aglutinačné (maďarčina, turečtina), flektívne
+> (slovenčina), polysyntetické.
+
+> [!question]- Aké jazykové rodiny poznáš?
+> Indoeurópska, uralská, semitská (afroázijská), sinotibetská, turkická.
+
+> [!question]- Kam patrí slovenčina?
+> Indoeurópska rodina → slovanská vetva → západoslovanská skupina (s češtinou,
+> poľštinou, lužickou srbčinou).
+
+> [!question]- Vymenuj východoslovanské a južnoslovanské jazyky.
+> Východné: ruština, ukrajinčina, bieloruština. Južné: bulharčina,
+> macedónčina, srbčina, chorvátčina, slovinčina, bosniančina, čiernohorčina.

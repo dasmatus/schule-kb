@@ -110,3 +110,43 @@ Finally, every society has people who need help: the homeless, the unemployed, t
 - [[A09 – Jobs and Employment]] — nezamestnanosť ako sociálny problém
 - [[A04 – Housing and Home]] — bezdomovectvo
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Why do rules and norms exist in every society?
+> So that people can live together peacefully, feel safe and know what is
+> acceptable.
+
+> [!question]- How does an individual benefit from being a member of society?
+> Society gives us education, health care, safety, work and relationships.
+
+> [!question]- Could you imagine living in isolation? How would your life differ?
+> Only for a short time. I would be lonely and I would have to do everything
+> myself.
+
+> [!question]- What is the difference between ethics and etiquette?
+> Ethics is about what is morally right or wrong. Etiquette is about polite
+> behaviour in social situations.
+
+> [!question]- Which social rules are people expected to follow?
+> Greeting people, being polite, being on time, respecting older people,
+> queuing and not being loud in public.
+
+> [!question]- Who actually creates the rules of behaviour?
+> Society and tradition, parents and schools, religion, and the state through
+> laws.
+
+> [!question]- Are there differences in social rules between cultures? Give examples.
+> Yes – in Japan people bow and take off shoes; in Britain queuing is very
+> important; in some countries you must not show the soles of your feet.
+
+> [!question]- What do you know about table manners in Slovakia?
+> We wish each other "dobrú chuť", we do not start before others, we do not
+> talk with food in our mouth and we hold the fork in the left hand.
+
+> [!question]- Do you think good manners are disappearing? Why?
+> Partly – people are in a hurry and use phones even during conversations.
+> But many young people are still polite.
+
+> [!question]- What can an ordinary person do to help people in need?
+> Volunteer, donate money or clothes, help elderly neighbours or give blood.

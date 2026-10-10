@@ -83,3 +83,27 @@ Slovná zásoba slovenčiny sa obohacuje tromi hlavnými spôsobmi: **tvorením 
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Akými spôsobmi sa obohacuje slovná zásoba?
+> Tvorením slov, preberaním z cudzích jazykov a zmenou významu existujúcich slov.
+
+> [!question]- Aké spôsoby tvorenia slov poznáš?
+> Odvodzovanie (predponové, príponové, predponovo-príponové), skladanie,
+> skracovanie, tvorenie viacslovných pomenovaní.
+
+> [!question]- Aký je rozdiel medzi odvodzovaním a skladaním?
+> Odvodzovanie pridáva k základu predponu alebo príponu (učiteľ); skladanie
+> spája dva základy (vodovod).
+
+> [!question]- Aké druhy skratiek poznáš?
+> Iniciálové (SND, MŠ), skratkové slová (Slovnaft), značky (km, kg).
+
+> [!question]- Čo sú prevzaté slová a ako sa zdomácňujú?
+> Slová z iných jazykov (latinizmy, germanizmy, anglicizmy); úplne zdomácnené
+> (gril, džús) alebo len čiastočne (notebook).
+
+> [!question]- Aký je rozdiel medzi metaforou a metonymiou?
+> Metafora – prenesenie na základe podobnosti (hlava rodiny). Metonymia – na
+> základe vecnej súvislosti (čítať Hviezdoslava, trieda tlieskala).

@@ -74,3 +74,32 @@ Slovenský realizmus je reakciou na neúspech romantických národných snáh a 
 ## Súvisiace poznámky
 
 - [[L12 – Dramatická tvorba od klasicizmu po realizmus]] ([[Jozef Gregor Tajovský|J. G. Tajovský]] ako autor prózy aj drámy)
+
+## Kontrolné otázky
+
+> [!question]- Aké sú historické príčiny vzniku slovenského realizmu?
+> Vyčerpanie romantických ideálov, maďarizácia po roku 1867, zatvorenie
+> gymnázií a Matice slovenskej (1874–1875).
+
+> [!question]- Aké sú znaky slovenského realizmu?
+> Objektívnosť, typizácia, kritickosť, dedinská tematika, hovorový jazyk,
+> epický pokoj, humor (Kukučín) alebo ostrá kritika (Timrava).
+
+> [!question]- Porovnaj romantizmus a realizmus.
+> Romantizmus – výnimočný hrdina, cit, história, vznešený jazyk, burcovanie.
+> Realizmus – bežný človek, vecnosť, súčasná dedina, hovorový jazyk, kritika.
+
+> [!question]- O čom je Keď báčik z Chochoľova umrie?
+> Zeman Aduš Domanický predá Ondrejovi Trávovi neexistujúci jačmeň a vyhovára
+> sa, že dlh splatí, keď zdedí po báčikovi; satira na úpadok zemianstva.
+
+> [!question]- Čo kritizuje Timrava?
+> Ťapákovci – lenivosť a zápecníctvo; Skon Paľa Ročku – zničená láska a
+> chudoba; Hrdinovia – ilúzie o hrdinstve vo vojne.
+
+> [!question]- Ktoré diela napísal Hviezdoslav?
+> Hájnikova žena, Ežo Vlkolinský, Krvavé sonety, Letorosty.
+
+> [!question]- Aký je rozdiel medzi poviedkou a novelou?
+> Poviedka – jednoduchší dej, menej postáv. Novela – jedna výnimočná udalosť
+> s prekvapivým záverom.

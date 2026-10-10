@@ -79,3 +79,34 @@ Toto je procesná téma bez číselného výpočtu – podstatné je vedieť zd�
 - [[E03 – Živnosti – druhy a podmienky]]
 - [[E04 – Dlhodobý a krátkodobý majetok]]
 - [[E17 – Spoločnosť s ručením obmedzeným]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je podnikanie podľa Obchodného zákonníka?
+> Sústavná činnosť vykonávaná samostatne podnikateľom, vo vlastnom mene, na
+> vlastnú zodpovednosť, za účelom dosiahnutia zisku.
+
+> [!question]- Ako sa členia právne formy podnikania?
+> Podnikanie fyzickej osoby (živnosť) a obchodné spoločnosti a družstvo.
+> Spoločnosti sú osobné (v. o. s., k. s.) a kapitálové (s. r. o., a. s.).
+
+> [!question]- Porovnaj s. r. o. a a. s. (imanie, ručenie, orgány).
+> s. r. o.: min. 5 000 €, vklad min. 750 €, 1–50 spoločníkov, spoločník ručí do
+> výšky nesplateného vkladu; valné zhromaždenie, konatelia. a. s.: min. 25 000 €,
+> akcionár neručí; valné zhromaždenie, predstavenstvo, dozorná rada.
+
+> [!question]- Ako ručia spoločníci v. o. s. a k. s.?
+> V. o. s.: všetci spoločne a nerozdielne celým majetkom. K. s.: komplementár
+> neobmedzene, komanditista do výšky nesplateného vkladu.
+
+> [!question]- Podľa čoho sa vyberá právna forma?
+> Kapitálová náročnosť, počet zakladateľov, miera rizika a ochota ručiť
+> osobným majetkom, plánovaný rozsah výroby.
+
+> [!question]- Akú formu odporučíš výrobcovi napájacích zdrojov?
+> Jednotlivec v malom – živnosť. Viac spoločníkov a sériová výroba – s. r. o.
+> (obmedzené ručenie pri riziku reklamácií). Potreba veľkého kapitálu – a. s.
+
+> [!question]- Kedy vzniká obchodná spoločnosť?
+> Zápisom do obchodného registra (zakladá sa spoločenskou zmluvou alebo
+> zakladateľskou listinou).

@@ -122,3 +122,46 @@ As for famous Britons, there is Shakespeare, Newton, Darwin, Churchill, the Beat
 - [[A08 – Education]] — porovnanie školských systémov
 - [[A23 – Public Holidays]] — britské sviatky a zvyky
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What is the difference between Great Britain and the United Kingdom?
+> Great Britain is the island with England, Scotland and Wales. The United
+> Kingdom of Great Britain and Northern Ireland also includes Northern Ireland.
+
+> [!question]- How is the United Kingdom governed?
+> It is a constitutional monarchy. The King (Charles III) is head of state,
+> Parliament has the House of Commons and the House of Lords, and the Prime
+> Minister leads the government.
+
+> [!question]- What is the British climate like, and how does it affect the people?
+> Mild and wet, with changeable weather and few extremes. People talk about the
+> weather a lot and often carry an umbrella.
+
+> [!question]- How does the British school system differ from ours?
+> Students wear uniforms, take GCSEs at 16 and A-levels at 18, and choose only
+> a few subjects. "Public schools" are actually private.
+
+> [!question]- Which places in Britain would you most like to visit?
+> London, Edinburgh, Stonehenge, Oxford or Cambridge, and the Scottish Highlands.
+
+> [!question]- What are the main sights of London?
+> Buckingham Palace, the Houses of Parliament with Big Ben, Westminster Abbey,
+> the Tower of London, Tower Bridge, the London Eye and the British Museum.
+
+> [!question]- What do you know about the history of London?
+> It was founded by the Romans as Londinium, it burned in the Great Fire of 1666
+> and was bombed during the Second World War (the Blitz).
+
+> [!question]- Which famous British people can you name?
+> William Shakespeare, Isaac Newton, Charles Darwin, Winston Churchill, the
+> Beatles and Queen Elizabeth II.
+
+> [!question]- What British customs and traditions do you know?
+> Afternoon tea, queuing, Bonfire Night (5 November), Christmas crackers,
+> pantomime and the Changing of the Guard.
+
+> [!question]- What effect do you think Brexit has had on Britain?
+> The UK left the EU in 2020. Trade with Europe became more complicated, it is
+> harder for EU citizens to work and study there, and opinions in Britain are
+> still divided.

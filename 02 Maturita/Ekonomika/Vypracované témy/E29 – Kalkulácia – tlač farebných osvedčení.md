@@ -83,3 +83,27 @@ Pri reálnom rozhodovaní by firma navyše zohľadnila aj **riziká**, ktoré č
 
 - [[E11 – Náklady a výnosy podniku]]
 - [[E13 – Cenová politika podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je kalkulácia?
+> Stanovenie nákladov, ceny alebo iných hodnôt na kalkulačnú jednotku (kus,
+> službu, osvedčenie).
+
+> [!question]- Aké dve možnosti má firma pri tlači osvedčení?
+> Externú tlač (len cena za kus) alebo vlastnú tlačiareň (fixné zriaďovacie
+> náklady, ale nízke variabilné náklady na kus).
+
+> [!question]- Ako vypočítaš kritický objem pri rozhodnutí vyrobiť alebo kúpiť?
+> Fixné náklady vlastnej tlače : (cena externého dodávateľa za kus − VN
+> vlastnej tlače za kus).
+
+> [!question]- Vypočítaj kritický objem pre FN 950 €, externú cenu 0,60 € a VN 0,25 €.
+> 950 : 0,35 ≈ 2 715 ks.
+
+> [!question]- Ktoré riešenie je výhodnejšie pri 5 000 osvedčeniach ročne?
+> Vlastná tlač: 950 + 5 000 × 0,25 = 2 200 €, externá 3 000 €; úspora 800 € ročne.
+
+> [!question]- Kedy by bola výhodnejšia externá tlač?
+> Pri objeme pod kritickým bodom (menej ako ~2 715 ks), lebo firma neplatí
+> fixné náklady.

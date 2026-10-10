@@ -85,3 +85,29 @@ V odpovedi je potrebné najprv vysvetliť rozdiel medzi hlavnými vetnými člen
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Ktoré vetné členy sú hlavné a ktoré rozvíjacie?
+> Hlavné: podmet, prísudok. Rozvíjacie: predmet, prívlastok, príslovkové
+> určenie, doplnok.
+
+> [!question]- Aký je vzťah medzi podmetom a prísudkom?
+> Prisudzovací – tvoria vetný základ a zhodujú sa v čísle, osobe (v minulom čase
+> aj v rode).
+
+> [!question]- Aké druhy podmetu poznáš?
+> Vyjadrený, nevyjadrený (Idem domov.), všeobecný (Hovoria, že...).
+
+> [!question]- Aké druhy prísudku poznáš?
+> Jednoduchý slovesný, zložený slovesný (chce bežať), slovesno-menný (je šikovný).
+
+> [!question]- Aký je rozdiel medzi zhodným a nezhodným prívlastkom?
+> Zhodný sa zhoduje s podstatným menom v rode, čísle a páde (pekný dom).
+> Nezhodný nie (dom otca, cesta domov).
+
+> [!question]- Vymenuj druhy príslovkového určenia.
+> Miesta, času, spôsobu, miery, príčiny, účelu, podmienky, prípustky, zreteľa.
+
+> [!question]- Čo je doplnok?
+> Rozvíja súčasne podmet alebo predmet a prísudok (Chlapci prišli domov unavení).

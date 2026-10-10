@@ -110,3 +110,44 @@ Finally, Slovakia itself is a small country but it has a surprising amount to of
 - [[A30 – Slovakia – My Homeland]] — slovenské mestá a pamiatky podrobnejšie
 - [[A26 – The United Kingdom]] — Londýn a britské reálie
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What are the main differences between life in a city and in a village?
+> A city has more jobs, shops, culture and transport but also traffic, noise
+> and pollution. A village is quieter and closer to nature, but you have to travel for many things.
+
+> [!question]- Would you rather live in a big city or in the countryside? Why?
+> Now a city, because of school and opportunities. Later maybe a village near
+> a city, for peace and fresh air.
+
+> [!question]- Describe your home town.
+> Say where it is, how big it is, its main sights, what you can do there, its
+> advantages and disadvantages.
+
+> [!question]- Which place in Slovakia would you recommend to a foreign visitor?
+> The High Tatras for hiking, Banská Štiavnica for its history, or Bojnice
+> Castle.
+
+> [!question]- What is your favourite place, and why is it special to you?
+> Describe a place you like (a park, the mountains, your grandparents' cottage)
+> and what memories or feelings you connect with it.
+
+> [!question]- Which foreign city would you most like to visit?
+> London, New York or Tokyo – say what you would like to see and do there.
+
+> [!question]- Do you prefer a holiday at the seaside or in the mountains?
+> The mountains – I like hiking and the views. The seaside is good for
+> relaxing, but it is often too hot and crowded.
+
+> [!question]- What makes a town pleasant to live in?
+> Good public transport, parks, safety, clean streets, schools, jobs and
+> cultural and sports facilities.
+
+> [!question]- How has your town changed in the last ten years?
+> New buildings and shopping centres, more traffic, new cycle paths and
+> renovated parks.
+
+> [!question]- Could you give a tourist directions from the station to the main square?
+> "Go straight along this street, turn left at the traffic lights, walk past
+> the church and the square is on your right. It is about ten minutes on foot."

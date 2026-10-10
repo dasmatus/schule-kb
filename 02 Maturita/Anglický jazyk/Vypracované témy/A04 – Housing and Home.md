@@ -113,3 +113,45 @@ As for my dream house, I would like a spacious house near the sea, with a big ga
 - [[A15 – People and Society]] — bezdomovectvo ako sociálny problém
 - [[A06 – Shopping and Services]] — služby v mieste bydliska
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What is the difference between a house and a home?
+> A house is just a building. A home is the place where you feel safe and happy
+> with your family.
+
+> [!question]- Describe the place where you live at the moment.
+> I live in a three-room flat in a block of flats in Bratislava. We have a
+> living room, two bedrooms, a kitchen, a bathroom and a small balcony.
+
+> [!question]- Which room in your home do you like best, and why?
+> My room, because it is my private space. I have my computer there and I can
+> study, play games or relax.
+
+> [!question]- Would you rather live in a town or in the countryside? Give reasons.
+> Now I prefer the town because of school, transport and entertainment. Later,
+> with a family, I would like a house near the town with a garden.
+
+> [!question]- What are the advantages and disadvantages of living in a block of flats?
+> Flats are cheaper and closer to services. But they are small, you can hear
+> the neighbours and there is no garden.
+
+> [!question]- How does housing in Slovakia differ from housing in Britain?
+> In Slovakia many people live in blocks of flats, while in Britain most live
+> in terraced, semi-detached or detached houses. British people also move more often.
+
+> [!question]- Why do young people in Slovakia leave home later than young people in Britain?
+> Flats are expensive compared to salaries, many students study near home and
+> it is a tradition to stay with parents until you start your own family.
+
+> [!question]- What would your dream house look like?
+> A modern detached house with a big garden near a forest, with large windows,
+> solar panels, a garage and a quiet room for working.
+
+> [!question]- What are the main causes of homelessness?
+> Losing a job, debts, divorce, addiction, mental illness or leaving prison or
+> a children's home without support.
+
+> [!question]- What could the state and ordinary people do to help homeless people?
+> The state can provide shelters, social housing and help with finding a job.
+> People can volunteer, donate or buy street magazines.

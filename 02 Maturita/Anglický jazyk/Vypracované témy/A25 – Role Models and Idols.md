@@ -111,3 +111,44 @@ Personally, my role models are people I actually know. I admire people who are r
 - [[A24 – Books and Reading]] — literárni hrdinovia
 - [[A10 – Human Relationships]] — vlastnosti, ktoré si na ľuďoch ceníme
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What is a role model and why do people have them?
+> A person whose behaviour we want to copy. Role models inspire and motivate
+> us to become better.
+
+> [!question]- What is the difference between a role model and an idol?
+> A role model is somebody we want to be like because of their values and
+> actions. An idol is somebody we admire, often a celebrity, sometimes only for
+> fame or looks.
+
+> [!question]- Who were your first role models?
+> My parents and grandparents, later teachers, coaches and sports stars.
+
+> [!question]- Can a teacher be a role model? Give an example.
+> Yes – a teacher who is fair, enthusiastic and helps students can inspire
+> them to choose a career.
+
+> [!question]- How do celebrities influence young people, positively and negatively?
+> Positively – they can promote sport, charity or education. Negatively – they
+> can show an unhealthy lifestyle, materialism or unrealistic beauty standards.
+
+> [!question]- Why do teenagers imitate their idols?
+> They are looking for their own identity and want to be popular and accepted.
+
+> [!question]- Do you think social media creates unrealistic ideals? How?
+> Yes – photos are edited and people show only the best moments, so others
+> feel their own life is not good enough.
+
+> [!question]- Who would you call a real hero?
+> Doctors, firefighters, rescuers, and ordinary people who help others or
+> stand up for what is right.
+
+> [!question]- Do you have a role model? Describe them and say why.
+> Describe a real person (a family member, a scientist, a sportsperson), what
+> they achieved and what qualities you admire.
+
+> [!question]- Which qualities do you most admire in other people?
+> Honesty, hard work, kindness, a sense of humour and the courage to admit
+> mistakes.

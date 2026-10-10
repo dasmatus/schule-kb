@@ -79,3 +79,29 @@ Tento rozdiel je dôležitý aj pre financovanie – podľa **zlatého bilančn�
 - [[Podstata finančného hospodárenia podniku]]
 - [[E05 – Opotrebenie a odpisovanie majetku]]
 - [[E01 – Právne formy podnikania]]
+
+## Kontrolné otázky
+
+> [!question]- Ako sa delí majetok podniku z časového hľadiska?
+> Dlhodobý (slúži viac ako 1 rok, opotrebúva sa postupne) a krátkodobý (do 1
+> roka, spotrebuje sa naraz).
+
+> [!question]- Z čoho sa skladá dlhodobý majetok?
+> Hmotný (nad 1 700 €), nehmotný (nad 2 400 €), finančný a dlhodobé pohľadávky.
+> Pozemky a stavby sú dlhodobý hmotný majetok bez ohľadu na cenu.
+
+> [!question]- Z čoho sa skladá krátkodobý majetok?
+> Zásoby, krátkodobé pohľadávky a krátkodobý finančný majetok (hotovosť, účty,
+> ceniny).
+
+> [!question]- Čo je drobný hmotný majetok?
+> Majetok s dobou použitia nad 1 rok, ale cenou pod 1 700 €; účtuje sa priamo
+> do nákladov, neodpisuje sa.
+
+> [!question]- Zaraď PC za 950 € a pracovnú stanicu za 2 200 €.
+> PC za 950 € – drobný hmotný majetok, náklad. Stanica za 2 200 € – dlhodobý
+> hmotný majetok, odpisuje sa.
+
+> [!question]- Čo hovorí zlaté bilančné pravidlo?
+> Dlhodobý majetok sa financuje dlhodobým kapitálom, krátkodobý majetok
+> krátkodobým kapitálom.

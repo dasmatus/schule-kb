@@ -109,3 +109,37 @@ Vznik prvej ČSR v roku 1918 dal slovenskej kultúre slobodu, ktorú medzivojnov
 - [[Slovenská medzivojnová literatúra – kontext]]
 - [[L13 – Literárna moderna]] (neosymbolizmus nadväzuje na Kraskov symbolizmus)
 - [[L14 – Avantgarda]] (nadrealizmus nadväzuje na [[Avantgarda|avantgardné]] hnutia)
+
+## Kontrolné otázky
+
+> [!question]- Aký vplyv mal vznik ČSR na slovenskú poéziu?
+> Sloboda prejavu, rozvoj školstva a kultúry, otvorenie sa svetovým vplyvom –
+> vzniká naraz viac smerov.
+
+> [!question]- Vymenuj smery medzivojnovej poézie a ich predstaviteľov.
+> Vitalizmus – Smrek, neosymbolizmus – Lukáč, katolícka moderna – Dilong,
+> nadrealizmus – Fabry, angažovaná poézia (DAV) – Novomeský.
+
+> [!question]- Aké sú znaky vitalizmu?
+> Životná energia, radosť zo života, optimizmus, senzualizmus, erotika, žena,
+> hovorový jazyk, uvoľnený verš; poeta natus.
+
+> [!question]- Porovnaj Smreka a Lukáča.
+> Smrek – optimizmus, hravosť, hovorový jazyk, poeta natus. Lukáč –
+> pesimizmus až dolorizmus, paradox a oxymoron, knižný jazyk, poeta doctus.
+
+> [!question]- Čo je katolícka moderna?
+> Spojenie moderných prostriedkov s duchovným posolstvom, ideál čistej poézie;
+> Dilong (Mladý svadobník), Silan, Hlbina.
+
+> [!question]- Čím sa slovenský nadrealizmus líši od surrealizmu?
+> Bol len etapou tvorby, nepopieral úplne rozum, automatický text bol
+> štylizáciou, vracal sa k spoločenskej funkcii (proti fašizmu).
+
+> [!question]- Aké sú znaky angažovanej poézie DAV-u?
+> Straníckosť, ľudovosť, typizácia, idealizovaný hrdina, triedny boj;
+> Novomeský – Slúžka (sociálna balada).
+
+> [!question]- Čo je oxymoron a paradox? Uveď príklad.
+> Oxymoron – spojenie protichodných výrazov („horiace ľady“). Paradox –
+> zdanlivo nezmyselný výrok spájajúci nezlučiteľné.

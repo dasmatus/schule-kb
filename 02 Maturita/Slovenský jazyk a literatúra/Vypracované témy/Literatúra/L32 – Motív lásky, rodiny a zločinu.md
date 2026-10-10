@@ -68,3 +68,27 @@ Na túto tému si pripravím tri konkrétne opory: [[Drak sa vracia]] pre motív
 - [[Jozef Mak – rozbor diela]]
 - [[L28 – Konflikt a spôsoby jeho riešenia]]
 - [[L18 – Slovenská medzivojnová próza]]
+
+## Kontrolné otázky
+
+> [!question]- Aký je rozdiel medzi motívom a témou?
+> Motív je najmenšia opakujúca sa významová jednotka; téma je súhrn motívov –
+> o čom dielo je.
+
+> [!question]- Ako sa zvyčajne buduje motív lásky mladých ľudí?
+> Milostný trojuholník alebo prekážka (spoločenský rozdiel, majetok, rodičia,
+> vojna).
+
+> [!question]- Uveď dielo s motívom lásky a opíš ho.
+> Drak sa vracia – trojuholník Eva – Drak – Šimon, láska proti manželstvu z
+> rozumu, skúška charakteru pri požiari.
+
+> [!question]- Uveď dielo s motívom rodinných vzťahov.
+> Dva bratia – Vendel a Jozef sa rozídu kvôli rodinnému statku.
+
+> [!question]- O čom je Zločin a trest?
+> Raskoľnikov zavraždí úžerníčku podľa teórie o výnimočnom človeku; dielo
+> sleduje jeho vinu, výčitky a cestu k pokániu so Soňou.
+
+> [!question]- Na čo sa sústreďujú diela s motívom zločinu?
+> Na psychologické a mravné dôsledky činu – vinu, svedomie, trest a vykúpenie.

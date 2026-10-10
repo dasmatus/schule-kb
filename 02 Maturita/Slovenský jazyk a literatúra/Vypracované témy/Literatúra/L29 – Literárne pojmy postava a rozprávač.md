@@ -79,3 +79,29 @@ Postavu treba pri odpovedi charakterizovať cez jej postavenie v deji (hlavná/v
 - [[Jozef Mak – rozbor diela]]
 - [[Drak sa vracia – rozbor diela]]
 - [[Naturizmus – znaky a autori]]
+
+## Kontrolné otázky
+
+> [!question]- Ako sa delia literárne postavy?
+> Hlavná, vedľajšia, epizodická; kladná a záporná; statická a dynamická;
+> individuálna a kolektívna.
+
+> [!question]- Je rozprávač totožný s autorom?
+> Nie, je to fiktívny hlas, ktorý autor vytvorí ako prostredníka.
+
+> [!question]- Aké typy rozprávača v er-forme poznáš?
+> Vševediaci, personálny (obmedzený na jednu postavu), objektívny (len opisuje).
+
+> [!question]- Aký je ja-formový rozprávač?
+> Postava príbehu (hrdina alebo svedok); pohľad je subjektívny a obmedzený.
+
+> [!question]- Aký je rozdiel medzi priamou, nepriamou a polopriamou rečou?
+> Priama – doslovná výpoveď. Nepriama – reprodukovaná rozprávačom. Polopriama –
+> myšlienky postavy v 3. osobe, ale jej slovami.
+
+> [!question]- Čo je vnútorný monológ?
+> Nesprostredkované zachytenie myšlienkového toku postavy.
+
+> [!question]- Aký rozprávač je v Živom biči?
+> Er-forma, vševediaci, miestami polosubjektívny – stotožňuje sa s pohľadom
+> Evy; dedina je kolektívna postava.

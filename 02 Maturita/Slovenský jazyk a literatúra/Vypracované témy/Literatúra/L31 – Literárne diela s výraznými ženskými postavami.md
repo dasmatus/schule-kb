@@ -80,3 +80,32 @@ Pri tejto téme mám vždy poruke tri pevné body: (1) Antigona ako staroveký t
 - [[L19 – Próza naturizmu]]
 - [[L29 – Literárne pojmy postava a rozprávač]]
 - [[L30 – Typy literárnych postáv]]
+
+## Kontrolné otázky
+
+> [!question]- Kedy je ženská postava „výrazná“?
+> Nesie hlavný konflikt, myšlienku alebo mravnú hodnotu diela.
+
+> [!question]- Prečo je Antigona výrazná postava?
+> Vzoprie sa Kreónovi a pochová brata – nadraďuje svedomie a mravný zákon nad
+> štátny, hoci vie, že zomrie.
+
+> [!question]- Opíš osud Evy Hlavajovej.
+> Ostane sama, snaží sa vymôcť Adamovo prepustenie, notár Okolický ju zneužije,
+> dedina ju odsúdi a ona sa utopí.
+
+> [!question]- Ako stoja proti sebe Maruša a Jula?
+> Maruša – krásna, ale morálne upadá. Jula – telesne postihnutá, ale vnútorne
+> čistá a obetavá.
+
+> [!question]- Čo spája väčšinu výrazných ženských postáv?
+> Nemajú vlastný osud v rukách – určuje ho vojna, chudoba, manželstvo z rozumu
+> alebo spoločenská morálka.
+
+> [!question]- Aký je rozdiel medzi priamou a nepriamou charakteristikou?
+> Priama – vlastnosti sú výslovne opísané. Nepriama – vyplývajú z konania,
+> reči, výzoru postavy.
+
+> [!question]- Ktoré ďalšie diela s výraznými ženami poznáš?
+> Anna Kareninová (Tolstoj), Drak sa vracia (Eva), Dva bratia (Tereza a Hana),
+> Hájnikova žena (Hanka).

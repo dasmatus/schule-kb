@@ -16,6 +16,7 @@ tags:
 
 ## Poznámky
 
+- [[Elektronika a obvody – TČOZ]] — *maturitný prehľad*
 - [[Protokol č. 5 – lineárna a nelineárna záťaž]] — *protokol* · 2026-01-14
 - [[Protokol č. 6]] — *protokol* · 2026-03-04
 - [[Protokol č. 7]] — *protokol* · 2026-04-08

@@ -84,3 +84,29 @@ Ak zároveň rastú ceny vstupných komponentov (čipy, pamäte, dostupné len z
 - [[E22 – Mzda a výpočet čistej mzdy]]
 - [[E28 – Úloha štátu v trhovej ekonomike]]
 - [[E12 – Peniaze – podstata, formy a funkcie]]
+
+## Kontrolné otázky
+
+> [!question]- Aké sú fázy hospodárskeho cyklu?
+> Recesia, dno, expanzia, vrchol.
+
+> [!question]- Čo je inflácia a aké má formy?
+> Rast cenovej hladiny a pokles kúpnej sily peňazí. Mierna (1–9 %), cválajúca
+> (dvoj- až trojciferná), hyperinflácia (nad 1 000 %).
+
+> [!question]- Aké sú dôsledky inflácie?
+> Klesajú reálne príjmy a úspory, najviac trpia chudobní; výhodu majú dlžníci.
+
+> [!question]- Ako vypočítaš mieru inflácie?
+> (CPI bežného roka − CPI minulého roka) / CPI minulého roka × 100; napr.
+> 210 → 216 bodov = 2,86 %.
+
+> [!question]- Ako vypočítaš mieru nezamestnanosti?
+> Nezamestnaní / pracovná sila × 100; pracovná sila = zamestnaní + nezamestnaní.
+
+> [!question]- Aké druhy nezamestnanosti poznáš?
+> Frikčná, štrukturálna, cyklická, sezónna, skrytá.
+
+> [!question]- Ako sa mení nezamestnanosť počas cyklu?
+> V recesii rastie (prepúšťanie, cyklická nezamestnanosť), v expanzii klesá, na
+> vrchole je plná zamestnanosť.

@@ -108,3 +108,42 @@ Finally, every nation has its own cuisine. Our national dish is *bryndzové halu
 - [[A22 – Multicultural Society]] — kuchyne rôznych kultúr
 - [[A30 – Slovakia – My Homeland]] — slovenské národné jedlá
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What are your eating habits during a typical day?
+> I have a quick breakfast, a snack at school, lunch in the school canteen or
+> at home and dinner with my family in the evening.
+
+> [!question]- Which meal of the day do you consider the most important, and why?
+> Breakfast, because it gives you energy for the whole morning, although I
+> often have too little time for it.
+
+> [!question]- What is your favourite food, and is there anything you cannot stand?
+> I love pizza and my mum's chicken with rice. I cannot stand liver.
+
+> [!question]- What does "healthy eating" mean to you?
+> Regular meals, lots of fruit and vegetables, enough water and not too much
+> sugar, salt or fast food.
+
+> [!question]- Why is fast food so popular among young people?
+> It is quick, cheap, tasty and you can eat it with friends.
+
+> [!question]- What are the dangers of eating fast food regularly?
+> It contains a lot of fat, salt and sugar, so it can lead to obesity, heart
+> disease and diabetes.
+
+> [!question]- What do you think about vegetarianism and veganism?
+> I respect it. It can be healthy and good for the planet, but people have to
+> plan their diet carefully to get enough protein and vitamins.
+
+> [!question]- Why do so many young people go on diets, and what risks does it bring?
+> Because of social media and the ideal of a perfect body. Strict diets can
+> cause health problems and eating disorders like anorexia or bulimia.
+
+> [!question]- Which foreign cuisine do you like best?
+> Italian – pasta and pizza – and I also like Asian food, for example sushi.
+
+> [!question]- Can you explain the saying "Tell me what you eat and I will tell you what you are"?
+> What we eat shows our lifestyle, health and even our culture. Healthy
+> eating usually goes together with a healthy way of life.

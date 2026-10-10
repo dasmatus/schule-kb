@@ -71,3 +71,29 @@ Zásahy štátu do trhu sa priamo dotýkajú aj IT a elektrotechnického odboru:
 - [[E26 – Priame a nepriame dane]]
 - [[E19 – Štátny rozpočet a rozpočtový proces]]
 - [[E25 – Základné ekonomické otázky a typy ekonomík]]
+
+## Kontrolné otázky
+
+> [!question]- Prečo štát zasahuje do trhovej ekonomiky?
+> Trh má zlyhania – nerieši externality, neposkytuje verejné statky, vytvára
+> nerovnosť a cyklické výkyvy.
+
+> [!question]- Aké sú úlohy štátu v trhovej ekonomike?
+> Ochrana trhového systému a konkurencie, verejné statky, riešenie externalít,
+> prerozdeľovanie dôchodkov, stabilizácia ekonomiky.
+
+> [!question]- Čo sú verejné statky? Uveď príklady.
+> Statky, ktoré súkromný sektor neposkytuje alebo nechce poskytovať: štátne
+> školstvo, cesty, polícia, verejné osvetlenie.
+
+> [!question]- Čo sú externality a ako ich štát rieši?
+> Vplyvy činnosti na iných, ktoré trh nezohľadní (znečistenie). Rieši ich
+> presviedčaním, pokutami a daňami, nariadeniami a subvenciami.
+
+> [!question]- Ako štát prerozdeľuje dôchodky?
+> Daňami a transferovými platbami – dávky, dôchodky, sociálna pomoc;
+> financovanie zdravotníctva a školstva.
+
+> [!question]- Aké nástroje má štát k dispozícii?
+> Legislatívne (zákony, normy), fiškálne (dane, dotácie, rozpočet), priame
+> poskytovanie statkov, presviedčanie (kampane).

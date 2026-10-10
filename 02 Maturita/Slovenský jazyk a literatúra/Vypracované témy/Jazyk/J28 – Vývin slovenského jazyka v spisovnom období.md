@@ -79,3 +79,30 @@ Spisovné obdobie slovenčiny sa začína Bernolákovou [[kodifikácia|kodifiká
 ## Súvisiace poznámky
 
 - [[J13 – Ortografia]]
+
+## Kontrolné otázky
+
+> [!question]- Kedy sa začína spisovné obdobie slovenčiny?
+> Roku 1787 Bernolákovou kodifikáciou.
+
+> [!question]- Na akom základe kodifikoval Bernolák a aké diela vydal?
+> Na kultúrnej západoslovenčine (trnavské nárečie). Dissertatio... (1787),
+> Grammatica Slavica (1790), Etymologia (1791), Slowár (1825–1827).
+
+> [!question]- Kedy a ako kodifikoval spisovnú slovenčinu Štúr?
+> 1843 v Hlbokom so Hurbanom a Hodžom na základe stredoslovenčiny; 1846
+> Nárečja slovenskuo... a Náuka reči slovenskej. Pravopis fonetický.
+
+> [!question]- Čo priniesla hodžovsko-hattalovská reforma?
+> Roku 1851 kompromis štúrovcov a bernolákovcov; etymologický a morfologický
+> princíp (y/i); Hattalova Krátka mluvnica slovenská (1852).
+
+> [!question]- Čo je Czambelova Rukoväť?
+> Rukoväť spisovnej reči slovenskej (1902), ktorá spresnila a zjednotila normu.
+
+> [!question]- Ktoré vydania Pravidiel slovenského pravopisu poznáš?
+> 1931 (Matica, „spor o slovenčinu“), 1940, 1953 (SAV), 1991, 1998, 2000, 2013
+> (platné).
+
+> [!question]- Prečo dnešný pravopis nie je čisto fonetický?
+> Rozlišovanie y/i nevychádza z výslovnosti, ale z etymológie a morfológie.

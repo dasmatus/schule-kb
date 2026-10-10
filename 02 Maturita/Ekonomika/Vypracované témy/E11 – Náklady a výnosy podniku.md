@@ -91,3 +91,35 @@ Pri odpovedi treba najprv presne vymedziť náklady (spotreba výrobných faktor
 - [[Podstata finančného hospodárenia podniku]]
 - [[Odbytové činnosti podniku]]
 - [[E13 – Cenová politika podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo sú náklady a výnosy podniku?
+> Náklady – peňažné vyjadrenie spotreby výrobných faktorov (úbytok majetku).
+> Výnosy – výkony podniku vyjadrené v peniazoch.
+
+> [!question]- Ako vypočítaš hospodársky výsledok?
+> Výnosy − náklady; kladný = zisk, záporný = strata, nula = nulový bod.
+
+> [!question]- Ako sa členia náklady?
+> Druhovo (prvotné, druhotné), podľa závislosti od objemu (fixné,
+> variabilné), kalkulačne (priame, nepriame/režijné), podľa činnosti (bežné,
+> mimoriadne).
+
+> [!question]- Aký je rozdiel medzi priamymi a nepriamymi nákladmi?
+> Priame sa dajú presne priradiť na jednotku výkonu (priamy materiál, priama
+> mzda). Nepriame (režijné) sú spoločné a rozpočítavajú sa (odpisy budovy,
+> plat riaditeľa).
+
+> [!question]- Ako sa členia výnosy?
+> Druhovo (tržby za vlastné výkony, zmena stavu zásob, aktivácia, finančné),
+> podľa realizácie (externé tržby, vnútroorganizačné) a podľa činnosti.
+
+> [!question]- Uveď náklady výrobcu ECU jednotiek pre automobilky.
+> Fixné: odpisy SMD linky, nájom haly, mzdy dozoru. Variabilné: čipy, dosky,
+> konektory, priama mzda montáže, energia na kus.
+
+> [!question]- Ako môže podnik znižovať náklady a zvyšovať výnosy?
+> Náklady: lepšia organizácia práce, modernejšia technika, kvalita, využitie
+> majetku. Výnosy: rast objemu predaja (marketing, prieskum trhu), menej
+> vhodné je jednostranné zvyšovanie ceny.

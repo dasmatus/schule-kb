@@ -88,3 +88,31 @@ Slovenská próza po roku 1945 prešla vývinom od ideologicky zaťaženého sch
 ## Súvisiace poznámky
 
 - [[Slovenská medzivojnová literatúra – kontext]] (kontext predchádzajúceho obdobia a teória typov [[román|románu]])
+
+## Kontrolné otázky
+
+> [!question]- Aké etapy má slovenská próza po roku 1945?
+> 1945–1948 prechodné obdobie, 1948–1956 schematizmus, koniec 50. a 60. roky
+> nová vlna, normalizácia (oficiálna, exilová, samizdatová), po roku 1989 pluralita.
+
+> [!question]- Aké sú znaky schematizmu?
+> Ideologická jednoznačnosť, kladný hrdina (budovateľ), čiernobiele postavy,
+> lineárna kompozícia, optimistický záver.
+
+> [!question]- Čo priniesla nová vlna v 60. rokoch?
+> Subjektivizáciu rozprávania, narušenú chronológiu, viac uhlov pohľadu,
+> kritický pohľad na nedávnu minulosť.
+
+> [!question]- O čom je Bednárova Kolíska?
+> Zita Černeková počúva v rádiu proces s Majerským a v spomienkach sa vracia ku
+> koncu vojny, keď ho ukryla pred Nemcami; novela zo zbierky Hodiny a minúty (1956).
+
+> [!question]- Akú rozprávačskú metódu používa Bednár?
+> Retrospektívu, montáž časových rovín, vnútorný pohľad postavy.
+
+> [!question]- Čím je typická tvorba Dušana Dušeka?
+> Civilná, lyrizovaná krátka próza, mikropríbehy z detstva a dospievania
+> (Kufor na sny).
+
+> [!question]- Čo je vnútorný monológ?
+> Priame zachytenie myšlienkového toku postavy.

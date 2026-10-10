@@ -116,3 +116,45 @@ In my opinion, a multicultural society is a richer society. Different cultures b
 - [[A23 – Public Holidays]] — sviatky rôznych kultúr
 - [[A14 – Learning Languages]] — jazyk ako kľúč k integrácii
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Which countries or cities would you describe as multicultural, and why?
+> The USA, Canada, Britain; cities like London, New York and Toronto, where
+> people of many nationalities, religions and languages live together.
+
+> [!question]- Is Slovakia a multicultural country?
+> Partly. Most people are Slovaks, but there are Hungarian, Roma, Czech,
+> Ruthenian and Ukrainian minorities, and more foreigners come to work here.
+
+> [!question]- What rights do minorities living in Slovakia have?
+> The right to use their language, to education in their language, to develop
+> their culture and to be protected from discrimination.
+
+> [!question]- Why do people leave their home country?
+> For work and better pay, education, love, or to escape war, persecution or
+> poverty.
+
+> [!question]- What difficulties do immigrants face in a new country?
+> The language barrier, finding a job and housing, different customs,
+> homesickness and prejudice.
+
+> [!question]- What are the advantages and disadvantages of living abroad?
+> Advantages: new experience, a language, often better pay. Disadvantages:
+> loneliness, missing family and difficulties fitting in.
+
+> [!question]- What is the difference between the "melting pot" and the "cultural mosaic"?
+> In a melting pot (USA) cultures mix into one common identity. In a cultural
+> mosaic (Canada) each group keeps its own culture while living together.
+
+> [!question]- Where do prejudices against other groups come from?
+> From ignorance, fear of the unknown, stereotypes, family upbringing and the
+> media.
+
+> [!question]- Have you ever experienced or witnessed discrimination?
+> Describe a situation briefly (e.g. jokes about a classmate's origin) and say
+> how you felt and what should have been done.
+
+> [!question]- What can schools do to teach tolerance?
+> Teach about other cultures, organise exchange programmes, invite guests and
+> clearly stop bullying and racism.

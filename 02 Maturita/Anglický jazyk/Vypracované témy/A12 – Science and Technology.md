@@ -118,3 +118,45 @@ To sum up, technology itself is neither good nor bad. What matters is how we dec
 - [[A16 – Mass Media]] — internet a médiá
 - [[A07 – Health Care]] — pokrok v medicíne
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Which inventions from the past do you consider essential for mankind?
+> The wheel, printing, electricity, the telephone, antibiotics, the computer
+> and the internet.
+
+> [!question]- What would our life be like without modern technology?
+> Slower and harder – no quick communication, less medicine, but maybe also
+> less stress and more contact with people and nature.
+
+> [!question]- Which invention is the most important one for you personally, and why?
+> The internet, because I use it to study, communicate, work on projects and
+> relax.
+
+> [!question]- Can you think of ways in which science can be misused?
+> Nuclear and chemical weapons, genetic manipulation and surveillance
+> technology used against people.
+
+> [!question]- How can the internet be misused?
+> Cybercrime, hacking, stealing personal data, spreading fake news,
+> cyberbullying and online fraud.
+
+> [!question]- What are the biggest problems connected with communicating by phone and online?
+> Misunderstandings without body language, addiction, less face-to-face
+> contact and privacy risks.
+
+> [!question]- Why is human cloning still such a controversial issue?
+> It raises ethical questions about identity and human dignity, and it could be
+> misused.
+
+> [!question]- Name some examples of pollution caused by technology.
+> Exhaust fumes from cars, emissions from power plants, electronic waste and
+> light and noise pollution.
+
+> [!question]- How is your life affected by living in a consumer society?
+> I am surrounded by adverts and new products. It is tempting to buy the latest
+> phone even if the old one works.
+
+> [!question]- Can you name some famous scientists and say what they are famous for?
+> Isaac Newton – gravity; Marie Curie – radioactivity; Albert Einstein –
+> theory of relativity; Nikola Tesla – alternating current.

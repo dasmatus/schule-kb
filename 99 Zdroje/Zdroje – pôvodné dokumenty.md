@@ -141,6 +141,19 @@ tags:
 | `29 The United States of America.pdf` | [[A27 – The USA]] |
 | `30 Slovakia - My Homeland.pdf` | [[A30 – Slovakia – My Homeland]] |
 
+## Nové zdroje (5)
+
+Prvé tri majú poznámku, ostatné sú sylaby, duplikát a osobný dokument.
+
+| Súbor | Obsah |
+| --- | --- |
+| `Elektrická bezpečnosť.pdf` | [[Elektrická bezpečnosť a hardvér PC]] |
+| `Externe karty.pdf` | [[Pamäť, adaptérové karty a rozširujúce sloty]] |
+| `Historia pocitacov.pdf` | [[História počítačov]] |
+| `Okruhy maturitných tém TČOZ MS_Sylaby_odbor IST.pdf` | sylaby TČOZ, zdroj pre [[Zoznam tém – TČOZ]] |
+| `Odbytové činnosti podniku (1) (1).docx` | kópia zdroja poznámky [[Odbytové činnosti podniku]] |
+| `prihovor.odt` | príhovor (osobný dokument) |
+
 ## Ponechané len ako zdroj (9)
 
 Tieto súbory poznámku nemajú — buď sú prázdne, alebo nejde o školský materiál.

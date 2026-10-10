@@ -70,3 +70,27 @@ Umelecký štýl je štýl krásnej literatúry s dominantnou estetickou funkcio
 - [[J01 – Hovorový jazykový štýl]]
 - [[J03 – Náučný jazykový štýl]]
 - [[J05 – Publicistický jazykový štýl]]
+
+## Kontrolné otázky
+
+> [!question]- Aká je základná funkcia umeleckého štýlu?
+> Estetická – pôsobiť na city a predstavivosť; popri nej výchovná, poznávacia
+> a zábavná.
+
+> [!question]- Aké sú znaky umeleckého štýlu?
+> Obraznosť, mnohovýznamovosť, individuálnosť, básnická licencia, využitie celej
+> slovnej zásoby, trópy a figúry, premyslená kompozícia, štylizácia iných štýlov.
+
+> [!question]- Čo je básnická licencia?
+> Zámerné porušenie jazykovej normy na dosiahnutie umeleckého účinku.
+
+> [!question]- Aký je rozdiel medzi trópom a figúrou?
+> Tróp prenáša význam (metafora, metonymia, personifikácia). Figúra mení
+> usporiadanie alebo opakuje (anafora, gradácia, inverzia).
+
+> [!question]- Urč trópy vo vete „Zlaté slnko sa smialo na lúke.“
+> Epiteton (zlaté slnko), personifikácia (slnko sa smialo).
+
+> [!question]- Aké útvary má umelecký štýl?
+> Žánre lyriky (óda, elégia, sonet), epiky (bájka, novela, román), drámy
+> (tragédia, komédia) a lyricko-epické (balada, romanca).

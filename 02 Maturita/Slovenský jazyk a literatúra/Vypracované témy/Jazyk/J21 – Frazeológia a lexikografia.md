@@ -100,3 +100,34 @@ V odpovedi je potrebné najprv definovať [[frazeologizmus]] a jeho základné z
 
 - [[J23 – Význam slova a jeho zložky]]
 - [[J24 – Synonymá, homonymá a antonymá]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je frazeologizmus?
+> Ustálené viacslovné spojenie s preneseným významom, ktorý sa nedá odvodiť zo
+> súčtu významov slov (hodiť flintu do žita).
+
+> [!question]- Aké znaky má frazeologizmus?
+> Ustálenosť, reprodukovateľnosť, obraznosť a expresívnosť, idiomatickosť.
+
+> [!question]- Ako sa delia frazeologizmy podľa zrastenosti?
+> Zrasty (mať niečo za lubom), celky (hodiť flintu do žita), spojenia (mať strach).
+
+> [!question]- Aký je rozdiel medzi prísloviami, porekadlami a pranostikami?
+> Príslovie – veta s mravným poučením. Porekadlo – obrazné konštatovanie bez
+> poučenia. Pranostika – ľudová skúsenosť o počasí.
+
+> [!question]- Čo sú okrídlené výrazy a prirovnania?
+> Okrídlené výrazy – zľudovené citáty (Kocky sú hodené). Prirovnania – ustálené
+> spojenia s „ako“ (biely ako stena).
+
+> [!question]- Čo je lexikografia a aké druhy slovníkov poznáš?
+> Náuka o tvorbe slovníkov. Výkladový, prekladový, synonymický, frazeologický,
+> etymologický, cudzích slov, pravopisný, terminologický.
+
+> [!question]- Aký je rozdiel medzi slovníkom a encyklopédiou?
+> Slovník vysvetľuje slová, encyklopédia veci a javy.
+
+> [!question]- Vymenuj významné slovenské výkladové slovníky.
+> Slovník slovenského jazyka (1959–1968), Krátky slovník slovenského jazyka
+> (od 1987), Slovník súčasného slovenského jazyka (od 2006).

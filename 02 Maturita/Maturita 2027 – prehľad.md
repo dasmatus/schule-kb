@@ -35,6 +35,12 @@ tags:
 **Vypracované:** literatúra 35/35 · slovenský jazyk 30/30 · ekonomika 33/33 ·
 anglický jazyk 30/30 · TČOZ 25/25
 
+**Na precvičovanie:** každá vypracovaná téma má na konci sekciu
+**Kontrolné otázky** s odpoveďami schovanými v rozbaľovacom callout-e (spolu
+asi 1 170 otázok). Pri angličtine sú to modelové odpovede na diskusné otázky z
+bodu 5. Témy TČOZ sú rozšírené o riešené príklady, konfigurácie Cisco a ukážky
+kódu v C#.
+
 ## Stav vypracovania
 
 ```dataview

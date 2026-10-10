@@ -70,3 +70,29 @@ Publicistický štýl slúži masovej komunikácii a spája informačnú funkciu
 - [[J01 – Hovorový jazykový štýl]]
 - [[J02 – Umelecký jazykový štýl]]
 - [[J04 – Administratívny jazykový štýl]]
+
+## Kontrolné otázky
+
+> [!question]- Aké funkcie má publicistický štýl?
+> Informačnú a ovplyvňovaciu (presvedčovaciu).
+
+> [!question]- Aké sú znaky publicistického štýlu?
+> Aktuálnosť, stručnosť a pútavosť, kombinácia objektívnosti a subjektívnosti,
+> publicizmy, expresívne prostriedky v titulkoch, obrátená pyramída, grafika.
+
+> [!question]- Čo je obrátená pyramída?
+> Najdôležitejšie informácie (kto, čo, kde, kedy, prečo, ako) sú na začiatku textu.
+
+> [!question]- Aké skupiny útvarov má publicistický štýl?
+> Spravodajské (správa, oznámenie, interview), analytické (komentár, úvodník,
+> recenzia, glosa), beletristické (reportáž, fejtón).
+
+> [!question]- Aký je rozdiel medzi správou a komentárom?
+> Správa podáva fakty bez hodnotenia, komentár fakty hodnotí.
+
+> [!question]- Čo je reportáž a fejtón?
+> Reportáž – autor je svedkom udalosti, spája fakty s obrazným rozprávaním.
+> Fejtón – krátky subjektívny, ironický pohľad na aktuálny jav.
+
+> [!question]- Čo sú publicizmy?
+> Ustálené novinárske spojenia („búrlivá diskusia“, „otvorená otázka zostáva“).

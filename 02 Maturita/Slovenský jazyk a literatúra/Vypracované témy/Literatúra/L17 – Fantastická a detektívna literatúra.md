@@ -72,3 +72,33 @@ Fantastická literatúra sa vydáva od reality preč – do sveta nadprirodzena,
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aký je rozdiel medzi fantastickou a detektívnou literatúrou?
+> Fantastická porušuje zákony reality (nadprirodzeno, iné svety). Detektívna
+> stavia na logike a racionálnom riešení záhady.
+
+> [!question]- Aké žánre patria do fantastickej literatúry?
+> Sci-fi, fantasy, horor, gotický román.
+
+> [!question]- Aké sú znaky detektívky?
+> Záhada/zločin, detektív s dedukciou, watsonovská postava, retrográdna
+> kompozícia, fair play, falošná stopa, prekvapivá pointa.
+
+> [!question]- O čom je Kafkova Premena?
+> Gregor Samsa sa premení na hmyz, rodina ho odmieta, izoluje sa a zomrie;
+> odcudzenie človeka v spoločnosti výkonu.
+
+> [!question]- Prečo sú Vraždy v Ulici Morgue dôležité?
+> Prvá moderná detektívka (1841); Dupin logickou analýzou vyrieši vraždu v
+> zamknutej izbe.
+
+> [!question]- Kto vytvoril Sherlocka Holmesa a Hercula Poirota?
+> Arthur Conan Doyle (Holmes, Watson) a Agatha Christie (Poirot, slečna Marplová).
+
+> [!question]- Čo je sekundárny svet?
+> Vymyslený svet s vlastnými pravidlami (Tolkienova Stredozem).
+
+> [!question]- Čo je retrográdna kompozícia?
+> Čitateľ najprv vidí dôsledok (zločin) a príčina sa rekonštruuje spätne.

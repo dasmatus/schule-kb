@@ -96,3 +96,30 @@ Pri odpovedi treba najprv jasne odlíšiť epiku od lyriky a drámy cez prítomn
 - [[Jozef Mak – rozbor diela]]
 - [[Drak sa vracia – rozbor diela]]
 - [[Dva bratia – rozbor diela]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je epika a čím sa odlišuje od ostatných druhov?
+> Rozprávanie príbehu (dej, postavy, priestor, čas) sprostredkované rozprávačom.
+
+> [!question]- Aké žánre patria do veršovanej epiky?
+> Epos, veršovaná legenda a povesť, balada, básnická (lyricko-epická) skladba.
+
+> [!question]- Aké žánre patria do prozaickej epiky?
+> Bájka, rozprávka, povesť, poviedka, novela, román.
+
+> [!question]- Porovnaj poviedku, novelu a román.
+> Poviedka – krátka, jedna dejová línia. Novela – stredný rozsah, jeden konflikt
+> s prekvapivou pointou (sokolí motív). Román – rozsiahly, viac dejových línií,
+> vyvíjajúce sa postavy.
+
+> [!question]- Aký je rozdiel medzi rozprávkou a povesťou?
+> Rozprávka – fantastické prvky, víťazstvo dobra. Povesť – viazaná na konkrétne
+> miesto alebo historickú udalosť.
+
+> [!question]- Aké typy kompozície poznáš?
+> Chronologická, retrospektívna, rámcová.
+
+> [!question]- Uveď príklady diel ku každému epickému žánru.
+> Epos – Ilias; balada – Zakliata panna vo Váhu; poviedka – Maco Mlieč; novela
+> – Dva bratia; román – Živý bič, Jozef Mak.

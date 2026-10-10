@@ -117,3 +117,46 @@ Finally, the Olympic Games are the greatest sporting event in the world. They ar
 - [[A17 – Young People]] — šport a životný štýl mladých
 - [[A30 – Slovakia – My Homeland]] — slovenské športové úspechy
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What is the difference between sport and a game?
+> Sport usually involves physical effort, training and competition according to
+> official rules. A game can be just for fun and does not have to be physical,
+> like chess or card games.
+
+> [!question]- Which sports do you like playing, and which do you prefer only to watch?
+> I like cycling and playing football with friends. I prefer watching ice
+> hockey, especially when Slovakia plays at the World Championship.
+
+> [!question]- What are the advantages and disadvantages of being a professional sportsman?
+> Advantages: fame, good money, travelling. Disadvantages: hard training,
+> injuries, pressure, little private life and a short career.
+
+> [!question]- Would you like to be a professional sportsman? Why or why not?
+> No, I would not. I enjoy sport as a hobby, but I would not like to train
+> every day and live under constant pressure.
+
+> [!question]- Would you go to a stadium to watch an important match, or do you prefer watching it on TV?
+> The stadium has a fantastic atmosphere, but on TV you see replays and it is
+> cheaper. For a really important match I would go to the stadium.
+
+> [!question]- Do you have a favourite sportsman or sportswoman? Describe them.
+> Name a sportsperson (e.g. Petra Vlhová), say what they achieved and what you
+> admire – discipline, fighting spirit, coming back after an injury.
+
+> [!question]- Why do you think doping is such a big problem in professional sport?
+> There is huge pressure to win and a lot of money involved. Doping is unfair
+> and it seriously damages athletes' health.
+
+> [!question]- Should sport be a compulsory subject at school?
+> Yes, because many students do not move enough. But PE should offer more
+> choice so that everybody finds something they enjoy.
+
+> [!question]- Would you ever try an extreme sport? Which one, and why?
+> I would like to try paragliding once, with an experienced instructor. It
+> must be an incredible feeling to fly over the mountains.
+
+> [!question]- What do the Olympic Games mean to you?
+> They are the biggest sporting event in the world and a symbol of peace and
+> fair play. I always watch when Slovak athletes compete.

@@ -123,3 +123,47 @@ If I had to recommend one place to a foreign visitor, I would send them to the H
 - [[A05 – Food and Eating]] — slovenská kuchyňa
 - [[A26 – The United Kingdom]] — porovnanie reálií dvoch krajín
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Where is Slovakia situated and which countries does it border on?
+> In Central Europe. It borders on the Czech Republic, Poland, Ukraine, Hungary
+> and Austria.
+
+> [!question]- What are the most important mountains and rivers in Slovakia?
+> The Tatras with Gerlachovský štít (2,655 m), the Low Tatras and the Fatra
+> mountains; the rivers Danube, Váh, Hron and Nitra.
+
+> [!question]- What is the Slovak climate like?
+> Continental, with four seasons – warm summers and cold winters; it is
+> colder in the mountains.
+
+> [!question]- Which industries are the most important for our economy?
+> The car industry (Volkswagen, Kia, Stellantis, Jaguar Land Rover),
+> electronics, engineering, metallurgy and IT services.
+
+> [!question]- How is Slovakia governed?
+> It is a parliamentary republic. The National Council has 150 members, the
+> government is led by the Prime Minister and the President is elected directly
+> by the people.
+
+> [!question]- What are the key events in Slovak history?
+> Great Moravia and Cyril and Methodius (863), Czechoslovakia in 1918, the
+> Slovak National Uprising in 1944, the Velvet Revolution in 1989,
+> independence on 1 January 1993, joining the EU and NATO in 2004 and the euro in 2009.
+
+> [!question]- What would you show a foreign visitor in Bratislava?
+> Bratislava Castle, St. Martin's Cathedral, the Old Town and Michael's Gate,
+> the UFO bridge and Devín Castle.
+
+> [!question]- Which place in Slovakia would you recommend, and why?
+> The High Tatras for hiking, Spiš Castle as one of the largest castles in
+> Central Europe, or Banská Štiavnica for its history.
+
+> [!question]- What Slovak customs and traditions do you know?
+> Easter Monday water pouring, Christmas Eve dinner, carnival (fašiangy),
+> folk costumes, songs and dances, and the fujara.
+
+> [!question]- What are Slovakia's biggest problems today?
+> Young people leaving to work or study abroad, regional differences, health
+> care, corruption and dependence on the car industry.

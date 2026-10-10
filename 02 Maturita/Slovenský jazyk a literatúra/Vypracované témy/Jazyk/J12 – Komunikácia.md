@@ -89,3 +89,31 @@ V odpovedi treba vymedziť komunikáciu ako proces výmeny informácií a vymeno
 ## Súvisiace poznámky
 
 - [[Zvuková rovina jazyka]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je komunikácia?
+> Proces odovzdávania a prijímania informácií verbálnymi alebo neverbálnymi
+> prostriedkami.
+
+> [!question]- Aké sú prvky komunikačného reťazca?
+> Odosielateľ, správa, kód, kanál, príjemca, kontext, spätná väzba, šum.
+
+> [!question]- Aké funkcie jazyka poznáš?
+> Expresívna (odosielateľ), apelová/konatívna (adresát), referenčná (kontext),
+> fatická (kontakt), metajazyková (kód), estetická (správa).
+
+> [!question]- Ako sa komunikácia člení?
+> Verbálna/neverbálna, hovorená/písaná, interpersonálna/skupinová/masová,
+> priama/nepriama, formálna/neformálna.
+
+> [!question]- Aké zložky má neverbálna komunikácia?
+> Kinezika (gestá, mimika), proxemika (vzdialenosť), haptika (dotyk),
+> paralingvistika (tón, tempo), vizika (očný kontakt).
+
+> [!question]- Čo je spätná väzba a šum?
+> Spätná väzba – reakcia príjemcu potvrdzujúca prijatie. Šum – čokoľvek, čo
+> ruší alebo skresľuje prenos.
+
+> [!question]- Aké princípy má mať funkčná komunikácia?
+> Zrozumiteľnosť, jednoznačnosť, adekvátnosť situácii, obojsmernosť.

@@ -112,3 +112,45 @@ As for me, when I was a child I wanted to be a firefighter. Today my plans are m
 - [[A15 – People and Society]] — nezamestnanosť ako sociálny problém
 - [[A06 – Shopping and Services]] — práca v obchode a v službách
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What kinds of jobs do you know, and how would you divide them?
+> Manual and intellectual jobs, jobs in services, industry and agriculture,
+> full-time and part-time jobs, employed and self-employed.
+
+> [!question]- Why do people work? Is money the only reason?
+> Money is important, but people also work for self-realisation, contact with
+> others, a feeling of being useful and career growth.
+
+> [!question]- How would you look for a job today?
+> On job portals like Profesia.sk, through LinkedIn, recommendations from
+> friends or by contacting companies directly.
+
+> [!question]- What should a good CV contain?
+> Personal details, education, work experience, skills such as languages and
+> IT, and interests. It should be short, clear and without mistakes.
+
+> [!question]- How should you behave at a job interview?
+> Be on time, dress appropriately, be polite and confident, listen carefully,
+> answer honestly and show you know something about the company.
+
+> [!question]- What questions would you ask your future employer?
+> What my tasks would be, what training they offer, what the working hours
+> are and what the possibilities for promotion are.
+
+> [!question]- What are the most common reasons for changing a job?
+> A low salary, bad relationships at work, no chance of promotion, stress or
+> moving to a different place.
+
+> [!question]- Who is most at risk of unemployment, and why?
+> People without qualifications, school leavers without experience, older
+> people and people in regions with few employers.
+
+> [!question]- What did you want to be when you were a child, and has it changed?
+> I wanted to be a pilot. Now I want to work in IT because I enjoy computers
+> and networks.
+
+> [!question]- Is it better to have a well-paid job you dislike, or a poorly paid job you enjoy?
+> I would choose a job I enjoy if the money is enough to live on, because you
+> spend a large part of your life at work.

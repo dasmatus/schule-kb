@@ -114,3 +114,44 @@ Finally there is the generation gap. Parents and children have different priorit
 - [[A19 – Hobbies and Leisure]] — ako mladí trávia voľný čas
 - [[A25 – Role Models and Idols]] — koho mladí obdivujú
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- What is it like to be a teenager today?
+> Exciting but stressful – we have many opportunities and freedom, but also
+> pressure from school, parents and social media.
+
+> [!question]- How would you describe the appearance and style of young people?
+> Casual – jeans, hoodies, trainers. Many follow trends from social media, some
+> have tattoos or dyed hair.
+
+> [!question]- What are the most common worries and fears of young people?
+> Exams, the future and finding a job, relationships, appearance and climate
+> change.
+
+> [!question]- Name three good and three bad things about being young.
+> Good: energy, freedom, few responsibilities. Bad: lack of money, pressure at
+> school, not being taken seriously.
+
+> [!question]- How do young people spend their free time?
+> With friends, on social networks, playing games, doing sport, listening to
+> music and going to parties.
+
+> [!question]- What are the legal rights of young people in Slovakia?
+> At 15 you get an ID card, at 16 you can ride a motorbike, at 18 you can vote,
+> drive a car, get married and buy alcohol.
+
+> [!question]- Why do some young people start smoking or taking drugs?
+> Curiosity, peer pressure, problems at home or wanting to escape from stress.
+
+> [!question]- What is peer pressure and how strong is it?
+> Pressure from people of your age to behave like them. It can be very strong
+> because teenagers want to belong to a group.
+
+> [!question]- Why does the generation gap exist, and can it be bridged?
+> Generations grew up in different times with different values. It can be
+> bridged by talking, listening and respecting each other.
+
+> [!question]- Are young people today better or worse off than their parents were?
+> Better off in technology, travelling and education, but housing is more
+> expensive and there is more stress.

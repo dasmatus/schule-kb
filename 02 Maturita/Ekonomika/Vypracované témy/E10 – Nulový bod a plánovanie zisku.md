@@ -76,3 +76,28 @@ Nulový bod je objem výroby, pri ktorom sa výnosy rovnajú nákladom; vypočí
 - [[E11 – Náklady a výnosy podniku]]
 - [[E13 – Cenová politika podniku]]
 - [[Podstata finančného hospodárenia podniku]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je nulový bod?
+> Objem výroby, pri ktorom sa výnosy rovnajú nákladom – hospodársky výsledok je
+> nula. Nad ním je zisk, pod ním strata.
+
+> [!question]- Aký je rozdiel medzi fixnými a variabilnými nákladmi?
+> Fixné sa s objemom výroby nemenia (nájom, odpisy, mzdy administratívy).
+> Variabilné rastú s objemom (materiál, energia na kus, úkolová mzda).
+
+> [!question]- Napíš vzorec pre kritický objem výroby.
+> Qkrit = FN : (cena za kus − VN za kus).
+
+> [!question]- Ako sa vzorec zmení pri plánovanom zisku?
+> Qzisk = (FN + plánovaný zisk) : (cena − VN za kus).
+
+> [!question]- Vypočítaj nulový bod: FN 15 000 €, cena 620 €, VN 380 €/ks.
+> 15 000 : 240 = 62,5 → 63 ks (zaokrúhľuje sa nahor).
+
+> [!question]- Koľko kusov treba na zisk 6 000 € v tom istom príklade?
+> 21 000 : 240 = 87,5 → 88 ks.
+
+> [!question]- Prečo sa necelý kus zaokrúhľuje nahor?
+> Pri zaokrúhlení nadol by výnosy ešte nepokryli náklady a podnik by bol v strate.

@@ -14,11 +14,22 @@ tags:
 > [!info] Maturita
 > áno – TČOZ / PČOZ
 
+## CCNA3 – ENSA (IV. ročník)
+
+- [[CCNA3 – ENSA]] — *rozcestník kurzu* · 14 modulov + [[ENSA – Ťahák príkazov|ťahák príkazov]]
+
 ## Poznámky
 
+- [[Počítačové siete – TČOZ]] — *maturitný prehľad*
+- [[Programovanie – TČOZ]] — *maturitný prehľad*
+- [[Hardvér a IoT – TČOZ]] — *maturitný prehľad*
 - [[Grafické karty]] — *referát* · 2025
 - [[Pamäte]] — *referát* · 2025
 - [[Pevné disky]] — *referát* · 2025
 - [[Základná doska]] — *referát* · 2025
+- [[Elektrická bezpečnosť a hardvér PC]] — *poznámky*
+- [[Pamäť, adaptérové karty a rozširujúce sloty]] — *poznámky*
+- [[História počítačov]] — *poznámky*
 - [[Cacheovanie a monitoring databázy]] — *prezentácia*
 - [[Packet Tracer – Physical View]] — *prezentácia*
+- [[CCNA2 – SRWE]] — *poznámky* · 16 modulov kurzu CCNA2 (NetAcad)

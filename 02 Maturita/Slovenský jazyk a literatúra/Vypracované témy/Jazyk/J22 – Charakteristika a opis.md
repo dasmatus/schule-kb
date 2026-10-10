@@ -96,3 +96,28 @@ Pri odpovedi je nutné najprv jasne oddeliť opis (vecí, javov – prevažne ob
 ## Súvisiace poznámky
 
 - [[Kritériá na písanie úvahy]]
+
+## Kontrolné otázky
+
+> [!question]- Aký je rozdiel medzi opisom a charakteristikou?
+> Opis zachytáva vonkajšie znaky veci alebo javu, je objektívny. Charakteristika
+> opisuje človeka vrátane povahy a hodnotí ho.
+
+> [!question]- Aké druhy opisu poznáš?
+> Prostý, opis pracovného postupu, umelecký, odborný, portrét.
+
+> [!question]- Aké druhy charakteristiky poznáš?
+> Priama, nepriama, vonkajšia, vnútorná, literárna, autocharakteristika,
+> skupinová, porovnávacia.
+
+> [!question]- Aká je kompozícia charakteristiky?
+> Úvod (kto a vzťah k autorovi), jadro (vonkajší opis, vnútorné vlastnosti s
+> príkladmi), záver (zhodnotenie a vzťah autora).
+
+> [!question]- Akými prostriedkami sa vyjadrujú vlastnosti v charakteristike?
+> Akostné prídavné mená, prirovnania, metafory, frazeologizmy, priama reč,
+> doklad z konania.
+
+> [!question]- Uveď príklad nepriamej charakteristiky.
+> Starý otec hovorí: „Kto sa bojí, nech radšej ani nezačína.“ – z výroku vyplýva
+> jeho odvaha a rozhodnosť.

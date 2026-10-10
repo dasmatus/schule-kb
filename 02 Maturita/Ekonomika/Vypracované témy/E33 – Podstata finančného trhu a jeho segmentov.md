@@ -96,3 +96,33 @@ Výrobca počítačových zostáv sa v priebehu roka stretáva so všetkými seg
 - [[Banková sústava]]
 - [[Obchodné banky]]
 - [[Zoznam tém – ekonomika]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je finančný trh?
+> Miesto stretnutia dopytu a ponuky po voľných finančných prostriedkoch; cena
+> má formu úroku, kurzu alebo poistného.
+
+> [!question]- Aký je rozdiel medzi priamym a nepriamym financovaním?
+> Priame – dlžník získa peniaze od veriteľa predajom cenných papierov.
+> Nepriame – cez sprostredkovateľa (banka, poisťovňa).
+
+> [!question]- Aké funkcie má finančný trh?
+> Akumulačnú, alokačnú, prerozdeľovaciu, selektívnu.
+
+> [!question]- Vymenuj segmenty finančného trhu.
+> Peňažný, kapitálový, poistný, devízový a trh drahých kovov.
+
+> [!question]- Aký je rozdiel medzi peňažným a kapitálovým trhom?
+> Peňažný – krátkodobý kapitál do 1 roka, cena úrok (pokladničné poukážky,
+> zmenky). Kapitálový – nad 1 rok, cena kurz (akcie, dlhopisy).
+
+> [!question]- Čo je primárny a sekundárny kapitálový trh?
+> Primárny – emisia nových cenných papierov. Sekundárny – obchod s už vydanými
+> papiermi, zabezpečuje likviditu.
+
+> [!question]- Aké vlastnosti má poistný trh?
+> Solidárnosť, podmienená návratnosť, neekvivalentnosť.
+
+> [!question]- Vypočítaj úrok z 10 000 € na 3 mesiace pri 6 % p. a.
+> 10 000 × 0,06 × 0,25 = 150 €; splatná suma 10 150 €.

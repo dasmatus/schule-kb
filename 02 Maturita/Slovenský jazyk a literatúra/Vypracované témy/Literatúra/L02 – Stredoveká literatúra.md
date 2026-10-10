@@ -83,3 +83,37 @@ Osobitné miesto má v tomto období literatúra staroslovienska, ktorá vzniká
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aké sú znaky stredovekej literatúry?
+> Teocentrizmus, anonymita, didaktickosť a alegória, latinčina popri národných
+> jazykoch, cirkevné aj svetské žánre, rytiersky ideál.
+
+> [!question]- Kedy a prečo prišli Konštantín a Metod na Veľkú Moravu?
+> Roku 863 na pozvanie Rastislava ako byzantská misia, aby šírili kresťanstvo v
+> zrozumiteľnom jazyku.
+
+> [!question]- Čo vytvoril Konštantín pre Slovanov?
+> Hlaholiku – prvé slovanské písmo; s Metodom preložili liturgické a biblické
+> texty do staroslovienčiny.
+
+> [!question]- Čo sú Moravsko-panónske legendy?
+> Život Konštantína a Život Metoda – legendy o živote a činnosti
+> solúnskych bratov.
+
+> [!question]- O čom je Proglas a prečo je dôležitý?
+> Predspev k evanjeliu (pripisovaný Konštantínovi), obhajuje právo Slovanov na
+> Božie slovo v ich jazyku; pokladá sa za prvú slovanskú báseň.
+
+> [!question]- Aké štylistické prostriedky používa Proglas?
+> Rečnícke otázky, priame výzvy, gradáciu; slabičný (sylabický) verš podľa
+> byzantského vzoru.
+
+> [!question]- Čo sa stalo po vyhnaní Metodových žiakov?
+> Cyrilo-metodská tradícia pokračovala v Bulharsku a na Balkáne (Kliment,
+> Naum), odkiaľ sa šírila hlaholika a cyrilika.
+
+> [!question]- Aký je rozdiel medzi legendou a rytierskym eposom?
+> Legenda – životopis svätca so zázrakmi. Rytiersky epos – veršované hrdinské
+> činy rytierov (Pieseň o Rolandovi).

@@ -110,3 +110,43 @@ As for me, I have not travelled a great deal yet — mostly holidays in Slovakia
 - [[A11 – Man and Nature]] — doprava a znečistenie ovzdušia
 - [[A26 – The United Kingdom]] — cestovanie do anglicky hovoriacich krajín
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- Why do people travel?
+> To relax, see new places and cultures, learn languages, visit friends or for
+> work.
+
+> [!question]- Which means of transport do you prefer, and why?
+> The train – it is comfortable, I can read or work, and it is better for the
+> environment.
+
+> [!question]- What are the advantages and disadvantages of travelling by plane?
+> It is the fastest way to travel long distances, but it is expensive,
+> there are long checks at the airport and it pollutes the air.
+
+> [!question]- Do you prefer travelling with a travel agency or on your own?
+> On my own – I can plan everything as I like and it is often cheaper.
+
+> [!question]- What do you have to arrange before you go abroad?
+> A valid ID or passport, transport, accommodation, travel insurance, maybe a
+> visa, and currency or a card.
+
+> [!question]- Describe what happens at an airport before a flight.
+> You check in, drop off your luggage, go through security, then passport
+> control if needed, wait at the gate and board the plane.
+
+> [!question]- What kind of accommodation would you choose and why?
+> A hostel or an apartment – it is cheaper than a hotel and I can meet people
+> or cook for myself.
+
+> [!question]- What is the most interesting place you have ever visited?
+> Describe one place, when you went there, what you saw and why it impressed you.
+
+> [!question]- Where would you like to travel one day, and why?
+> To Japan, because of the technology, culture and food, or to the USA to see
+> Silicon Valley.
+
+> [!question]- How do you think people will travel in a hundred years?
+> Faster and greener – electric or self-driving cars, very fast trains and
+> maybe even trips into space.

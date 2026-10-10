@@ -1,3 +1,17 @@
+---
+title: "Modifikácia vetnej skladby, súvetie"
+predmet: "Slovenský jazyk a literatúra"
+typ: "poznámky"
+trieda: "III.IST"
+ročník_teraz: "IV.IST"
+tags:
+  - sjl/jazyk
+  - syntax
+  - súvetie
+---
+
+# Modifikácia vetnej skladby, súvetie
+
 **Modifikácia vetnej stavby** znamená zmenu usporiadania alebo rozšírenie vety tak, aby vyjadrovala určitý významový vzťah.
 
 **Súvetie** je spojenie dvoch alebo viacerých viet do jedného celku. Jednotlivé vety sa nazývajú **vety v súvetí**.

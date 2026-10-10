@@ -1,3 +1,16 @@
+---
+title: "Dráma"
+predmet: "Slovenský jazyk a literatúra"
+typ: "poznámky"
+trieda: "III.IST"
+ročník_teraz: "IV.IST"
+tags:
+  - sjl/literatúra
+  - dráma
+---
+
+# Dráma
+
 Dráma je **literárny druh**, ktorý je určený predovšetkým na **predvádzanie na javisku**. Dej sa rozvíja najmä prostredníctvom konania postáv, dialógov a scénických prostriedkov.
 
 ### Charakteristické znaky drámy

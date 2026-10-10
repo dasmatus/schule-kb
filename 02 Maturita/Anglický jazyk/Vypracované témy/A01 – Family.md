@@ -104,3 +104,46 @@ In our free time we like going for trips to the mountains, and in the evening we
 - [[A04 – Housing and Home]] — kde rodina býva
 - [[A23 – Public Holidays]] — rodinné oslavy a sviatky
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+
+## Kontrolné otázky
+
+> [!question]- How would you define the word "family"?
+> A family is a group of people connected by blood, marriage or adoption who
+> live together or care for each other. For me it is mainly the people I can
+> always rely on.
+
+> [!question]- What does family mean to you personally?
+> It means safety and support. Whatever happens at school or with friends, I
+> know my parents and my brother are on my side.
+
+> [!question]- What makes a happy, functional family?
+> Trust, respect and communication. Members should spend time together, share
+> the duties fairly and solve problems by talking, not shouting.
+
+> [!question]- On what occasions does your family meet up?
+> Birthdays and name days, Christmas and Easter, and bigger events like
+> weddings, christenings or, sadly, funerals.
+
+> [!question]- What is your opinion of couples living together without marriage?
+> I think it is their own decision. Living together first can help a couple
+> find out whether they really get on before they get married.
+
+> [!question]- What do you think are the main reasons for divorce?
+> Lack of communication, money problems, infidelity, and people getting
+> married too young or too quickly.
+
+> [!question]- What makes a marriage last?
+> Love, but also patience, compromise and honesty. Partners should respect each
+> other's interests and face problems together.
+
+> [!question]- Is it better to have liberal parents or over-caring ones?
+> Something in between is best. Too much freedom can be dangerous, but
+> over-caring parents stop a teenager from becoming independent.
+
+> [!question]- How are household duties divided in your family, and is it fair?
+> Everybody has a job – my mum cooks, my dad repairs things, my brother takes
+> out the rubbish and I hoover and wash up. I think it is quite fair.
+
+> [!question]- Can you explain the proverb "In time of test, family is best"?
+> When you are in trouble, your family is usually the first to help you,
+> even when friends let you down.

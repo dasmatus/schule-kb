@@ -104,3 +104,27 @@ Firma pritom musí sledovať aj **ceny [[Konkurencia|konkurencie]]** (iné e-sho
 - [[E13 – Cenová politika podniku]]
 - [[E11 – Náklady a výnosy podniku]]
 - [[E31 – Kalkulácia – dátová dvojzásuvka]]
+
+## Kontrolné otázky
+
+> [!question]- Aký je kalkulačný vzorec?
+> Priamy materiál + priame mzdy + ostatné priame náklady + výrobná réžia =
+> vlastné náklady výroby; + správna réžia = vlastné náklady výkonu; + zisk =
+> cena bez DPH; + DPH = cena s DPH.
+
+> [!question]- Aké komponenty treba na multimédiá, úpravu fotiek a nenáročné hry?
+> Procesor strednej triedy, 16 GB RAM, rýchly SSD, dedikovaná grafická karta
+> nižšej strednej triedy, kvalitný zdroj.
+
+> [!question]- Prečo nestačí integrovaná grafika?
+> Na plynulé hry a akceleráciu strihu videa nemá dostatočný výkon.
+
+> [!question]- Vypočítaj cenu zostavy z materiálu 600 €.
+> + mzda 30 € = 630 €; réžia 15 % = 94,50 € → 724,50 €; zisk 10 % = 72,45 € →
+> 796,95 € bez DPH; DPH 23 % → 980,25 €.
+
+> [!question]- Akú metódu tvorby ceny si použil?
+> Nákladovú prirážkovú – k vlastným nákladom sa pripočíta zisková prirážka.
+
+> [!question]- Čo patrí do priamej mzdy pri dodávke zostavy?
+> Práca technika – montáž, inštalácia OS a ovládačov, test.

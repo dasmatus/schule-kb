@@ -142,3 +142,32 @@ Výklad a [[úvaha]] sú dva slohové útvary, ktoré sa líšia predovšetkým 
 - [[Náučný štýl a logické postupy]]
 - [[PFIČ MS – výklad a kritériá]]
 - [[Básnické prostriedky a kompozícia úvahy]]
+
+## Kontrolné otázky
+
+> [!question]- Aký je hlavný rozdiel medzi výkladom a úvahou?
+> Zámer: výklad objektívne vysvetľuje, úvaha subjektívne hodnotí a presviedča.
+
+> [!question]- Porovnaj jazykové prostriedky výkladu a úvahy.
+> Výklad – odborná neutrálna lexika, neosobnosť alebo autorský plurál,
+> oznamovacie súvetia. Úvaha – citová a obrazná lexika, 1. osoba, rečnícke
+> otázky, rôzna modalita.
+
+> [!question]- Ako sa líši kompozícia výkladu a úvahy?
+> Výklad – prehľadná, stereotypná (úvod – jadro – záver, kapitoly). Úvaha –
+> originálna, menej zreteľná, úvahový oblúk.
+
+> [!question]- Čo je úvahový oblúk?
+> Návrat v závere úvahy k myšlienke z úvodu.
+
+> [!question]- Aké typy argumentov sa používajú v úvahe?
+> Komparácia, analógia, vlastná skúsenosť, názor experta, štatistika, príklad,
+> všeobecne uznávaná hodnota, viac uhlov pohľadu.
+
+> [!question]- Ktoré slohové postupy sa uplatňujú v úvahe?
+> Úvahový, výkladový, opisný (najviac raz v odseku), rozprávací (pri príklade
+> zo skúsenosti, musí smerovať k hodnoteniu).
+
+> [!question]- Čo nepatrí do zdôvodnenia témy v úvode úvahy?
+> Veta typu „píšem, lebo som ju dostal na maturite“; treba uviesť aktuálnosť
+> alebo konkrétny podnet.

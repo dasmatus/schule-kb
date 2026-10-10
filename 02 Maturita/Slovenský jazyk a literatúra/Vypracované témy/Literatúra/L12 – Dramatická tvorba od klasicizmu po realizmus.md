@@ -58,3 +58,31 @@ Slovenská dráma prechádza od [[Klasicizmus|klasicistickej]] výchovnej satiry
 ## Súvisiace poznámky
 
 - [[L11 – Slovenský realizmus]] (J. G. Tajovský ako autor prózy aj drámy)
+
+## Kontrolné otázky
+
+> [!question]- Ako sa vyvíjala slovenská dráma od klasicizmu po realizmus?
+> J. Chalupka – výchovná satira (Kocúrkovo), J. Palárik – zmierovacia
+> veselohra (Zmierenie), J. G. Tajovský – realistická sociálna dráma
+> (Statky-zmätky).
+
+> [!question]- Čo kritizuje Kocúrkovo?
+> Odrodilstvo a malomestskosť – mešťania a zemania sa hanbia za slovenčinu a
+> predstierajú vyššie postavenie. Kladná postava – učiteľ Svoboda.
+
+> [!question]- Čím sa vyznačuje Palárikova dráma?
+> Veselohra so zámenou osôb, harmonické riešenie, zmierenie národov a vrstiev.
+
+> [!question]- O čom je Statky-zmätky?
+> Ďurko a Zuzka sú zosobášení pre majetok, nie z lásky; Ďurko sa vracia k Bete,
+> pije, rodina sa rozpadá. Honba za majetkom prináša nešťastie.
+
+> [!question]- Ako sa vyvíja postava Zuzky?
+> Z poslušného, naivného dievčaťa na sebavedomú ženu, ktorá sa postaví za seba.
+
+> [!question]- Aké sú kompozičné jednotky drámy?
+> Dejstvo, výstup (scéna), replika, dialóg, monológ, scénická poznámka (didaskália).
+
+> [!question]- Aké sú žánre drámy?
+> Tragédia (tragický koniec), komédia/veselohra (šťastný koniec, výsmech),
+> činohra (vážna dráma zo súčasnosti).

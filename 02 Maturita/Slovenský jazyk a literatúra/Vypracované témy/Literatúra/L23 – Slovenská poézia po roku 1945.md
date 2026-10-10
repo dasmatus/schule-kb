@@ -77,3 +77,30 @@ Slovenská poézia po roku 1945 sa vyvíja od schematizmu (do polovice 50. rokov
 ## Súvisiace poznámky
 
 - [[Slovenská medzivojnová poézia]] (predchádzajúce obdobie, kontext [[veršový systém|veršového systému]] a rýmu)
+
+## Kontrolné otázky
+
+> [!question]- Aké vývinové tendencie má slovenská poézia po roku 1945?
+> Schematizmus (1948–1956), uvoľnenie a modernizácia v 60. rokoch (trnavská
+> skupina, Válek, Rúfus), mladšia generácia 70.–80. rokov (Hevier, Urban).
+
+> [!question]- Čo je trnavská skupina?
+> Feldek, Ondruš, Mihalkovič, Stacho – odklon od schematizmu k civilnej poézii,
+> voľný verš, senzualizmus; publikovali v Mladej tvorbe.
+
+> [!question]- Aký vzťah mal Válek k trnavskej skupine?
+> Ako redaktor Mladej tvorby jej otvoril priestor, ale formálnym členom nebol.
+
+> [!question]- O čom je Válkova zbierka Dotyky?
+> Zmyslové vnímanie sveta, dotyk ako kontakt so svetom a druhým človekom;
+> láska, samota, existenciálna neistota; voľný verš.
+
+> [!question]- Čím je typická poézia Milana Rúfusa?
+> Reflexívna, meditatívna, duchovná lyrika – domov, matka, práca, zodpovednosť;
+> debut Až dozrieme (1956).
+
+> [!question]- Čo je senzualizmus?
+> Dôraz na zmyslové vnímanie skutočnosti ako zdroj básnického obrazu.
+
+> [!question]- Čím je typická mladšia generácia (Hevier, Urban)?
+> Jazyková hravosť, civilnosť, prepojenie s populárnou hudbou a textárstvom.

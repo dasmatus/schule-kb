@@ -20,6 +20,8 @@ tags:
 - [[Pracovný list – zvuková rovina (zadanie)]] — *cvičenie* · 2026-06-05
 - [[Zvuková rovina jazyka]] — *poznámky*
 - [[Zvuková rovina jazyka – prezentácia]] — *prezentácia*
+- [[Vyrazove prostriedky]] — *poznámky*
+- [[Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie)]] — *poznámky*
 
 ## Literatúra
 
@@ -35,6 +37,7 @@ tags:
 - [[Reflexia filmu Štúr – zadanie]] — *zadanie*
 - [[Rozbor textov – nadradený motív]] — *poznámky*
 - [[Živý bič – čitateľský denník]] — *čitateľský-denník*
+- [[Dráma]] — *poznámky*
 
 ## Sloh
 

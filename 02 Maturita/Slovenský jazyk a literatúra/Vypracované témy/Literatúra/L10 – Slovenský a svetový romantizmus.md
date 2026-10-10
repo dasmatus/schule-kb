@@ -62,3 +62,31 @@ Romantizmus vytvoril niekoľko výrazných typov hrdinu: od osamelého byronské
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Aké typy romantických hrdinov poznáš?
+> Byronský, kolektívny, zbojník-vykupiteľ, vyobcovaný vizionár, harmonický,
+> hrdina cti a vernosti.
+
+> [!question]- Ako sa líši slovenský a svetový romantický hrdina?
+> Svetový je individualista s vnútorným konfliktom. Slovenský je spätý s
+> osudom národa, aj vzbura má národný a mravný presah.
+
+> [!question]- Ako je postavená kompozícia Smrti Jánošíkovej?
+> Prelína sa reálna rovina (zatknutie, poprava) so snovou (svadba s vílami v
+> horách) – symbolický, apoteózny rozmer.
+
+> [!question]- Aká je hlavná myšlienka Smrti Jánošíkovej?
+> Smrťou hrdinu myšlienka slobody a spravodlivosti nezaniká, žije v pamäti národa.
+
+> [!question]- Čo je literárny typ?
+> Postava, ktorá okrem individuálnych čŕt stelesňuje širšiu spoločenskú alebo
+> psychologickú kategóriu.
+
+> [!question]- Ako sa delia literárne postavy?
+> Hlavné a vedľajšie; kladné, záporné, rozporné; statické a dynamické.
+
+> [!question]- Aké spôsoby riešenia konfliktu poznáš v romantizme?
+> Harmonický (Sládkovič – zmierenie citu a povinnosti) a tragický (Botto,
+> Chalupka – smrť hrdinu, ale víťazí idea).

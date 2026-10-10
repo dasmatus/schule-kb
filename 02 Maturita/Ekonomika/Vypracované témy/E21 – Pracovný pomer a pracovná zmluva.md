@@ -84,3 +84,31 @@ Ak by firma o dva roky neskôr rušila celé oddelenie kvôli útlmu projektu a 
 
 - [[E08 – Získavanie zamestnancov]]
 - [[E22 – Mzda a výpočet čistej mzdy]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je pracovný pomer?
+> Pracovnoprávny vzťah, v ktorom zamestnanec osobne vykonáva závislú prácu
+> podľa pokynov zamestnávateľa za mzdu (Zákonník práce 311/2001 Z. z.).
+
+> [!question]- Aké formy vzniku pracovného pomeru poznáš?
+> Pracovná zmluva, voľba a vymenovanie. Voľba a vymenovanie sú len predpoklad,
+> pracovný pomer aj tak vzniká až pracovnou zmluvou.
+
+> [!question]- Aké podstatné náležitosti má pracovná zmluva?
+> Druh práce, miesto výkonu práce, deň nástupu, mzdové podmienky (ak nie sú v
+> kolektívnej zmluve). Uzatvára sa písomne.
+
+> [!question]- Čo je skúšobná doba?
+> Max. 3 mesiace (vedúci 6), dohodnutá písomne; počas nej môže ktorákoľvek
+> strana skončiť pracovný pomer bez udania dôvodu.
+
+> [!question]- Akými spôsobmi sa končí pracovný pomer?
+> Dohodou, výpoveďou, okamžitým skončením, skončením v skúšobnej dobe,
+> uplynutím dohodnutej doby.
+
+> [!question]- Aká je výpovedná doba pri organizačných dôvodoch po 6 rokoch?
+> Najmenej 3 mesiace; plynie od 1. dňa mesiaca po doručení výpovede.
+
+> [!question]- Aké dohody o prácach mimo pracovného pomeru poznáš?
+> Dohoda o vykonaní práce, o pracovnej činnosti, o brigádnickej práci študentov.

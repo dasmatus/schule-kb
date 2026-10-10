@@ -69,3 +69,31 @@ Pri odpovedi treba najprv vysvetliť, že všetky formy komična – humor, [[sa
 ## Súvisiace poznámky
 
 Zatiaľ žiadne.
+
+## Kontrolné otázky
+
+> [!question]- Na akom princípe vzniká komično?
+> Na nesúlade medzi zdaním a skutočnosťou, ideálom a realitou, očakávaním a výsledkom.
+
+> [!question]- Aký je rozdiel medzi humorom a satirou?
+> Humor je láskavý, postava ostáva sympatická. Satira je ostrá kritika s cieľom odsúdiť.
+
+> [!question]- Čo je irónia a sarkazmus?
+> Irónia – vyjadrenie opaku toho, čo sa myslí. Sarkazmus – zosilnená,
+> zraňujúca irónia.
+
+> [!question]- Čo je paródia a uveď príklad.
+> Zosmiešňujúce napodobenie iného diela alebo žánru; Don Quijote paroduje
+> rytiersky román.
+
+> [!question]- Čo je čierny humor a groteska?
+> Čierny humor – žarty o smrti, chorobe, vojne. Groteska – zveličené zobrazenie
+> spájajúce komické s desivým.
+
+> [!question]- Aké druhy komiky poznáš?
+> Situačnú (nedorozumenie, zámena), charakterovú (prehnaná vlastnosť), jazykovú
+> (slovné hračky).
+
+> [!question]- Ktoré slovenské diela využívajú komiku?
+> Kocúrkovo (satira), Zmierenie (komédia mravov), Ťapákovci (irónia),
+> Statky-zmätky, Keď báčik z Chochoľova umrie (humor).

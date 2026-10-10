@@ -83,3 +83,30 @@ Po štyroch rokoch je počítač úplne odpísaný, jeho **[[Odpisy|zostatková 
 - [[E04 – Dlhodobý a krátkodobý majetok]]
 - [[Podstata finančného hospodárenia podniku]]
 - [[E01 – Právne formy podnikania]]
+
+## Kontrolné otázky
+
+> [!question]- Kedy sa PC zaradí do dlhodobého hmotného majetku?
+> Ak vstupná cena presiahne 1 700 € a doba použiteľnosti je dlhšia ako 1 rok.
+
+> [!question]- Aké druhy opotrebenia poznáš?
+> Fyzické (aktívne – používaním, pasívne – starnutím) a morálne (rast
+> produktivity práce, technický pokrok).
+
+> [!question]- Ktoré opotrebenie prevláda pri výpočtovej technike?
+> Morálne – nové modely sú rýchlo výkonnejšie a lacnejšie.
+
+> [!question]- Čo je odpis a čo oprávky?
+> Odpis je peňažné vyjadrenie opotrebenia za obdobie. Oprávky sú súčet odpisov
+> od začiatku používania.
+
+> [!question]- Aký je rozdiel medzi účtovnými a daňovými odpismi?
+> Účtovné vyjadrujú skutočné opotrebenie v podniku. Daňové určuje zákon
+> 595/2003 Z. z. a sú uznané ako daňový výdavok.
+
+> [!question]- Vypočítaj rovnomerný odpis PC za 2 400 €.
+> 1. odpisová skupina, 4 roky: 2 400 / 4 = 600 € ročne; zostatková cena 1 800,
+> 1 200, 600, 0 €.
+
+> [!question]- Ako sa počíta zostatková cena?
+> Vstupná cena mínus oprávky.

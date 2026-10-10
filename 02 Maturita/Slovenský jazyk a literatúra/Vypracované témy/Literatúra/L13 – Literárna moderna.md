@@ -59,3 +59,32 @@ Tieto tri prúdy sa v tvorbe jednotlivých autorov spravidla prelínajú a netvo
 
 - [[L14 – Avantgarda]]
 - [[L15 – Slovenská medzivojnová poézia]] (neosymbolizmus E. B. [[Emil Boleslav Lukáč|Lukáča]] nadväzuje na Kraskov symbolizmus)
+
+## Kontrolné otázky
+
+> [!question]- Na čo reaguje literárna moderna?
+> Na pozitivizmus a materializmus doby; namiesto objektívneho obrazu
+> spoločnosti zobrazuje vnútorný svet, nálady a neistotu jednotlivca.
+
+> [!question]- Aké smery patria do literárnej moderny?
+> Symbolizmus (symbol, hudobnosť), dekadencia (spleen, únik, krása v
+> škaredom), impresionizmus (prchavý dojem a nálada).
+
+> [!question]- Kto je Baudelaire a čo napísal?
+> Zakladateľ moderny, zbierka Kvety zla (1857) – spleen proti ideálu, krása v
+> škaredom a zakázanom.
+
+> [!question]- Čo znamená Nox et solitudo a aké má motívy?
+> Noc a samota; samota, sklamaná láska, pochybnosti, neistota moderného
+> človeka, náznaky národného motívu.
+
+> [!question]- Aké sú Kraskove zbierky?
+> Nox et solitudo (1909) a Verše (1912; Otcova roľa, Baníci).
+
+> [!question]- Aký je rozdiel medzi symbolom a metaforou?
+> Symbol je mnohovýznamový, hlbší, zastupuje abstraktnú myšlienku; metafora
+> prenáša význam na základe jednej podobnosti.
+
+> [!question]- Čo je voľný verš a eufónia?
+> Voľný verš – bez pravidelných slabík, prízvukov a rýmu, riadi sa vnútorným
+> rytmom. Eufónia – zvuková ľubozvučnosť verša.

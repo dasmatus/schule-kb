@@ -93,3 +93,28 @@ V oboch prípadoch musí najprv ohlásiť živnosť miestne príslušnému živn
 ## Súvisiace poznámky
 
 - [[E01 – Právne formy podnikania]]
+
+## Kontrolné otázky
+
+> [!question]- Čo je živnosť a ktorý zákon ju upravuje?
+> Sústavná činnosť prevádzkovaná samostatne, vo vlastnom mene, na vlastnú
+> zodpovednosť, za účelom zisku. Živnostenský zákon č. 455/1991 Zb.
+
+> [!question]- Aké sú všeobecné podmienky prevádzkovania živnosti?
+> Vek 18 rokov, spôsobilosť na právne úkony, bezúhonnosť.
+
+> [!question]- Aké druhy živností poznáš podľa odbornej spôsobilosti?
+> Remeselné (vyučenie v odbore), viazané (spôsobilosť podľa osobitného
+> predpisu), voľné (stačia všeobecné podmienky).
+
+> [!question]- Uveď príklady remeselnej, viazanej a voľnej živnosti.
+> Remeselná: zámočníctvo, opravy elektrických zariadení. Viazaná: autoškola,
+> cestovná kancelária. Voľná: maloobchod, počítačové služby.
+
+> [!question]- Ako vzniká živnostenské oprávnenie?
+> Ohlásenie na živnostenskom úrade (aj cez JKM) → osvedčenie do 3 pracovných
+> dní → pridelenie IČO → zápis do živnostenského registra.
+
+> [!question]- Kedy zaniká živnostenské oprávnenie?
+> Smrťou živnostníka, zánikom PO, uplynutím doby, rozhodnutím úradu alebo ak
+> to ustanoví osobitný zákon.

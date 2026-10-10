@@ -27,7 +27,7 @@ Pri digitálnych obvodoch logické operácie realizujú hradlá. Základné hrad
 
 V pozičnej sústave so základom `b` má číslica na pozícii `i` váhu `b^i`. Pre celé číslo platí
 
-`N = aₙ·bⁿ + aₙ₋₁·bⁿ⁻¹ + ... + a₁·b + a₀`.
+$$ N = aₙ·bⁿ + aₙ₋₁·bⁿ⁻¹ + ... + a₁·b + a₀ $$.
 
 Najčastejšie sústavy sú binárna (2), osmičková (8), desiatková (10) a šestnástková (16), v ktorej číslice 10 až 15 zapisujeme `A` až `F`.
 
@@ -77,6 +77,96 @@ Klopný obvod (*flip-flop*) uchováva jeden bit. Základné typy možno opísať
 
 D-klopný obvod je vhodný do registrov, T-klopné obvody do čítačov a JK obvod odstraňuje zakázaný stav klasického SR obvodu. Viac klopných obvodov vytvorí register; kaskádou možno vytvoriť binárny čítač. Hranou riadený obvod treba odlíšiť od transparentnej západky, ktorá môže sledovať vstup počas aktívnej úrovne hodín.
 
+## Riešené príklady prevodov
+
+**Desiatková → binárna** (delenie dvoma, zvyšky čítame zdola nahor), číslo `45`:
+
+| Delenie | Podiel | Zvyšok |
+| --- | --- | --- |
+| 45 : 2 | 22 | 1 |
+| 22 : 2 | 11 | 0 |
+| 11 : 2 | 5 | 1 |
+| 5 : 2 | 2 | 1 |
+| 2 : 2 | 1 | 0 |
+| 1 : 2 | 0 | 1 |
+
+`45₁₀ = 101101₂`. Kontrola: `32 + 8 + 4 + 1 = 45`.
+
+- **Binárna → osmičková:** trojice bitov sprava, `101 101₂ = 55₈` (`5·8 + 5 = 45`).
+- **Binárna → šestnástková:** štvorice sprava, `0010 1101₂ = 2D₁₆` (`2·16 + 13 = 45`).
+- **Binárne sčítanie:** `1011 + 0110 = 10001` (11 + 6 = 17). Pravidlá: `0+0=0`, `0+1=1`, `1+1=10` (zapíšem 0, prenos 1), `1+1+1=11`.
+- **Dvojkový doplnok** čísla `−5` v 8 bitoch: `00000101` → invertujem `11111010` → pripočítam 1 → `11111011`.
+
+## Logické hradlá a Booleova algebra
+
+| A | B | AND | OR | NAND | NOR | XOR |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 1 | 0 | 0 | 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 | 0 | 0 | 0 |
+
+NOT má jeden vstup a výstup neguje (`Y = ¬A`).
+
+Pravidlá na zjednodušovanie výrazov:
+
+- `A + 0 = A`, `A · 1 = A`, `A + 1 = 1`, `A · 0 = 0`
+- `A + A = A`, `A · A = A`, `A + ¬A = 1`, `A · ¬A = 0`
+- **De Morganove zákony:** `¬(A · B) = ¬A + ¬B` a `¬(A + B) = ¬A · ¬B`
+- príklad: `A·B + A·¬B = A·(B + ¬B) = A·1 = A`
+
+Na grafické zjednodušenie funkcie 3–4 premenných slúži **Karnaughova mapa**:
+susedné jednotky sa združujú do skupín po 1, 2, 4 alebo 8 a z každej skupiny
+ostanú len premenné, ktoré sa v nej nemenia.
+
+## Sčítačky
+
+- **Polovičná sčítačka:** `S = A ⊕ B`, `C = A · B` (nepočíta s prenosom zo
+  zvyšku čísla).
+- **Úplná sčítačka:** `S = A ⊕ B ⊕ Cin`, `Cout = A·B + Cin·(A ⊕ B)`.
+  Zreťazením `n` úplných sčítačiek vznikne `n`-bitová sčítačka.
+
+## Čítače a registre
+
+- `n` klopných obvodov tvorí čítač, ktorý napočíta `0` až `2ⁿ − 1`
+  (3 klopné obvody → 0 až 7, čítač modulo 8).
+- **Asynchrónny čítač:** výstup jedného klopného obvodu taktuje ďalší; je
+  jednoduchý, ale oneskorenia sa sčítavajú.
+- **Synchrónny čítač:** všetky klopné obvody majú spoločné hodiny, je rýchlejší.
+- **Posuvný register** posúva bity o jednu pozíciu na každú hranu hodín;
+  používa sa pri sériovo-paralelnom prevode (napr. UART, SPI).
+- Základný **SR obvod z hradiel NOR** má zakázaný stav `S = R = 1`; pri
+  hradlách NAND sú vstupy aktívne v nule.
+
 ## Krátka ústna odpoveď
 
 Číslicová technika pracuje s diskrétnymi bitmi a binárnymi kódmi. Čísla možno prevádzať medzi binárnou, osmičkovou, desiatkovou a šestnástkovou sústavou pomocou pozičných váh. Kombinačné obvody, napríklad sčítačky a multiplexory, nemajú pamäť a výstup určujú iba aktuálne vstupy. Sekvenčné obvody pamäť majú a používajú hodinový signál; ich základom sú SR, D, JK a T klopné obvody, z ktorých sa skladajú registre a čítače.
+
+## Kontrolné otázky
+
+> [!question]- Preveď 45₁₀ do dvojkovej, osmičkovej a šestnástkovej sústavy.
+> `101101₂`, `55₈`, `2D₁₆`.
+
+> [!question]- Aký je rozdiel medzi kombinačným a sekvenčným obvodom?
+> Výstup kombinačného obvodu závisí len od aktuálnych vstupov, nemá pamäť ani
+> hodiny (sčítačka, multiplexor). Sekvenčný obvod má pamäť, výstup závisí aj od
+> predchádzajúceho stavu (klopné obvody, čítače, registre).
+
+> [!question]- Prečo sú NAND a NOR univerzálne hradlá?
+> Z jedného typu (len NAND alebo len NOR) sa dá poskladať ľubovoľná logická
+> funkcia vrátane NOT, AND a OR.
+
+> [!question]- Napíš De Morganove zákony.
+> `¬(A·B) = ¬A + ¬B` a `¬(A+B) = ¬A · ¬B`.
+
+> [!question]- Ako sa správa JK klopný obvod pri J = K = 1?
+> Na každú aktívnu hranu hodín preklopí výstup na opačnú hodnotu.
+
+> [!question]- Čo je BCD a ako zapíšeš 59?
+> Každá desiatková číslica sa kóduje štyrmi bitmi: `0101 1001`.
+
+> [!question]- Ako zapíšeš −5 v 8-bitovom dvojkovom doplnku?
+> `00000101` → invertovať `11111010` → +1 → `11111011`.
+
+> [!question]- Koľko stavov má čítač z 3 klopných obvodov?
+> `2³ = 8` stavov, počíta 0 až 7.
