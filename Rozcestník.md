@@ -44,7 +44,7 @@ tags:
 | Predmet | Maturitný |
 | --- | --- |
 | [[Slovenský jazyk a literatúra]] | EČ + PFIČ + ÚFIČ |
-| [[Ekonomika]] | odborná zložka |
+| [[Ekonomika]] (+ [[Aplikovaná ekonomika]]) | odborná zložka |
 | [[Informačné a sieťové technológie]] | TČOZ / PČOZ |
 | [[Elektrotechnické merania]] | možná súčasť odbornej zložky |
 | [[Anglický jazyk]] | EČ + PFIČ + ÚFIČ |
