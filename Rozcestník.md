@@ -18,9 +18,6 @@ tags:
 
 ## 📌 Maturita
 
-- [[EduPage – čo treba vybaviť]] — ⚠️ **žiadosť na maturitu do 15. 9.**
-
-- [[Maturita 2027 – prehľad]] — čo ma čaká a čo je hotové
 - [[Oficiálne požiadavky (ŠPÚ)]] — cieľové požiadavky a odkazy na zdroje
 - [[Zoznam tém – literatúra]] — 35 tém, všetky vypracované
 - [[Zoznam tém – slovenský jazyk]] — 30 tém, všetky vypracované
@@ -53,13 +50,6 @@ tags:
 | [[Fyzika]] | — |
 | [[Občianska náuka]] | — |
 
-## 🛠️ Projekty
-
-- [[LosOS – článok (pracovná verzia)]]
-- [[LosOS – IIT SRC 2027 (draft)]]
-- Žiadosti o granty: [[LosOS – NLnet NGI Zero Core (žiadosť)]] ·
-  [[LosOS – Sovereign Tech Fund (žiadosť)]] ·
-  [[LosOS – NGI Fediversity (žiadosť)]]
 
 ## 🗂️ Ako je trezor usporiadaný
 
@@ -67,7 +57,7 @@ tags:
 | --- | --- |
 | `01 Predmety/` | poznámky podľa predmetov |
 | `02 Maturita/` | tézy a vypracované maturitné témy |
-| `03 Projekty/` | LosOS — článok a žiadosti o granty |
+| `03 Projekty/` | osobné projekty — len lokálne, mimo gitu |
 | `04 Osobné/` | veci mimo školy |
 | `05 Pojmy/` | atomické poznámky — jadro grafu |
 | `06 Mapy/` | myšlienkové mapy (Canvas) |

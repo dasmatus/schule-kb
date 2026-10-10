@@ -5,7 +5,7 @@ typ: "poznámky"
 trieda: "III.IST"
 ročník_teraz: "IV.IST"
 dátum: 2026-04-24
-zdroj: "99 Zdroje/docx/UTF-8''24-4. -Matúš.docx"
+zdroj: "99 Zdroje/docx/UTF-8''24-4. -N..docx"
 obrázky: 1
 tags:
   - nej
@@ -15,9 +15,9 @@ tags:
 # Nemčina – doučovanie 24.4.
 
 > [!info] Zdrojový dokument
-> `UTF-8''24-4. -Matúš.docx` — [[UTF-8''24-4. -Matúš.docx|otvoriť originál]]
+> `UTF-8''24-4. -N..docx` — [[UTF-8''24-4. -N..docx|otvoriť originál]]
 
-**Matúš** **24****.4****.****1****7****:00**
+**N.** **24****.4****.****1****7****:00**
 
 **seit 3 Jahren,** **bolesť,****mod,****bud,zmena st,um**
 

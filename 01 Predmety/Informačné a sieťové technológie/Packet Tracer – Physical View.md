@@ -21,7 +21,7 @@ tags:
 ## 1. Fyzické zobrazovanie sietí
 
 - Topológie a Physical View v [[Packet Tracer|Cisco Packet Tracer]]
-- Matúš Maštena | III.IST
+- N. N. | III.IST
 
 ## 2. Plán hodiny
 

@@ -26,7 +26,6 @@ tags:
 | `3.3. 26SJL III.IST.docx` | [[Básnické prostriedky a kompozícia úvahy]] |
 | `Banková sústava.docx` | [[Banková sústava]] |
 | `Cacheovanie_a_Monitoring_DB.pptx` | [[Cacheovanie a monitoring databázy]] |
-| `CV A.Mastenova.docx` | [[CV – A. Maštenová]] |
 | `cvičebnica z EKONOMIKY max 25 otázok (1) (3).docx` | [[Ekonomika – okruh otázok na maturitu 2026-2027]] |
 | `cvičebnica z EKONOMIKY max 25 otázok (1).docx` | [[Kompetencie z ekonomiky – absolvent ELK a IST]] |
 | `Dialog - Tomas, Richard, Matt.docx` | [[Dialogue – Moving Out]] |
@@ -44,11 +43,6 @@ tags:
 | `III_zvukova_rovina_jazyka.pdf` | [[Zvuková rovina jazyka – prezentácia]] |
 | `Kritériá na písanie úvahy.docx` | [[Kritériá na písanie úvahy]] |
 | `Life (sometimes) sucks S1.docx` | [[Life (sometimes) sucks – text]] |
-| `losos.docx` | [[LosOS – článok (pracovná verzia)]] |
-| `LosOS_IIT-SRC2027_Draft.docx` | [[LosOS – IIT SRC 2027 (draft)]] |
-| `LosOS_NGI_Fediversity_Application.docx` | [[LosOS – NGI Fediversity (žiadosť)]] |
-| `LosOS_NLNet_NGI_Zero_Core_Application.docx` | [[LosOS – NLnet NGI Zero Core (žiadosť)]] |
-| `LosOS_STF_Application.docx` | [[LosOS – Sovereign Tech Fund (žiadosť)]] |
 | `Maturitne_tezy_2025_2026.docx` | [[Tézy na maturitu – literatúra]] |
 | `Maturitne_tezy_SJ_2025_2026.docx` | [[Tézy na maturitu – slovenský jazyk]] |
 | `Obchodné banky.docx` | [[Obchodné banky]] |
@@ -79,9 +73,9 @@ tags:
 | `Slovenská medzivojnová poézia 26.1.26.docx` | [[Slovenská medzivojnová poézia]] |
 | `Súhrnné info (1).docx` | [[Rozbor textov – nadradený motív]] |
 | `titulny_list_elektro_merania.docx` | [[Titulný list protokolu o meraní]] |
-| `UTF-8''24-4. -Matúš.docx` | [[Nemčina – doučovanie 24.4.]] |
-| `UTF-8''27-3 -Matúš konj..docx` | [[Nemčina – doučovanie 27.3. (konjunktív)]] |
-| `UTF-8''29-4. -Matúš.docx` | [[Nemčina – doučovanie 29.4.]] |
+| `UTF-8''24-4. -N..docx` | [[Nemčina – doučovanie 24.4.]] |
+| `UTF-8''27-3 -N. konj..docx` | [[Nemčina – doučovanie 27.3. (konjunktív)]] |
+| `UTF-8''29-4. -N..docx` | [[Nemčina – doučovanie 29.4.]] |
 | `zivy_bic_citatelsky_dennik.docx` | [[Živý bič – čitateľský denník]] |
 | `zvukova_rovina_jazyka.docx` | [[Zvuková rovina jazyka]] |
 | `1. My family.doc` | [[A01 – Family]] |

@@ -1,5 +1,13 @@
 www/
 
-# NetAcad raw course text (copyrighted, keep local)
-raw/
 netacad-*.json
+**/node_modules
+
+# Personal — kept in the local vault, never pushed or published
+03 Projekty/
+02 Maturita/EduPage – čo treba vybaviť.md
+02 Maturita/Maturita 2027 – prehľad.md
+99 Zdroje/docx/CV *
+99 Zdroje/docx/[Ll]os[Oo][Ss]*
+99 Zdroje/docx/OBN UK CoL kríza.docx
+99 Zdroje/docx/UTF-8''*

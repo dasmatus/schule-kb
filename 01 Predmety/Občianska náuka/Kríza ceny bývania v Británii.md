@@ -18,7 +18,7 @@ tags:
 
 # Kríza ceny bývania v Británií
 
-## Matúš Maštena,
+## N. N.,
 
 ## 3. IST
 

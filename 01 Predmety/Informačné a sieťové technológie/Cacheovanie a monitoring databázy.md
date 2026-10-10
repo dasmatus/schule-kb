@@ -19,7 +19,7 @@ tags:
 
 ## 1. Cacheovanie a Monitoring databázy
 
-- Matúš Maštena | III.IST
+- N. N. | III.IST
 
 ## 2. Obsah prezentácie
 
@@ -178,7 +178,7 @@ tags:
 - výsledok: log súbor so všetkými pomalými dotazmi — vieš presne čo optimalizovať
 - [[EXPLAIN]]
 - príkaz ukáže plán vykonania dotazu — bez toho aby ho skutočne spustil
-- EXPLAIN SELECT \* FROM users WHERE email = 'matus@skola.sk';
+- EXPLAIN SELECT \* FROM users WHERE email = 'user@example.com';
 - type: ALL
 - databáza prehľadáva každý riadok tabuľky — najpomalší možný prístup
 - type: ref / eq\_ref

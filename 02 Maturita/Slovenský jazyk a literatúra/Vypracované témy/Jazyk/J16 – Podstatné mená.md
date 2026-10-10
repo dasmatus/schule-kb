@@ -47,7 +47,7 @@ Je základným pomenovacím slovným druhom jazyka – v texte spravidla plní f
 Podľa vzťahu k skutočnosti delíme podstatné mená na:
 
 - **všeobecné (apelatíva)** – pomenúvajú akýkoľvek predmet daného druhu (mesto, rieka, žiak),
-- **vlastné (propriá)** – pomenúvajú jedinečný, individuálny predmet, píšu sa s veľkým začiatočným písmenom (Bratislava, Dunaj, Matúš).
+- **vlastné (propriá)** – pomenúvajú jedinečný, individuálny predmet, píšu sa s veľkým začiatočným písmenom (Bratislava, Dunaj, Martin).
 
 **Gramatické kategórie podstatných mien:**
 

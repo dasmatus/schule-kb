@@ -24,7 +24,7 @@ HÁLOVA 16, BRATISLAVA
 
 **Grafika**
 
-Matúš Maštena
+N. N.
 
 Bratislava, 2025
 

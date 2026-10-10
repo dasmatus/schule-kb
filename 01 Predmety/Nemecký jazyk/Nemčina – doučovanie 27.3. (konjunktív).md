@@ -5,7 +5,7 @@ typ: "poznámky"
 trieda: "III.IST"
 ročník_teraz: "IV.IST"
 dátum: 2026-03-27
-zdroj: "99 Zdroje/docx/UTF-8''27-3 -Matúš konj..docx"
+zdroj: "99 Zdroje/docx/UTF-8''27-3 -N. konj..docx"
 obrázky: 1
 tags:
   - nej
@@ -16,9 +16,9 @@ tags:
 # Nemčina – doučovanie 27.3. (konjunktív)
 
 > [!info] Zdrojový dokument
-> `UTF-8''27-3 -Matúš konj..docx` — [[UTF-8''27-3 -Matúš konj..docx|otvoriť originál]]
+> `UTF-8''27-3 -N. konj..docx` — [[UTF-8''27-3 -N. konj..docx|otvoriť originál]]
 
-**Matúš** **27****.****3****.****1****7****:00**
+**N.** **27****.****3****.****1****7****:00**
 
 **seit 3 Jahren,** **bolesť,****mod,****bud,zmena st,um**
 

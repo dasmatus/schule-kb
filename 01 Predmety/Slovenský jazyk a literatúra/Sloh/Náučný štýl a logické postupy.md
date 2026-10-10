@@ -53,4 +53,4 @@ Na hodine sa vypracúvali cvičenia na [[náučný štýl]] z pracovného listu,
     - Jozef Cíger-[[Jozef Cíger Hronský|Hronský]]: *[[Jozef Mak]]*
     - [[Dobroslav Chrobák]]: *[[Drak sa vracia]]*
 
-Predbežný termín je do 30.3. podrobné informácie boli zaslané pani učiteľkou na Edupage.
+

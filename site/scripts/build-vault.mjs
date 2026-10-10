@@ -7,6 +7,7 @@
 //
 // Output (all gitignored): docs/, static/attachments/, src/data/canvas/
 
+import { execFileSync } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import yaml from 'js-yaml';
@@ -86,7 +87,22 @@ const asArray = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
 
 // ---------------------------------------------------------------- index
 
-const allFiles = walk(VAULT);
+// Only publish what git would publish: gitignored (personal) files never reach
+// the site, even in local builds. Falls back to a plain walk outside git.
+function listVaultFiles() {
+  try {
+    const out = execFileSync('git', ['ls-files', '-z', '--cached', '--others', '--exclude-standard'], {
+      cwd: VAULT, encoding: 'utf8', maxBuffer: 1 << 28,
+    });
+    return out.split('\0').filter((f) => f
+      && !f.split('/').some((seg) => EXCLUDED.has(seg) || seg.startsWith('.'))
+      && fs.existsSync(path.join(VAULT, f)));
+  } catch {
+    return walk(VAULT);
+  }
+}
+
+const allFiles = listVaultFiles();
 const notes = new Map(); // vault rel path -> note
 const attachments = new Map(); // vault rel path -> { rel, published? }
 const canvases = [];
@@ -459,7 +475,11 @@ function renderDataview(note, block) {
 
 // ---------------------------------------------------------------- properties
 
-const HIDDEN_PROPS = new Set(['title', 'tags', 'aliases', 'aliasy', 'alias', 'cssclasses', 'cssclass', 'publish']);
+const HIDDEN_PROPS = new Set([
+  'title', 'tags', 'aliases', 'aliasy', 'alias', 'cssclasses', 'cssclass', 'publish',
+  // personal context, not useful to readers
+  'trieda', 'ročník_teraz', 'školský_rok', 'škola',
+]);
 
 function propertiesCallout(note) {
   const rows = Object.entries(note.data).filter(([k, v]) => !HIDDEN_PROPS.has(k) && v != null && v !== '');

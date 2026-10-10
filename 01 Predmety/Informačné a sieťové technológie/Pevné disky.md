@@ -24,7 +24,7 @@ HÁLOVA 16
 
 **Pevné disky**
 
-Matúš Maštena
+N. N.
 
 Bratislava, 2025
 

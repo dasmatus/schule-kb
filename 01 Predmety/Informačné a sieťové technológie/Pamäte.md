@@ -24,7 +24,7 @@ HÁLOVA 16
 
 **Pamäte**
 
-Matúš Maštena
+N. N.
 
 Bratislava, 2025
 

@@ -24,7 +24,7 @@ HÁLOVA 16
 
 **Základná doska**
 
-**Matúš Maštena**
+**N. N.**
 
 2025
 

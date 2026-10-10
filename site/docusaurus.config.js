@@ -9,7 +9,7 @@ const REPO = 'https://github.com/dasmatus/schule-kb';
 /** @type {import('@docusaurus/types').Config} */
 export default {
   title: 'Školský trezor',
-  tagline: 'Poznámky a maturitné materiály – SPŠE Hálova',
+  tagline: 'Poznámky a maturitné materiály',
   favicon: 'img/favicon.svg',
 
   // GitHub Pages project site; both can be overridden from the workflow.

@@ -20,7 +20,7 @@ tags:
 
 | **Stredná** **pri****e****my****se****ln****á** **š****kol****a** **e****l****e****ktrot****e****chnick****á**<br>**H****á****lov****a** **16,** **851** **01** **Brati****s****l****a****v****a** |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Meno a priezvisko:** |  | Matúš Maštena |  |  | **Protokol** **číslo:** |  |  |  | 6 |  |  |
+| **Meno a priezvisko:** |  | N. N. |  |  | **Protokol** **číslo:** |  |  |  | 6 |  |  |
 | **Tri****ed****a:** |  | III.IST |  |  |  |  |  |  |  |  |  |
 | **S****kupina:** |  | 1. |  |  | **Dátum** **m****e****r****an****ia:** |  |  |  | 4.3.2026 |  |  |
 | **L****ab****orat****ó****ri****u****m:** |  | ELM3 |  |  | **Dátum** **prijatia****:** |  |  |  | 18.3.2026 |  |  |
@@ -33,7 +33,7 @@ tags:
 | Názov MERANIA : Meranie kapacitnej reaktancie kondenzátora |  |  |  |  |  |  |  |  |  |  |  |
 | **členovia PRI meraní, Spoluautori** |  |  |  |  |  |  |  |  |  |  |  |
 | **P.Č.** | **Meno** |  | **Priezvisko** |  |  | **Člen** |  | **Spoluautor** |  |  |  |
-| 1. | Matúš |  | Maštena |  |  | ÁNO | NIE | ÁNO |  |  | NIE |
+| 1. | N. |  | N. |  |  | ÁNO | NIE | ÁNO |  |  | NIE |
 | 2. | Samuel |  | Štrkula |  |  | ÁNO | NIE | ÁNO |  |  | NIE |
 | 3. |  |  |  |  |  | ÁNO | NIE | ÁNO |  |  | NIE |
 | 4. |  |  |  |  |  | ÁNO | NIE | ÁNO |  |  | NIE |

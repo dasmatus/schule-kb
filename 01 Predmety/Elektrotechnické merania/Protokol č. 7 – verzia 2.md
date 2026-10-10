@@ -20,7 +20,7 @@ tags:
 
 | **Stredná priemyselná škola elektrotechnická**<br>**Hálova 16, 851 01 Bratiislava** |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Meno a priezvisko:** |  | Matúš Maštena |  |  | **Protokol** **číslo:** |  |  |  | 7 |  |  |
+| **Meno a priezvisko:** |  | N. N. |  |  | **Protokol** **číslo:** |  |  |  | 7 |  |  |
 | **Tri****ed****a:** |  | III.IST |  |  |  |  |  |  |  |  |  |
 | **S****kupina:** |  | 1. |  |  | **Dátum** **m****e****r****an****ia:** |  |  |  | 8.4.2026 |  |  |
 | **L****ab****orat****ó****ri****u****m:** |  | ELM3 |  |  | **Dátum** **prijatia****:** |  |  |  | 15.4.2026 |  |  |
