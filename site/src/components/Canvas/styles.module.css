@@ -1,0 +1,196 @@
+.wrapper {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.fullscreen {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  margin: 0;
+  background: var(--ifm-background-color);
+}
+
+.viewport {
+  position: relative;
+  height: 75vh;
+  min-height: 420px;
+  overflow: hidden;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 10px;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+  background-color: var(--canvas-bg);
+  background-image: radial-gradient(var(--canvas-dot) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+.fullscreen .viewport {
+  height: 100vh;
+  border: 0;
+  border-radius: 0;
+}
+
+.viewport:active {
+  cursor: grabbing;
+}
+
+.plane {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+}
+
+.toolbar {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  display: flex;
+  gap: 4px;
+}
+
+.toolbar button {
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  font-size: 1.05rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.toolbar button:hover {
+  background: var(--ifm-color-emphasis-200);
+}
+
+.hint {
+  margin: 0.4rem 0 0;
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.fullscreen .hint {
+  display: none;
+}
+
+.node {
+  position: absolute;
+  --node-color: var(--ifm-color-emphasis-400);
+  border: 2px solid var(--node-color);
+  border-radius: 10px;
+  background: var(--ifm-background-surface-color);
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.08);
+}
+
+.colored {
+  background: color-mix(in srgb, var(--node-color) 10%, var(--ifm-background-surface-color));
+}
+
+.group {
+  background: color-mix(in srgb, var(--node-color) 6%, transparent);
+  overflow: visible;
+  box-shadow: none;
+}
+
+.groupLabel {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  padding: 0 0 4px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  white-space: nowrap;
+}
+
+.text {
+  height: 100%;
+  padding: 10px 14px;
+  overflow: auto;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
+.text p {
+  margin: 0 0 0.3rem;
+}
+
+.text ul {
+  margin: 0 0 0.3rem;
+  padding-left: 1.1rem;
+}
+
+.heading {
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.h1 { font-size: 1.45rem; }
+.h2 { font-size: 1.25rem; }
+.h3 { font-size: 1.1rem; }
+
+.fileLink {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  padding: 8px 14px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.fileLink:hover {
+  color: inherit;
+  text-decoration: none;
+  background: color-mix(in srgb, var(--node-color) 18%, transparent);
+}
+
+.fileTitle {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.excerpt {
+  margin-top: 6px;
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-700);
+  overflow: hidden;
+}
+
+.missing {
+  opacity: 0.6;
+  font-style: italic;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.edges {
+  position: absolute;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.edge {
+  fill: none;
+  stroke: var(--ifm-color-emphasis-500);
+  stroke-width: 2.5;
+}
+
+.edgeLabel {
+  font-size: 14px;
+  fill: var(--ifm-font-color-base);
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: var(--canvas-bg);
+  stroke-width: 4px;
+}

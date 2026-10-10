@@ -8,6 +8,7 @@
   "propertiesInDocument": "visible",
   "userIgnoreFilters": [
     "www/",
+    "site/",
     "90 Prílohy/_index.json"
   ]
 }

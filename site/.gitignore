@@ -1,0 +1,7 @@
+node_modules/
+build/
+.docusaurus/
+# generated from the vault by scripts/build-vault.mjs
+docs/
+static/attachments/
+src/data/

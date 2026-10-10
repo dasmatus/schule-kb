@@ -1,0 +1,174 @@
+:root {
+  --ifm-color-primary: #7c3aed;
+  --ifm-color-primary-dark: #6d28d9;
+  --ifm-color-primary-darker: #6526cc;
+  --ifm-color-primary-darkest: #5320a8;
+  --ifm-color-primary-light: #8b51ef;
+  --ifm-color-primary-lighter: #935df0;
+  --ifm-color-primary-lightest: #a97ff3;
+  --ifm-code-font-size: 92%;
+  --docusaurus-highlighted-code-line-bg: rgb(0 0 0 / 0.08);
+
+  /* Obsidian palette (callouts + canvas colours 1–6) */
+  --canvas-red: #e93147;
+  --canvas-orange: #ec7500;
+  --canvas-yellow: #c99a00;
+  --canvas-green: #08b94e;
+  --canvas-cyan: #00a8a5;
+  --canvas-purple: #7852ee;
+  --canvas-bg: #fafafa;
+  --canvas-dot: rgb(0 0 0 / 0.12);
+  --callout-blue: #086ddd;
+  --callout-grey: #9e9e9e;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #a78bfa;
+  --ifm-color-primary-dark: #9171f8;
+  --ifm-color-primary-darker: #8664f7;
+  --ifm-color-primary-darkest: #6a3ef5;
+  --ifm-color-primary-light: #bda5fc;
+  --ifm-color-primary-lighter: #c8b2fc;
+  --ifm-color-primary-lightest: #e0d4fd;
+  --docusaurus-highlighted-code-line-bg: rgb(0 0 0 / 0.3);
+  --canvas-yellow: #e0ac00;
+  --canvas-cyan: #00bfbc;
+  --canvas-bg: #1b1b1d;
+  --canvas-dot: rgb(255 255 255 / 0.1);
+  --callout-blue: #3b8eea;
+}
+
+/* ---------- callouts ---------- */
+
+.callout {
+  --callout-color: var(--callout-blue);
+  margin: 0 0 var(--ifm-leading);
+  border-left: 4px solid var(--callout-color);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--callout-color) 8%, transparent);
+  padding: 0.6rem 1rem;
+}
+
+.callout-title {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 600;
+  color: var(--callout-color);
+}
+
+.callout-title::before {
+  content: var(--callout-icon, 'ℹ️');
+  font-size: 0.95em;
+}
+
+summary.callout-title {
+  cursor: pointer;
+  list-style: none;
+}
+
+summary.callout-title::-webkit-details-marker {
+  display: none;
+}
+
+summary.callout-title::after {
+  content: '›';
+  margin-left: auto;
+  font-size: 1.3em;
+  line-height: 1;
+  transition: transform 0.15s;
+}
+
+details.callout[open] > summary.callout-title::after {
+  transform: rotate(90deg);
+}
+
+.callout-content {
+  margin-top: 0.5rem;
+}
+
+.callout-content > :last-child {
+  margin-bottom: 0;
+}
+
+.callout-content p:last-child {
+  margin-bottom: 0;
+}
+
+.callout-content table {
+  margin-bottom: 0;
+}
+
+.callout-note, .callout-info, .callout-todo { --callout-color: var(--callout-blue); }
+.callout-abstract { --callout-color: var(--canvas-cyan); --callout-icon: '📋'; }
+.callout-tip { --callout-color: var(--canvas-cyan); --callout-icon: '💡'; }
+.callout-success { --callout-color: var(--canvas-green); --callout-icon: '✅'; }
+.callout-question { --callout-color: var(--canvas-orange); --callout-icon: '❓'; }
+.callout-warning { --callout-color: var(--canvas-orange); --callout-icon: '⚠️'; }
+.callout-failure, .callout-danger, .callout-bug { --callout-color: var(--canvas-red); --callout-icon: '⛔'; }
+.callout-example { --callout-color: var(--canvas-purple); --callout-icon: '📝'; }
+.callout-quote { --callout-color: var(--callout-grey); --callout-icon: '❝'; }
+.callout-note { --callout-icon: '✏️'; }
+.callout-todo { --callout-icon: '☑️'; }
+.callout-embed { --callout-color: var(--callout-grey); --callout-icon: '↪'; }
+.callout-properties {
+  --callout-color: var(--callout-grey);
+  --callout-icon: '🏷️';
+  font-size: 0.9rem;
+  padding: 0.35rem 1rem;
+}
+
+.callout-properties table {
+  display: table;
+  width: 100%;
+}
+
+.callout-properties thead {
+  display: none;
+}
+
+.callout-properties td:first-child {
+  white-space: nowrap;
+  color: var(--ifm-color-emphasis-700);
+  width: 1%;
+}
+
+/* ---------- other Obsidian bits ---------- */
+
+mark {
+  background: rgb(255 208 0 / 0.4);
+  color: inherit;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.wikilink-unresolved {
+  color: var(--ifm-color-emphasis-600);
+  border-bottom: 1px dashed currentColor;
+  cursor: help;
+}
+
+.backlinks {
+  font-size: 0.92rem;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.backlinks ul {
+  margin-bottom: 0;
+  columns: 2 16rem;
+}
+
+.dataview-note {
+  color: var(--ifm-color-emphasis-600);
+}
+
+.markdown img {
+  border-radius: 4px;
+}
+
+.markdown table {
+  display: block;
+  overflow-x: auto;
+}
