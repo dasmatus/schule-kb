@@ -13,8 +13,8 @@ export default {
   favicon: 'img/favicon.svg',
 
   // GitHub Pages project site; both can be overridden from the workflow.
-  url: process.env.SITE_URL ?? 'https://dasmatus.github.io',
-  baseUrl: process.env.BASE_URL ?? '/schule-kb/',
+  url: process.env.SITE_URL ?? 'https://abitur.dasmat.us',
+  baseUrl: process.env.BASE_URL,
   organizationName: 'dasmatus',
   projectName: 'schule-kb',
   trailingSlash: false,
