@@ -24,6 +24,7 @@ tags:
 
 ## Aplikovaná ekonomika (I.IST)
 
-- [[Aplikovaná ekonomika]] — 86 poznámok z 12 kapitol učebnice JA Slovensko
+- [[Aplikovaná ekonomika]] — 106 poznámok k 15 kapitolám učebnice JA Slovensko
   (ekonomické systémy, dopyt a ponuka, podnikanie, výroba, pracovná sila,
-  marketing, financovanie, peniaze, medzinárodný obchod)
+  marketing, financovanie, peniaze, makroekonómia, úloha štátu, medzinárodný
+  obchod); kapitoly 1, 13 a 14 sú doplnené z verejných zdrojov

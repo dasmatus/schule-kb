@@ -17,7 +17,13 @@ tags:
 > Poznámky z prvého ročníka (2023/2024), písané podľa učebnice
 > [JA Slovensko – Ekonómia podnikania](https://www.vzdelavanie.jaslovensko.sk/).
 > Pôvodne samostatný trezor, zlúčený sem v októbri 2026. Číslovanie
-> kapitol zodpovedá učebnici (kapitoly 1, 13 a 14 chýbajú).
+> kapitol zodpovedá učebnici.
+
+> [!note] Doplnené kapitoly 1, 13 a 14
+> Tieto kapitoly v pôvodných poznámkach chýbali a text učebnice nie je verejne
+> dostupný. Doplnil som ich v októbri 2026 z verejných zdrojov (Eurostat,
+> ŠÚ SR, NBS, ECB, MF SR, RRZ) a z vypracovaných maturitných tém – majú tag
+> `#doplnené` a zdroje na konci poznámok.
 
 Späť na [[Ekonomika]].
 
@@ -26,6 +32,15 @@ Späť na [[Ekonomika]].
 - [[Maturitné okruhy – pracovné poznámky]]
 - [[Maturitné témy – rozpracované odpovede]]
 - Aktuálny zoznam: [[Zoznam tém – ekonomika]]
+
+## 1. Čo je ekonómia *(doplnené)*
+
+- [[Zhrnutie – čo je ekonómia]]
+- [[Prečo študovať ekonómiu]]
+- [[Vzácnosť a náklady obetovanej príležitosti]]
+- [[Základný ekonomický problém]]
+- [[Výrobné faktory a ich odmeny]]
+- [[Dejiny ekonomického myslenia]]
 
 ## 2. Ekonomické systémy
 
@@ -141,6 +156,26 @@ Späť na [[Ekonomika]].
 - [[Tvorba peňazí bankami]]
 - [[Úspory]]
 - [[Úver, úrok a RPMN]]
+
+## 13. Ekonomická stabilita *(doplnené)*
+
+- [[Zhrnutie – ekonomická stabilita]]
+- [[Hrubý domáci produkt – meranie]]
+- [[Kolobeh rastu a poklesu ekonomiky]]
+- [[Inflácia – príčiny a meranie]]
+- [[Komu inflácia škodí a komu prospieva]]
+- [[Nezamestnanosť – meranie a druhy]]
+- [[Agregátny dopyt a agregátna ponuka]]
+- [[Globálna ekonomická kríza 2008]]
+
+## 14. Úloha vlády *(doplnené)*
+
+- [[Zhrnutie – úloha vlády]]
+- [[Úloha vlády v trhovej ekonomike]]
+- [[Verejné statky a externality]]
+- [[Štátny rozpočet – príjmy a výdavky]]
+- [[Fiškálna politika]]
+- [[Menová politika]]
 
 ## 15. Medzinárodné ekonomické vzťahy
 
