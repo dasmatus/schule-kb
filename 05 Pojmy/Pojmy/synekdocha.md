@@ -15,7 +15,7 @@ tags:
 
 # 🔑 synekdocha
 
-Synekdocha je trópus, druh [[metonymia|metonymie]], pri ktorom sa celok pomenúva časťou (*pars pro toto*) alebo časť celkom, prípadne jednotné číslo namiesto množného, napr. *mať strechu nad hlavou* (dom), *kúpiť si zlato* (zlaté prstene).
+Synekdocha je trópus, druh [[metonymia|metonymie]], pri ktorom sa celok pomenúva časťou (*pars pro toto*) alebo časť celkom, prípadne jednotné číslo namiesto množného, napr. *mať strechu nad hlavou* (dom), *pri stole sedelo desať hláv* (ľudí). Pomenovanie výrobku podľa materiálu (*kúpiť si zlato* = zlaté prstene) je bežná [[metonymia]]; prezentácia ho uvádza ako metonymiu/synekdochu.
 
 ## Súvisí
 
