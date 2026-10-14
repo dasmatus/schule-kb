@@ -8,7 +8,7 @@ tags:
 
 # 🔑 Pojmy
 
-> [!abstract] 213 položiek
+> [!abstract] 230 položiek
 
 ## TČOZ – IST
 
@@ -31,6 +31,8 @@ tags:
 | [[Akciová spoločnosť]] | — |
 | [[alegória]] | — |
 | [[anafora]] | — |
+| [[anakolút]] | — |
+| [[antitéza]] | — |
 | [[antonymum]] | — |
 | [[apostrofa]] | — |
 | [[argumentácia]] | — |
@@ -59,9 +61,13 @@ tags:
 | [[dvojhláska]] | — |
 | [[EEPROM]] | — |
 | [[elipsa]] | — |
+| [[epanastrofa]] | — |
+| [[epifora]] | — |
 | [[epika]] | — |
 | [[epiteton]] | — |
+| [[epizeuxa]] | — |
 | [[epos]] | — |
+| [[eufemizmus]] | — |
 | [[EXPLAIN]] | — |
 | [[Faktoring]] | — |
 | [[FIFO]] | — |
@@ -76,6 +82,7 @@ tags:
 | [[frazeologizmus]] | — |
 | [[Funkčný generátor]] | — |
 | [[Fázový posun]] | — |
+| [[gradácia]] | — |
 | [[Grafická karta]] | — |
 | [[gramatická kategória]] | — |
 | [[HDD]] | — |
@@ -89,6 +96,7 @@ tags:
 | [[Induktívna reaktancia]] | — |
 | [[Inflácia]] | — |
 | [[informačný slohový postup]] | — |
+| [[inverzia]] | — |
 | [[Investícia]] | — |
 | [[IP adresa]] | — |
 | [[irónia]] | — |
@@ -128,6 +136,7 @@ tags:
 | [[Mzda]] | — |
 | [[Nelineárna záťaž]] | — |
 | [[Nepriama daň]] | — |
+| [[neverbálna komunikácia]] | — |
 | [[Nezamestnanosť]] | — |
 | [[novela]] | — |
 | [[Nulový bod]] | — |
@@ -148,14 +157,18 @@ tags:
 | [[oxymoron]] | — |
 | [[Packet Tracer]] | — |
 | [[paradox]] | — |
+| [[paralelizmus]] | — |
+| [[paralipsa]] | — |
 | [[paródia]] | — |
 | [[PCIe slot]] | — |
 | [[PDU]] | — |
+| [[perifráza]] | — |
 | [[personifikácia]] | — |
 | [[Peňažný trh]] | — |
 | [[PFC]] | — |
 | [[Ping]] | — |
 | [[Platobný styk]] | — |
+| [[pleonazmus]] | — |
 | [[podmet]] | — |
 | [[Podnik]] | — |
 | [[polysémia]] | — |
@@ -177,6 +190,7 @@ tags:
 | [[rozprávací slohový postup]] | — |
 | [[rozprávač]] | — |
 | [[rytmické krátenie]] | — |
+| [[rétorika]] | — |
 | [[rým]] | — |
 | [[SATA]] | — |
 | [[satira]] | — |
@@ -185,6 +199,7 @@ tags:
 | [[slohový postup]] | — |
 | [[slovný druh]] | — |
 | [[Slow Query Log]] | — |
+| [[slávnostný prejav]] | — |
 | [[sociálna balada]] | — |
 | [[sonet]] | — |
 | [[spisovný jazyk]] | — |
@@ -194,6 +209,7 @@ tags:
 | [[subštandard]] | — |
 | [[Switch]] | — |
 | [[symbol]] | — |
+| [[synekdocha]] | — |
 | [[synonymum]] | — |
 | [[TDP]] | — |
 | [[THD]] | — |
@@ -214,6 +230,7 @@ tags:
 | [[Výrobné faktory]] | — |
 | [[Wattmeter]] | — |
 | [[Zdanlivý výkon]] | — |
+| [[zeugma]] | — |
 | [[Zisk]] | — |
 | [[Zmiešaná ekonomika]] | — |
 | [[Základná doska]] | — |

@@ -15,7 +15,7 @@ tags:
 > poznámka v trezore odkazuje na svoj originál. Priečinky `docx/`, `pdf/`
 > a `ppt/` sa iba presunuli sem (záznam o presune je v `_presun.tsv`).
 
-## Prevedené na poznámky (121)
+## Prevedené na poznámky (122)
 
 | Pôvodný súbor | Poznámka |
 | --- | --- |
@@ -41,6 +41,7 @@ tags:
 | `III_jazyk_Úvaha.pdf` | [[Úvaha – prezentácia]] |
 | `III_literatura_slovenska_medzivojnova_poezia_.pdf` | [[Slovenská medzivojnová poézia – prezentácia]] |
 | `III_zvukova_rovina_jazyka.pdf` | [[Zvuková rovina jazyka – prezentácia]] |
+| `IV_jazyk_Recnicky_styl.pdf` | [[Rečnícky štýl – prezentácia]] |
 | `Kritériá na písanie úvahy.docx` | [[Kritériá na písanie úvahy]] |
 | `Life (sometimes) sucks S1.docx` | [[Life (sometimes) sucks – text]] |
 | `Maturitne_tezy_2025_2026.docx` | [[Tézy na maturitu – literatúra]] |
