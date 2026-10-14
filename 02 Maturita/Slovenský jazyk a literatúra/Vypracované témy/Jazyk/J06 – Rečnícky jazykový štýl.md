@@ -105,7 +105,7 @@ Rozbor:
 - Zamieňanie [[rečnícka otázka|rečníckej otázky]] s bežnou otázkou, na ktorú sa naozaj očakáva odpoveď.
 - Nevhodné miešanie štýlových vrstiev – napríklad prílišná familiárnosť pri slávnostnom prejave alebo naopak strohosť pri príležitostnom prípitku.
 - Chyby prednesu: defektné pauzy (floskuly, barličky), zbytočne opakované oslovenie, nevhodné tempo, slabý hlas, nesprávna melódia otázok, nespisovná výslovnosť, monotónne čítanie textu, neprimeraná dĺžka, nevhodný výzor.
-- Chyby vo vetnej stavbe: [[anakolút]] (veta začatá jednou konštrukciou a dokončená inou), [[zeugma]] (*Uznávam a súhlasím s vašimi pripomienkami* → *Uznávam vaše pripomienky a súhlasím s nimi*) a kríženie väzieb (*Jedná sa o…* → *Ide o…*).
+- Chyby vo vetnej stavbe: [[anakolút]] (veta začatá jednou konštrukciou a dokončená inou), [[zeugma]] (*Uznávam a súhlasím s vašimi pripomienkami* → *Uznávam vaše pripomienky a súhlasím s nimi*) a kríženie väzieb slov s podobným významom. Chybou sú aj bohemizmy, napr. *Jedná sa o…* → *Ide o…*, *zahájiť* → *začať*.
 - Faux pas: nesprávne vyslovené meno, nepripravenosť na situáciu, neupravený zovňajšok.
 
 ## 6. Zhrnutie na ústnu odpoveď

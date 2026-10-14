@@ -99,8 +99,10 @@ zviditeľniť postup v náučnom prejave (pozri **názornosť**, strana 14).
 | Dramatické pauzy, pátos, umelecké prostriedky – pútavý slovník, zdôraznenie kľúčových slov, [[rečnícka otázka\|rečnícke otázky]], nedokončené výpovede, vsuvky, odbočenia | Splynutie autora s publikom – stotožnenie, priblíženie – prítomnosť autora v texte |
 | Výzva, apel, prianie | |
 
-Ukážka sugestívnosti: video *Hitlerov prvý prejav 1933* (prejav vo fabrike
-Siemens) – príklad toho, ako sa sugestívnosť dá zneužiť na manipuláciu.
+Ukážky sugestívnosti (dve videá): *Hitlerov prvý prejav 1933* a *Adolf Hitler
+Speech 1933 – Siemens Factory* (prejav v berlínskom závode Siemens
+10. 11. 1933, posledný pred voľbami 12. 11.). Ukazujú, ako sa sugestívnosť
+dá zneužiť na manipuláciu.
 
 ## Strana 14
 
@@ -202,9 +204,10 @@ riešenie je na nasledujúcom slajde)*
   > míru; v radě pěješ o hrdinství a v bitvě se třeseš strachy.
 
 > [!note] Slovanská antitéza
-> Ukážka z ľudovej piesne je typ, ktorý sa volá **slovanská antitéza**:
-> najprv sa vysloví obraz, potom sa poprie („Nebolo to žitko, lež…“)
-> a nahradí skutočným významom.
+> Ukážka z ľudovej piesne stojí na popretí a oprave obrazu („Nebolo to
+> žitko, lež bola pšenička“). Plná **slovanská antitéza** má tri časti:
+> otázka – záporná odpoveď – kladná (správna) odpoveď. V tejto ukážke
+> otázka chýba, je tu len popretie a oprava.
 
 ## Strana 25
 
