@@ -15,4 +15,4 @@ tags:
 - ✍️ [[Autori]] — 71 položiek
 - 📕 [[Diela]] — 65 položiek
 - 🌊 [[Smery a obdobia]] — 28 položiek
-- 🔑 [[Pojmy]] — 203 položiek
+- 🔑 [[Pojmy]] — 230 položiek

@@ -88,6 +88,7 @@ Prozodické vlastnosti reči tvoria tri zložky: **časovú moduláciu** (kvanti
 
 - [[Zvuková rovina jazyka]]
 - [[Zvuková rovina jazyka – prezentácia]]
+- [[Rečnícky štýl – prezentácia]]
 
 ## Kontrolné otázky
 

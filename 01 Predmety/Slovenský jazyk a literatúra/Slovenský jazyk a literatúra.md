@@ -47,6 +47,7 @@ tags:
 - [[Básnické prostriedky a kompozícia úvahy]] — *poznámky* · 2026-03-03
 - [[Úvaha – prezentácia]] — *prezentácia* · 2026-03-19
 - [[Kritériá na písanie úvahy]] — *poznámky*
+- [[Rečnícky štýl – prezentácia]] — *prezentácia* · 2026-09-23
 
 ## Poznámky
 

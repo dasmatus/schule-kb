@@ -89,6 +89,7 @@ V odpovedi treba vymedziť komunikáciu ako proces výmeny informácií a vymeno
 ## Súvisiace poznámky
 
 - [[Zvuková rovina jazyka]]
+- [[Rečnícky štýl – prezentácia]]
 
 ## Kontrolné otázky
 
