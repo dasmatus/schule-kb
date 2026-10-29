@@ -61,6 +61,7 @@ tags:
 
 - [[L13 – Literárna moderna]]
 - [[L15 – Slovenská medzivojnová poézia]] (slovenský nadrealizmus R. Fábryho nadväzuje na francúzsky surrealizmus)
+- [[Revolta a bitníci – Lunapark mysle]] (avantgardné znaky v bitníckej poézii – Ferlinghetti)
 
 ## Kontrolné otázky
 

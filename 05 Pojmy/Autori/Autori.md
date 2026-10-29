@@ -8,11 +8,12 @@ tags:
 
 # ✍️ Autori
 
-> [!abstract] 71 položiek
+> [!abstract] 74 položiek
 
 | Názov | Obdobie |
 | --- | --- |
 | [[Agatha Christie]] | britská detektívna literatúra 20. storočia |
+| [[Alain Robbe-Grillet]] | francúzsky nový román (po roku 1945) |
 | [[Albert Camus]] | francúzsky existencializmus (po roku 1945) |
 | [[Alexander Sergejevič Puškin]] | ruský romantizmus |
 | [[Alfonz Bednár]] | slovenská próza „novej vlny“ (60. roky 20. storočia) |
@@ -28,6 +29,7 @@ tags:
 | [[Emil Boleslav Lukáč]] | slovenská medzivojnová poézia – neosymbolizmus |
 | [[Erich Maria Remarque]] | nemecká medzivojnová próza – stratená generácia |
 | [[Ernest Hemingway]] | americká medzivojnová próza – stratená generácia |
+| [[Eugène Ionesco]] | divadlo absurdna (po roku 1945) |
 | [[Ezop]] | staroveká grécka literatúra |
 | [[Fiodor Michajlovič Dostojevskij]] | ruský realizmus |
 | [[František Švantner]] | slovenský naturizmus |
@@ -58,6 +60,7 @@ tags:
 | [[Konštantín (Cyril)]] | staroslovienska literatúra (9. storočie, Veľká Morava) |
 | [[Laco Novomeský]] | slovenská medzivojnová poézia – proletárska a angažovaná poézia |
 | [[Ladislav Mňačko]] | slovenská povojnová próza – kritika totality |
+| [[Lawrence Ferlinghetti]] | americká povojnová poézia – beat generation |
 | [[Lev Nikolajevič Tolstoj]] | ruský realizmus |
 | [[Margita Figuli]] | slovenský naturizmus |
 | [[Mark Twain]] | americký realizmus – humoristická a dobrodružná próza |

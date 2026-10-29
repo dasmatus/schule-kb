@@ -74,7 +74,7 @@ Slovenská dráma po roku 1945 sa rozvíja v dvoch líniách: vážna, komorná 
 
 ## Súvisiace poznámky
 
-Zatiaľ žiadne.
+- [[Nový román a absurdná dráma – poznámky a úlohy]] – absurdná dráma vo svete a jej ohlas na Slovensku
 
 ## Kontrolné otázky
 

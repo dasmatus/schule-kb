@@ -15,7 +15,7 @@ tags:
 > poznámka v trezore odkazuje na svoj originál. Priečinky `docx/`, `pdf/`
 > a `ppt/` sa iba presunuli sem (záznam o presune je v `_presun.tsv`).
 
-## Prevedené na poznámky (122)
+## Prevedené na poznámky (124)
 
 | Pôvodný súbor | Poznámka |
 | --- | --- |
@@ -72,11 +72,13 @@ tags:
 | `sjl1.4.26.docx` | [[Slovenská medzivojnová literatúra – kontext]] |
 | `SJL_pravidla_studenti_2026.pdf` | [[SJL – pravidlá a hodnotenie 2026-2027]] |
 | `Slovenská medzivojnová poézia 26.1.26.docx` | [[Slovenská medzivojnová poézia]] |
+| `Spracovanie-Lunapark-mysle-str-98-105.docx` | [[Revolta a bitníci – Lunapark mysle]] (originál nie je v repozitári) |
 | `Súhrnné info (1).docx` | [[Rozbor textov – nadradený motív]] |
 | `titulny_list_elektro_merania.docx` | [[Titulný list protokolu o meraní]] |
 | `UTF-8''24-4. -N..docx` | [[Nemčina – doučovanie 24.4.]] |
 | `UTF-8''27-3 -N. konj..docx` | [[Nemčina – doučovanie 27.3. (konjunktív)]] |
 | `UTF-8''29-4. -N..docx` | [[Nemčina – doučovanie 29.4.]] |
+| `Vypracovanie_Novy_roman_a_absurdna_drama.pdf` | [[Nový román a absurdná dráma – poznámky a úlohy]] (originál nie je v repozitári) |
 | `zivy_bic_citatelsky_dennik.docx` | [[Živý bič – čitateľský denník]] |
 | `zvukova_rovina_jazyka.docx` | [[Zvuková rovina jazyka]] |
 | `1. My family.doc` | [[A01 – Family]] |

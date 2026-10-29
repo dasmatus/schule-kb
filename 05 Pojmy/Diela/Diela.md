@@ -8,7 +8,7 @@ tags:
 
 # 📕 Diela
 
-> [!abstract] 65 položiek
+> [!abstract] 67 položiek
 
 | Názov                                             | Autor                                        |                           |
 | ------------------------------------------------- | -------------------------------------------- | ------------------------- |
@@ -43,6 +43,7 @@ tags:
 | [[Kvety zla]]                                     | Charles Baudelaire                           |                           |
 | [[Kým kohút nezaspieva]]                          | Ivan Bukovčan                                |                           |
 | [[Lakomec]]                                       | Molière                                      |                           |
+| [[Lunapark mysle]]                                | Lawrence Ferlinghetti                        |                           |
 | [[Maco Mlieč]]                                    | Jozef Gregor Tajovský                        |                           |
 | [[Manifest surrealizmu]]                          | André Breton                                 |                           |
 | [[Marína]]                                        | Andrej Sládkovič                             |                           |
@@ -76,4 +77,5 @@ tags:
 | [[Áno a nie]]                                     | kolektív nadrealistov                        |                           |
 | [[Čakanie na Godota]]                             | Samuel Beckett                               |                           |
 | [[Ťapákovci]]                                     | Božena Slančíková-Timrava                    |                           |
+| [[Žiarlivosť]]                                    | Alain Robbe-Grillet                          |                           |
 | [[Živý bič]]                                      | Milo Urban                                   |                           |

@@ -46,6 +46,8 @@ tags:
 | Čakanie na Godota | *En attendant Godot* | Waiting for Godot | Beckett (1953) |
 | Plešatá speváčka | *La Cantatrice chauve* | The Bald Soprano | Ionesco (1950) |
 | Nosorožec | *Rhinocéros* | Rhinoceros | Ionesco (1960) |
+| Žiarlivosť | *La Jalousie* | Jealousy | Robbe-Grillet (1957) |
+| Lunapark mysle | — | A Coney Island of the Mind | Ferlinghetti (1958) |
 
 ## Slovenské diela
 

@@ -32,11 +32,13 @@ Po roku 1945 sa svetová literatúra vyrovnáva s dôsledkami druhej svetovej vo
 
 - **[[Existencializmus]]:** [[Jean-Paul Sartre]] (Francúzsko) – *Nevoľnosť*; [[Albert Camus]] (Francúzsko) – *Cudzinec*, *Mor*.
 - **[[Beat generation]]:** Jack Kerouac – *Na ceste*; Allen Ginsberg – *Kvílenie* (báseň).
-- **[[Divadlo absurdna]]:** [[Samuel Beckett]] – *[[Čakanie na Godota]]* (napísaná 1948 – 1949, francúzsky vydaná 1952, premiéra 1953 v Paríži); Eugène Ionesco – *Plesatá speváčka* (1950) a *Nosorožec* (1959).
+- **[[Divadlo absurdna]]:** [[Samuel Beckett]] – *[[Čakanie na Godota]]* (napísaná 1948 – 1949, francúzsky vydaná 1952, premiéra 1953 v Paríži); [[Eugène Ionesco]] – *Plešatá speváčka* (1950) a *Nosorožec* (1959).
+- **[[Nový román]]** (Francúzsko, 50. roky): [[Alain Robbe-Grillet]] – *[[Žiarlivosť]]* (1957); antiromán bez deja a psychológie postáv, rozprávač „oko kamery“.
+- **Bitnícka poézia:** [[Lawrence Ferlinghetti]] – *[[Lunapark mysle]]* (1958); zakladateľ vydavateľstva City Lights.
 - **[[J. D. Salinger]]** (USA) – *[[Kto chytá v žite]]* (1951) – formálne nepatrí k beatnikom, no svojou kritikou pokryteckej dospelej spoločnosti a témou generačného odcudzenia je súčasťou širšieho prúdu povojnovej americkej prózy, ktorý beat generation pripravoval pôdu.
 
 > [!info] Overené roky
-> *Kto chytá v žite* – 1951. *Čakanie na Godota* – napísaná 1948 – 1949, prvé (francúzske) vydanie 1952, javisková premiéra 5. januára 1953 v Théâtre de Babylone v Paríži. Ionescova *Plesatá speváčka* – premiéra 1950, *Nosorožec* – napísaný a uvedený 1959. (Podľa anglickej Wikipédie k jednotlivým dielam.)
+> *Kto chytá v žite* – 1951. *Čakanie na Godota* – napísaná 1948 – 1949, prvé (francúzske) vydanie 1952, javisková premiéra 5. januára 1953 v Théâtre de Babylone v Paríži. Ionescova *Plešatá speváčka* – premiéra 1950, *Nosorožec* – napísaný a uvedený 1959. (Podľa anglickej Wikipédie k jednotlivým dielam.)
 
 ## 4. Rozbor kľúčového diela – Kto chytá v žite
 
@@ -63,7 +65,8 @@ Povojnová svetová literatúra reaguje na krízu hodnôt spôsobenú druhou sve
 
 ## Súvisiace poznámky
 
-Zatiaľ žiadne.
+- [[Nový román a absurdná dráma – poznámky a úlohy]] – absurdná dráma, Čakanie na Godota, nový román, Žiarlivosť (s vypracovanými úlohami)
+- [[Revolta a bitníci – Lunapark mysle]] – revolta v USA, bitníci, hippies, Ferlinghetti
 
 ## Kontrolné otázky
 

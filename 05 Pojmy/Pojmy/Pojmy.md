@@ -8,7 +8,7 @@ tags:
 
 # 🔑 Pojmy
 
-> [!abstract] 230 položiek
+> [!abstract] 233 položiek
 
 ## TČOZ – IST
 
@@ -32,6 +32,7 @@ tags:
 | [[alegória]] | — |
 | [[anafora]] | — |
 | [[anakolút]] | — |
+| [[antihrdina]] | — |
 | [[antitéza]] | — |
 | [[antonymum]] | — |
 | [[apostrofa]] | — |
@@ -182,6 +183,7 @@ tags:
 | [[Rabat]] | — |
 | [[RAM]] | — |
 | [[Redis]] | — |
+| [[refrén]] | — |
 | [[rečnícka otázka]] | — |
 | [[rečnícky štýl]] | — |
 | [[ROM]] | — |
@@ -223,6 +225,7 @@ tags:
 | [[umelecký štýl]] | — |
 | [[veršový systém]] | — |
 | [[vetný člen]] | — |
+| [[voľný verš]] | — |
 | [[VRAM]] | — |
 | [[výklad]] | — |
 | [[výkladový slohový postup]] | — |
