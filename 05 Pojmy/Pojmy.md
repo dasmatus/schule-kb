@@ -12,7 +12,7 @@ tags:
 > zbiera **backlinky** zo všetkých poznámok, kde sa spomína — takže
 > na jednom mieste vidíš, kde všade daná vec vystupuje.
 
-- ✍️ [[Autori]] — 71 položiek
-- 📕 [[Diela]] — 65 položiek
-- 🌊 [[Smery a obdobia]] — 28 položiek
-- 🔑 [[Pojmy]] — 230 položiek
+- ✍️ [[Autori]] — 74 položiek
+- 📕 [[Diela]] — 67 položiek
+- 🌊 [[Smery a obdobia]] — 29 položiek
+- 🔑 [[Pojmy]] — 233 položiek

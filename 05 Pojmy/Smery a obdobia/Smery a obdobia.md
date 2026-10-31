@@ -8,7 +8,7 @@ tags:
 
 # 🌊 Smery a obdobia
 
-> [!abstract] 28 položiek
+> [!abstract] 29 položiek
 
 | Názov | Kontext |
 | --- | --- |
@@ -31,6 +31,7 @@ tags:
 | [[Naturalizmus]] | — |
 | [[Naturizmus]] | — |
 | [[Neosymbolizmus]] | — |
+| [[Nový román]] | — |
 | [[Realizmus]] | — |
 | [[Romantizmus]] | — |
 | [[Schematizmus]] | — |

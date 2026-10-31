@@ -38,6 +38,8 @@ tags:
 - [[Rozbor textov – nadradený motív]] — *poznámky*
 - [[Živý bič – čitateľský denník]] — *čitateľský-denník*
 - [[Dráma]] — *poznámky*
+- [[Nový román a absurdná dráma – poznámky a úlohy]] — *poznámky + úlohy* · 2026-10-29
+- [[Revolta a bitníci – Lunapark mysle]] — *poznámky + úlohy* · 2026-10-29
 
 ## Sloh
 

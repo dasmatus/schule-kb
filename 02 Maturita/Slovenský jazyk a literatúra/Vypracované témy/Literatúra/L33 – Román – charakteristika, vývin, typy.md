@@ -49,7 +49,7 @@ Román je **najrozsiahlejší epický žáner**, spravidla písaný prózou (vý
 | Pikareskný | parodický, s komickým alebo podvodníckym hrdinom | M. de Cervantes – Don Quijote |
 | Utopický | opisuje predstavu (ne)dosiahnuteľnej dokonalej spoločnosti | – |
 | Dievčenský | určený dospievajúcim dievčatám, dôraz na citovú stránku | – |
-| Nový román | popiera tradičný dej a postavu, dôraz na jazyk a podtext | – |
+| [[Nový román]] | popiera tradičný dej a postavu, dôraz na jazyk a podtext | [[Alain Robbe-Grillet|A. Robbe-Grillet]] – [[Žiarlivosť]] |
 
 ## 5. Rozbor kľúčového diela – Jozef Mak (J. C. Hronský)
 
@@ -73,6 +73,7 @@ Odpoveď stavám na troch krokoch: (1) definícia románu cez porovnanie s [[pov
 
 - [[Jozef Mak – rozbor diela]]
 - [[Drak sa vracia – rozbor diela]]
+- [[Nový román a absurdná dráma – poznámky a úlohy]]
 - [[Slovenská medzivojnová literatúra – kontext]]
 - [[L18 – Slovenská medzivojnová próza]]
 - [[L26 – Epika ako literárny druh]]

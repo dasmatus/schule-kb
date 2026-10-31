@@ -103,7 +103,7 @@ Nie každá moderná dráma však dodržiava túto stavbu.
 - **George Bernard Shaw** – *Pygmalion*
 - **Bertolt Brecht** – *Matka Guráž a jej deti*
 - **Samuel Beckett** – *Čakanie na Godota*
-- **Eugène Ionesco** – *Plešatá speváčka*
+- **[[Eugène Ionesco]]** – *Plešatá speváčka*
 - **Federico García Lorca** – *Krvavá svadba*
 
 ### Slovenská dráma
