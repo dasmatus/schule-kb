@@ -26,6 +26,8 @@ tags:
   (zoznam je odvodený zo zdrojov, nie od predmetovej komisie — pozri
   [[Tézy na maturitu – anglický jazyk]])
 - [[Zoznam tém – TČOZ]] — 25 tém odboru IST, všetky vypracované
+- [[Online zdroje k maturite]] — bezplatné online materiály ku všetkým
+  predmetom (nájdené cez [FMHY](https://fmhy.net), overené 11/2026)
 
 ## 🧠 Prepojenia a mapy
 

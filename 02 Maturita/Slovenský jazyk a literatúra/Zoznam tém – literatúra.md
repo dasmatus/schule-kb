@@ -127,3 +127,11 @@ tags:
 **L34** — Komédia / veselohra – charakteristika, diela
 
 **L35** — Svetový realizmus – typy románu ([[Otec Goriot]], [[Zločin a trest]], [[Anna Kareninová]], [[Vojna a mier]])
+
+
+> [!tip] Kde nájsť diela online (legálne, zdarma)
+> Celé texty ku rozbory sú voľne dostupné: [Zlatý fond SME](https://zlatyfond.sme.sk/)
+> (2 625 diel slovenskej literatúry) a [Wikizdroje](https://sk.wikisource.org/) —
+> svetová klasika po anglicky na [Project Gutenberg](https://www.gutenberg.org/) a
+> [Standard Ebooks](https://standardebooks.org/); prehľady ku dielam má [LitCharts](https://www.litcharts.com/).
+> Zoznam aj s ďalšími odkazmi: [[Online zdroje k maturite]].

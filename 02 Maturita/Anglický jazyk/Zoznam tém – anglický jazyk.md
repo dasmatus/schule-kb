@@ -127,4 +127,5 @@ tags:
 - [[Anglický jazyk]] — predmet
 - [[Tézy na maturitu – anglický jazyk]] — odkiaľ je zoznam odvodený
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
+- [[Online zdroje k maturite]] — bezplatné online materiály k angličtine (EFSET na zistenie úrovne, [Write & Improve](https://writeandimprove.com/) na písanie, LearnEnglish Teens, engVid, elllo s transkriptami…) — výber cez [FMHY](https://fmhy.net), overené 11/2026
 - [[Maturita 2027 – prehľad]]

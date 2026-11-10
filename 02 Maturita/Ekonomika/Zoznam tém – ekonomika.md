@@ -137,3 +137,11 @@ tags:
 **E32** — dokáže popísať účtovné výkazy, ktoré sú potrebné pri zhodnotení finančnej situácie v podniku
 
 **E33** — dokáže vysvetliť podstatu [[Finančný trh|finančného trhu]] a jeho segmentov
+
+
+> [!tip] Doplňujúce online materiály k témam
+> Ku témam E01–E33 dopĺňa cvičebnicu aj zoznam bezplatných online
+> materiálov v [[Online zdroje k maturite]] (výber cez [FMHY](https://fmhy.net),
+> overené 11/2026): [Khan Academy Economics](https://www.khanacademy.org/economics-finance-domain) (mikro/makro videá a kvízy),
+> [CORE Econ](https://www.core-econ.org/) (celá učebnica ekonómie zdarma) a
+> [OpenStax Principles of Economics](https://openstax.org/details/books/principles-economics) (cvičenia ku grafom).

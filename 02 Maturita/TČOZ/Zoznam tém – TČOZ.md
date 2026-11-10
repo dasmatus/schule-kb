@@ -40,3 +40,16 @@ tags: [maturita, TČOZ, IST, rozcestník]
 | T24 | Objektovo orientované programovanie | OBJEKTOVO ORIENTOVANÉ PROGRAMOVANIE - základné pojmy, prístupové modifikátory, statické a nestatické členy tried, dedičnosť, základná konfigurácia sieťových zariadení | [[T24 – Objektovo orientované programovanie]] |
 | T25 | Tvorba grafických rozhraní | TVORBA GRAFICKÝCH ROZHRANÍ - druhy grafických prostredí, vývojové prostredie v režime tvorby aplikácie, základné komponenty, základné udalosti, transportná a relačná vrstva modelu OSI | [[T25 – Tvorba grafických rozhraní]] |
 
+> [!tip] Doplňujúce online materiály k témam
+> Ku vypracovaným tézam existuje aj praktický tréning — výber cez
+> [FMHY](https://fmhy.net), overený 11/2026, je v [[Online zdroje k maturite]]:
+>
+> | Téma | Materiál |
+> | --- | --- |
+> | T01 | [NandGame](https://nandgame.com/) — staviaš počítač z logických obvodov |
+> | T05 | [All About Circuits](https://www.allaboutcircuits.com/education/) · [Falstad CircuitJS](https://www.falstad.com/circuit/) — diódy, PN priechod, simulácia obvodov |
+> | T06–T13, T15–T18 | [NetAcad – Skills for All](https://www.netacad.com/) · [Professor Messer](https://www.professormesser.com/) — siete, OSI, VLSM, VLAN |
+> | T07 | [PortSwigger Academy](https://portswigger.net/web-security) · [OverTheWire](https://overthewire.org/wargames/) — kyberbezpečnosť v praxi |
+> | T14 | [CPU Land](https://cpu.land/) — architektúra počítača |
+> | T17 | [Wokwi](https://wokwi.com/) — Arduino/ESP32 simulátor |
+
