@@ -112,3 +112,10 @@ tags:
 **J29** — Jazyk a reč – vývin ; jazykové rodiny
 
 **J30** — Pojem [[národný jazyk]] – spisovná, štandardná a [[subštandard|subštandardná forma]] jazyka.
+
+
+> [!tip] Ako sa učiť na tieto témy
+> Z [[Pojmy]] si vytvor flashcards v [Anki](https://apps.ankiweb.net/)
+> (PC a Android zdarma) — na pojmy, autory a definície sa opakovanie
+> v Anki hodí najviac. Ďalšie overené
+> odkazy: [[Online zdroje k maturite]].
