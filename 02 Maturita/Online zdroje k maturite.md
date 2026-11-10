@@ -35,6 +35,28 @@ tags:
   odkáže konkrétnu podstránku, nie len root domény.
 - Z [[Pojmy]] sa dá vyrobiť balíček do **Anki** (pozri Nástroje na učenie).
 
+## Rozpísané zdroje
+
+Ku každému zdroju nižšie je v `Online zdroje k maturite/` samostatná poznámka
+s prevzatým obsahom (štruktúra, overené odkazy, mapovanie na tézy):
+
+- SJL: [[zlaty-fond|Zlatý fond SME]] · [[wikizdroje|Wikizdroje]] ·
+  [[gutenberg-standard-ebooks|Gutenberg a Standard Ebooks]] ·
+  [[litcharts|LitCharts]] · [[literature-network|Literature Network]] (neprístupná pre fetch)
+- Angličtina: [[efset|EF SET]] · [[write-and-improve|Write & Improve]] ·
+  [[learnenglish-teens|LearnEnglish Teens]] ·
+  [[bbc-learning-english|BBC Learning English]] · [[engvid|engVid]] ·
+  [[elllo-esl-lab|ELLLO a ESL-Lab]] · [[langeek|LanGeek]] ·
+  [[oxford-learners|Oxford Learner's Dictionaries]] · [[forvo|Forvo]]
+- Ekonomika: [[core-econ|CORE Econ]] · [[openstax-ekonomika|OpenStax]] ·
+  [[khan-academy-ekonomika|Khan Academy]] · [[mru|MRU]]
+- TČOZ: [[netacad|NetAcad]] · [[professor-messer|Professor Messer]] ·
+  [[nandgame|NandGame]] · [[all-about-circuits|All About Circuits]] ·
+  [[ultimate-electronics|Ultimate Electronics Book]] ·
+  [[falstad-circuitjs|Falstad CircuitJS]] ·
+  [[portswigger|PortSwigger Academy]] · [[overthewire|OverTheWire]] ·
+  [[cpu-land|CPU Land]] · [[wokwi|Wokwi]]
+
 ## Slovenský jazyk a literatúra
 
 | Zdroj | Čo ponúka | Ku čomu |
