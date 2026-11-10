@@ -88,3 +88,7 @@ Tieto tri prúdy sa v tvorbe jednotlivých autorov spravidla prelínajú a netvo
 > [!question]- Čo je voľný verš a eufónia?
 > Voľný verš – bez pravidelných slabík, prízvukov a rýmu, riadi sa vnútorným
 > rytmom. Eufónia – zvuková ľubozvučnosť verša.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre III)

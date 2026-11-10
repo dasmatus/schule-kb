@@ -117,3 +117,7 @@ Zatiaľ žiadne.
 > [!question]- Aký je rozdiel medzi legendou a rytierskym eposom?
 > Legenda – životopis svätca so zázrakmi. Rytiersky epos – veršované hrdinské
 > činy rytierov (Pieseň o Rolandovi).
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre I)

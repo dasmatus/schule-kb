@@ -40,6 +40,16 @@ tags:
 - [[Dráma]] — *poznámky*
 - [[Nový román a absurdná dráma – poznámky a úlohy]] — *poznámky + úlohy* · 2026-10-29
 - [[Revolta a bitníci – Lunapark mysle]] — *poznámky + úlohy* · 2026-10-29
+- **[[Literatúra IV – Spoločenský a historický kontext]]** — *učebnica*
+- [[Literatúra IV – Sociálno-kritický realizmus po 1945]] — *učebnica*
+- [[Literatúra IV – Literatúra v totalitných podmienkach]] — *učebnica*
+- [[Literatúra IV – Snaha o zachovanie autorskej identity]] — *učebnica*
+- [[Literatúra IV – Zmeny pohľadu na realitu]] — *učebnica*
+- [[Literatúra IV – Revolta ako prejav spoločenskej angažovanosti]] — *učebnica*
+- [[Literatúra IV – Fantastická literatúra]] — *učebnica*
+- [[Literatúra IV – Literatúra postmoderny]] — *učebnica*
+- [[Literatúra IV – Slovenská literatúra dnes]] — *učebnica*
+- [[Literatúra IV – Vývin literárnych žánrov – prehľad]] — *učebnica*
 
 ## Sloh
 
