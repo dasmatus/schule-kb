@@ -116,3 +116,7 @@ Slovenská próza po roku 1945 prešla vývinom od ideologicky zaťaženého sch
 
 > [!question]- Čo je vnútorný monológ?
 > Priame zachytenie myšlienkového toku postavy.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Sociálno-kritický realizmus po 1945]] · [[Literatúra IV – Snaha o zachovanie autorskej identity]] · [[Literatúra IV – Slovenská literatúra dnes]] · [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre IV)

@@ -91,3 +91,7 @@ Zatiaľ žiadne.
 
 > [!question]- Akú formu rozprávania má Kapitánova dcéra?
 > Ich-forma, retrospektívne spomienky starého Griňova.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre II)

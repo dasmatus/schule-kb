@@ -138,6 +138,25 @@ tags:
 | `29 The United States of America.pdf` | [[A27 – The USA]] |
 | `30 Slovakia - My Homeland.pdf` | [[A30 – Slovakia – My Homeland]] |
 
+## Učebnica Literatúra IV (10)
+
+Celá učebnica je prevedená na kapitolové poznámky. Zdrojový PDF bol
+10. novembra 2026 skomprimovaný z ~106 na 19,8 MB — rozsah (212 strán)
+aj čitateľnosť zostali zachované.
+
+| Poznámka | Rozsah |
+| --- | --- |
+| [[Literatúra IV – Spoločenský a historický kontext]] | str. 3–6 |
+| [[Literatúra IV – Sociálno-kritický realizmus po 1945]] | str. 7–22 |
+| [[Literatúra IV – Literatúra v totalitných podmienkach]] | str. 23–37 |
+| [[Literatúra IV – Snaha o zachovanie autorskej identity]] | str. 38–68 |
+| [[Literatúra IV – Zmeny pohľadu na realitu]] | str. 69–97 |
+| [[Literatúra IV – Revolta ako prejav spoločenskej angažovanosti]] | str. 98–125 |
+| [[Literatúra IV – Fantastická literatúra]] | str. 126–140 |
+| [[Literatúra IV – Literatúra postmoderny]] | str. 141–171 |
+| [[Literatúra IV – Slovenská literatúra dnes]] | str. 172–197 |
+| [[Literatúra IV – Vývin literárnych žánrov – prehľad]] | str. 198–205 |
+
 ## Nové zdroje (5)
 
 Prvé tri majú poznámku, ostatné sú sylaby, duplikát a osobný dokument.

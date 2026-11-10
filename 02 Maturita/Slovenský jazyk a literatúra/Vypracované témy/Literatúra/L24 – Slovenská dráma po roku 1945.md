@@ -102,3 +102,7 @@ Slovenská dráma po roku 1945 sa rozvíja v dvoch líniách: vážna, komorná 
 > [!question]- Čo je tragikomédia a kabaret?
 > Tragikomédia spája vážne a komické prvky. Kabaret je hybrid drámy, poézie a
 > zábavy – krátke scény, slovná hra, kontakt s publikom.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Zmeny pohľadu na realitu]] · [[Literatúra IV – Literatúra postmoderny]] · [[Literatúra IV – Slovenská literatúra dnes]]

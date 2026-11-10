@@ -104,3 +104,7 @@ Slovenská poézia po roku 1945 sa vyvíja od schematizmu (do polovice 50. rokov
 
 > [!question]- Čím je typická mladšia generácia (Hevier, Urban)?
 > Jazyková hravosť, civilnosť, prepojenie s populárnou hudbou a textárstvom.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Snaha o zachovanie autorskej identity]] · [[Literatúra IV – Revolta ako prejav spoločenskej angažovanosti]] · [[Literatúra IV – Literatúra postmoderny]] · [[Literatúra IV – Slovenská literatúra dnes]]

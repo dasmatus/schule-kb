@@ -105,3 +105,7 @@ Zatiaľ žiadne.
 > [!question]- Čo je sylabický verš?
 > Verš s rovnakým počtom slabík bez ohľadu na ich dĺžku; základ barokovej
 > poézie aj ľudovej piesne.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre I)
