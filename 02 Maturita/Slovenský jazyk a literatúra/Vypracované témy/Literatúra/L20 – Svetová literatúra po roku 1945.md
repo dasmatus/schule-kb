@@ -99,3 +99,7 @@ Povojnová svetová literatúra reaguje na krízu hodnôt spôsobenú druhou sve
 
 > [!question]- Čo je bildungsroman?
 > Výchovný (generačný) román o dospievaní a vnútornom zrení hrdinu.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre III a IV) · [[Literatúra IV – Zmeny pohľadu na realitu]] · [[Literatúra IV – Revolta ako prejav spoločenskej angažovanosti]] · [[Literatúra IV – Fantastická literatúra]]

@@ -94,3 +94,7 @@ Zatiaľ žiadne.
 
 > [!question]- Vymenuj predstaviteľov rímskej literatúry.
 > Vergílius (Aeneis), Horácius (carpe diem), Ovídius, Plautus (komédie).
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre I–III)

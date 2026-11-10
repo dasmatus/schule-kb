@@ -94,3 +94,7 @@ Zatiaľ žiadne.
 
 > [!question]- Čím sa Lakomec líši od klasicistickej tragédie formou?
 > Je písaný prózou, tragédia alexandrínom (12-slabičný verš).
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre I)

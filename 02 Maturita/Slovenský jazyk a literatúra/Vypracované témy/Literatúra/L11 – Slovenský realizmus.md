@@ -103,3 +103,7 @@ Slovenský realizmus je reakciou na neúspech romantických národných snáh a 
 > [!question]- Aký je rozdiel medzi poviedkou a novelou?
 > Poviedka – jednoduchší dej, menej postáv. Novela – jedna výnimočná udalosť
 > s prekvapivým záverom.
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Vývin literárnych žánrov – prehľad]] (žánre II)

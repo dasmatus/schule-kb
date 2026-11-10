@@ -99,3 +99,7 @@ Zatiaľ žiadne.
 
 > [!question]- Čo je čierny humor?
 > Humor s tragickými alebo tabuizovanými témami (smrť, násilie, útlak).
+
+## Zdroje z učebnice Literatúra IV
+
+*Literatúra IV pre stredné školy* (A. Polakovičová, M. Calitková, Ľ. Starková, A. Mezeiová) — spracované v trezore: [[Literatúra IV – Literatúra v totalitných podmienkach]] · [[Literatúra IV – Snaha o zachovanie autorskej identity]] · [[Literatúra IV – Slovenská literatúra dnes]]
