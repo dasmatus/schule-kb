@@ -19,11 +19,12 @@ tags:
 > [!info] Obdobie
 > americká povojnová próza (generačný [[román]])
 
-J. D. Salinger (1919 – 2010) bol americký spisovateľ, autor generačného [[román|románu]] [[Kto chytá v žite]]. Cez dospievajúceho Holdena Caulfielda kritizuje pokrytectvo dospelej spoločnosti a stavia proti nemu túžbu chrániť detskú nevinnosť.
+J. D. Salinger (1919 – 2010), celým menom Jerome David Salinger, bol americký prozaik, autor generačného [[román|románu]] [[Kto chytá v žite]] (1951). Cez dospievajúceho Holdena Caulfielda kritizuje pokrytectvo dospelej spoločnosti a stavia proti nemu túžbu chrániť detskú nevinnosť. Formálne nepatrí k bítnikom, no témou generačného odcudzenia patrí do širšieho prúdu povojnovej americkej prózy, ktorý hnutiu [[Beat generation]] pripravoval pôdu.
 
 ## Súvisí
 
 - [[Kto chytá v žite]]
+- [[Beat generation]]
 
 ## Kde sa to spomína
 

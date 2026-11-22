@@ -15,11 +15,15 @@ tags:
 > [!info] Autor
 > [[J. D. Salinger]]
 
-Generačný [[román]] (bildungsroman) rozprávaný v 1. osobe hlavným hrdinom Holdenom Caulfieldom, ktorý je vylúčený zo strednej školy a niekoľko dní blúdi New Yorkom. Kritizuje povrchnosť a pokrytectvo dospelej spoločnosti; názov odkazuje na Holdenovu predstavu seba ako záchrancu detí pred pádom do sveta dospelých.
+Generačný a psychologický [[román]] (bildungsroman, 1951) rozprávaný v 1. osobe subjektivizovaným (nespoľahlivým) [[rozprávač|rozprávačom]] — 16-ročným Holdenom Caulfieldom. Názov je alúziou na báseň/pieseň Roberta Burnsa a odkazuje na Holdenovu predstavu seba ako záchrancu detí pred pádom z útesu do pokryteckého sveta dospelých.
+
+Holden s odstupom jedného roka spomína zo sanatória na tri dni pred Vianocami: dej sa odohráva na internátnej škole Pencey v Pensylvánii a v uliciach New Yorku (koniec 40. / začiatok 50. rokov). [[Kompozícia]] je retrospektívna a pikareskná (putovanie mestom). Jazyk povyšuje hovorovú reč a študentský slang na literárny jazyk. Ďalšie postavy: sestra Phoebe (detská nevinnosť), zosnulý brat Allie a starší brat D. B., ktorý sa „zapredal“ Hollywoodu. Otázka, kam odlietajú kačice z jazierka v Central Parku, keď voda zamrzne, symbolizuje hľadanie útočiska a miesta, kam človek patrí.
 
 ## Súvisí
 
 - [[Čakanie na Godota]]
+- [[J. D. Salinger]]
+- [[Beat generation]]
 
 ## Kde sa to spomína
 
