@@ -7,6 +7,7 @@ maturitný: "áno – EČ, PFIČ, ÚFIČ"
 tags:
   - rozcestník
   - predmet
+aktualizované: 2026-11-22
 ---
 
 # 📖 Slovenský jazyk a literatúra
@@ -67,3 +68,6 @@ tags:
 ## Poznámky
 
 - [[SJL – pravidlá a hodnotenie 2026-2027]] — *organizačné*
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii

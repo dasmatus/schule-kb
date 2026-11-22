@@ -13,6 +13,7 @@ aliasy:
 tags:
   - pojem
   - autor
+aktualizované: 2026-11-22
 ---
 
 # ✍️ Gabriel García Márquez
@@ -31,3 +32,6 @@ Gabriel García Márquez (1927 – 2014) bol kolumbijský spisovateľ, predstavi
 
 *Pozri panel **Backlinks** — zoznam sa dopĺňa sám, ako pribúdajú
 poznámky, ktoré tento pojem spomínajú.*
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii

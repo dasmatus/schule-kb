@@ -10,6 +10,7 @@ tags:
   - sjl/literatúra
   - cvičenie
   - riešenie
+aktualizované: 2026-11-22
 ---
 
 # Svetová literatúra po roku 1945 – pracovný list
@@ -408,3 +409,6 @@ odlietajú kačice z jazierka v Central Parku, keď voda zamrzne?
 - [[Literatúra IV – Revolta ako prejav spoločenskej angažovanosti]] —
   učebnica, s. 116 (*Kto chytá v žite*)
 - [[Slovenský jazyk a literatúra]] — predmet
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
