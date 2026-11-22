@@ -15,9 +15,9 @@ tags:
 > [!info] Autor
 > [[Samuel Beckett]]
 
-Kľúčové dielo divadla absurdna, zobrazujúce stratu zmyslu sveta aj ľudskej [[komunikácia|komunikácie]]. Vyznačuje sa cyklickou [[kompozícia|kompozíciou]] bez klasickej gradácie (2. dejstvo opakuje 1.) a groteskným dialógom, v ktorom postavy hovoria „popri sebe“.
+Kľúčové dielo [[Divadlo absurdna|divadla absurdna]] (absurdná [[dráma]], antihra), zobrazujúce stratu zmyslu sveta aj ľudskej [[komunikácia|komunikácie]]. Napísaná 1948 – 1949, knižne 1952, premiéra 1953 v Paríži. Vyznačuje sa cyklickou [[kompozícia|kompozíciou]] bez klasickej gradácie (2. dejstvo opakuje 1.; na strome pribudne len niekoľko listov) a **antidialógom** — monotónnym opakovaním replík, ktoré dej neposúvajú a slúžia len na zabitie času.
 
-Tuláci Vladimír (Didi) a Estragon (Gogo) čakajú pri polnej ceste so stromom na Godota, ktorý nikdy nepríde; prichádza len boháč Pozzo so sluhom Luckym a chlapec – posol, ktorý ohlási, že Godot príde zajtra. Postavy sú [[antihrdina|antihrdinovia]], miesto ani čas nie sú určené. Hru možno čítať nábožensky (čakanie na Boha), existencialisticky aj spoločensky; pesimizmus zmierňuje komika – ide o tragikomédiu. Napísaná 1949, premiéra 1953 v Paríži.
+Tuláci Vladimír (Didi) a Estragon (Gogo) čakajú pri poľnej ceste so stromom (vŕbou) na Godota, ktorý nikdy nepríde; prichádza len pán Pozzo s otrokom Luckym na povraze a chlapec (pastier kôz) — posol, ktorý na konci oboch dejstiev ohlási, že Godot dnes nepríde, ale zajtra určite. Mená štyroch hlavných postáv (francúzsky Estragon, slovanský Vladimír, taliansky Pozzo, anglický Lucky) podľa učebnice naznačujú všeľudské zovšeobecnenie. Postavy sú [[antihrdina|antihrdinovia]], miesto ani čas nie sú určené. Hru možno čítať nábožensky (čakanie na Boha), existencialisticky aj spoločensky; pesimizmus zmierňuje komika — ide o tragikomédiu. Hlavná téma: nezmyselnosť ľudskej existencie, márne čakanie na záchranu či zmysel života, neschopnosť ľudí skutočne komunikovať.
 
 ## Súvisí
 
