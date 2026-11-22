@@ -4,6 +4,7 @@ typ: "rozcestník"
 tags:
   - rozcestník
   - pojem
+aktualizované: 2026-11-22
 ---
 
 # ✍️ Autori
@@ -89,3 +90,6 @@ tags:
 | [[William Shakespeare]] | anglická renesancia – alžbetínska dráma |
 | [[Ľudovít Štúr]] | slovenský romantizmus – vodca štúrovskej generácie |
 | [[Štefan Žáry]] | slovenská medzivojnová poézia – nadrealizmus |
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii

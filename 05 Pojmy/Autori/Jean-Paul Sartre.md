@@ -11,6 +11,7 @@ aliasy:
 tags:
   - pojem
   - autor
+aktualizované: 2026-11-22
 ---
 
 # ✍️ Jean-Paul Sartre
@@ -29,3 +30,6 @@ Jean-Paul Sartre (1905 – 1980) bol francúzsky filozof a spisovateľ, kľúčo
 
 *Pozri panel **Backlinks** — zoznam sa dopĺňa sám, ako pribúdajú
 poznámky, ktoré tento pojem spomínajú.*
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii

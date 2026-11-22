@@ -12,6 +12,7 @@ aliasy:
 tags:
   - pojem
   - autor
+aktualizované: 2026-11-22
 ---
 
 # ✍️ J. D. Salinger
@@ -30,3 +31,6 @@ J. D. Salinger (1919 – 2010), celým menom Jerome David Salinger, bol americk�
 
 *Pozri panel **Backlinks** — zoznam sa dopĺňa sám, ako pribúdajú
 poznámky, ktoré tento pojem spomínajú.*
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
