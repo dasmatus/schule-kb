@@ -170,6 +170,31 @@ Prvé tri majú poznámku, ostatné sú sylaby, duplikát a osobný dokument.
 | `Odbytové činnosti podniku (1) (1).docx` | kópia zdroja poznámky [[Odbytové činnosti podniku]] |
 | `prihovor.odt` | príhovor (osobný dokument) |
 
+## Nové zdroje (7) – 22. 11. 2026
+
+Táto dávka obsahuje dve verzie už spracovanej kapitoly 1 (plné znenie a
+výňatok o portoch) a päť nových poznámok.
+
+| Súbor | Poznámka |
+| --- | --- |
+| `1 Uvod do hardveru osobnych pocitacov.pdf` | [[Elektrická bezpečnosť a hardvér PC]] — plné znenie kap. 1 |
+| `2 Zostavenie PC.pdf` | [[Zostavenie PC]] |
+| `3 Pokročilý počítačový hardvér.pdf` | [[Pokročilý počítačový hardvér]] |
+| `Porty_vstupne_vystupne_zariadenia.pdf` | [[Elektrická bezpečnosť a hardvér PC]] — výňatok 1.2.10 – 1.2.13 |
+| `Maturitné otázky_B2.pdf` | [[Maturitné zadania – B2]] |
+| `PL - geometrická postupnosť č 21.docx` | [[Geometrická postupnosť – pracovný list č. 21]] |
+| `role play - the job interview.docx` | [[Role-play – The Job Interview]] |
+
+## Ďalšie nové zdroje (5) – hlavný trezor
+
+| Súbor | Poznámka |
+| --- | --- |
+| `943377563-Literatu-ra-4.pdf` | [[Literatúra IV – Spoločenský a historický kontext]] a ďalšie kapitoly (nová verzia učebnice) |
+| `2 Bojovníci vo vojne proti počítačovej kriminalite.pdf` | [[Kybernetická bezpečnosť – SOC a kariéra]] |
+| `Neohybné slovné druhy (s riešením) (2) (2).docx` | [[Neohybné slovné druhy – pracovný list]] |
+| `Ohybné slovné druhy- opakovanie (3) (2).docx` | [[Ohybné slovné druhy – opakovanie]] |
+| `Svetová literatúra po roku 1945.docx` | [[Svetová literatúra po roku 1945 – pracovný list]] |
+
 ## Ponechané len ako zdroj (9)
 
 Tieto súbory poznámku nemajú — buď sú prázdne, alebo nejde o školský materiál.

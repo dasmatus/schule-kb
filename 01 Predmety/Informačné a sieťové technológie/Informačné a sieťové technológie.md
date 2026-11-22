@@ -21,6 +21,7 @@ tags:
 ## Poznámky
 
 - [[Počítačové siete – TČOZ]] — *maturitný prehľad*
+- [[Kybernetická bezpečnosť – SOC a kariéra]] — *poznámky* · SOC, SIEM, SOAR
 - [[Programovanie – TČOZ]] — *maturitný prehľad*
 - [[Hardvér a IoT – TČOZ]] — *maturitný prehľad*
 - [[Grafické karty]] — *referát* · 2025
@@ -28,6 +29,8 @@ tags:
 - [[Pevné disky]] — *referát* · 2025
 - [[Základná doska]] — *referát* · 2025
 - [[Elektrická bezpečnosť a hardvér PC]] — *poznámky*
+- [[Zostavenie PC]] — *poznámky* · výber a montáž komponentov
+- [[Pokročilý počítačový hardvér]] — *poznámky* · POST, BIOS/UEFI, RAID, upgrade
 - [[Pamäť, adaptérové karty a rozširujúce sloty]] — *poznámky*
 - [[História počítačov]] — *poznámky*
 - [[Cacheovanie a monitoring databázy]] — *prezentácia*

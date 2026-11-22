@@ -18,6 +18,8 @@ tags:
 
 - [[Pracovný list – zvuková rovina (vypracovaný)]] — *cvičenie* · 2026-06-05
 - [[Pracovný list – zvuková rovina (zadanie)]] — *cvičenie* · 2026-06-05
+- [[Neohybné slovné druhy – pracovný list]] — *cvičenie*
+- [[Ohybné slovné druhy – opakovanie]] — *cvičenie*
 - [[Zvuková rovina jazyka]] — *poznámky*
 - [[Zvuková rovina jazyka – prezentácia]] — *prezentácia*
 - [[Vyrazove prostriedky]] — *poznámky*
@@ -40,6 +42,7 @@ tags:
 - [[Dráma]] — *poznámky*
 - [[Nový román a absurdná dráma – poznámky a úlohy]] — *poznámky + úlohy* · 2026-10-29
 - [[Revolta a bitníci – Lunapark mysle]] — *poznámky + úlohy* · 2026-10-29
+- [[Svetová literatúra po roku 1945 – pracovný list]] — *cvičenie*
 - **[[Literatúra IV – Spoločenský a historický kontext]]** — *učebnica*
 - [[Literatúra IV – Sociálno-kritický realizmus po 1945]] — *učebnica*
 - [[Literatúra IV – Literatúra v totalitných podmienkach]] — *učebnica*

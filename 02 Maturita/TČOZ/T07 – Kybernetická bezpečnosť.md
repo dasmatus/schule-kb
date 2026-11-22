@@ -187,3 +187,8 @@ Ochrana: aktualizácie, MFA, jedinečné heslá v správcovi hesiel, princíp na
 
 > [!question]- Čo je premenná a čím je určená?
 > Pomenované miesto v pamäti. Má typ, meno, hodnotu, rozsah platnosti a životnosť.
+
+## Súvisiace
+
+- [[Kybernetická bezpečnosť – SOC a kariéra]] — SOC, SIEM, SOAR, kariéra
+- [[Počítačové siete – TČOZ]] — sieťové základy
