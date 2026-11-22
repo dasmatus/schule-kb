@@ -19,8 +19,7 @@ tags:
 > [!info] Obdobie
 > americká povojnová poézia – [[Beat generation|beat generation]]
 
-Allen Ginsberg bol americký básnik hnutia [[Beat generation]]. K jeho
-dielam patria zbierky *Kvílenie* a *Amerika*.
+Allen Ginsberg (1926 – 1997) bol americký básnik, jedna z hlavných postáv hnutia [[Beat generation]]. K jeho dielam patria zbierka *Kvílenie* (1956) a báseň *Amerika*.
 
 ## Súvisí
 

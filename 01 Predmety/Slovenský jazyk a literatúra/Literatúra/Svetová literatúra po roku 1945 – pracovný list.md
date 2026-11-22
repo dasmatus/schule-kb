@@ -53,7 +53,7 @@ Možnosti:
 ## 2. Rozprávač „oko kamery“ v novom románe
 
 Čo je typické pre [[rozprávač|rozprávača]] tzv. [[Nový román|nového románu]]
-(napr. v diele *[[Žiarlivosť]]* ), ktorého nazývame „oko kamery“?
+(napr. v diele *[[Žiarlivosť]]*), ktorého nazývame „oko kamery“?
 
 - a) detailne rozoberá najtajnejšie myšlienky a psychológiu postáv
 - b) sníma skutočnosť neosobne, objektívne, opisuje len to, čo vidí zvonku,
@@ -85,13 +85,14 @@ Vysvetlite vlastnými slovami (v 2 – 3 vetách), čo spája hlavných hrdinov
 diel *[[Čakanie na Godota]]* (Vladimír a Estragon) a *[[Kto chytá v žite]]*
 (Holden Caulfield) v kontexte povojnovej svetovej literatúry.
 
-**Riešenie:** Vladimír a Estragon aj Holden Caulfield sú hrdinovia
+**Riešenie** (vypracované podľa rozborov v tomto liste):
+Vladimír a Estragon aj Holden Caulfield sú hrdinovia
 povojnovej literatúry, ktorí prežívajú odcudzenie a stratu istoty vo svete
 po roku 1945. Tuláci v *Čakaní na Godota* márne čakajú na záchranu či zmysel
 života a nedokážu sa pohnúť ani skutočne komunikovať; Holden blúdi mestom,
 búri sa proti pokrytectvu dospelých a hľadá úprimné vzťahy a útočisko.
 Oboch spája pocit, že svet okolo nich je nehostinný a že skutočný zmysel
-či záchrana sa stále odkladajú.
+či záchrana sa stále odkladá.
 
 ## 5. Tri hlavné smery po roku 1945
 
@@ -99,8 +100,9 @@ Ktoré tri hlavné myšlienkové a umelecké smery vyrástli po roku 1945
 z krízy hodnôt, pocitov odcudzenia a kritiky konzumnej spoločnosti?
 Ku každému smeru dopíšte aspoň jedného predstaviteľa a jeho dielo.
 
-**Riešenie** (zhodné so zadaním [[L20 – Svetová literatúra po roku 1945]]
-a s rozbormi v tomto liste):
+**Riešenie** (vypracované podľa zadania [[L20 – Svetová literatúra po roku 1945]]
+a rozborov v tomto liste; otázka 1 uvádza aj ďalšie tendencie — nový román,
+magický realizmus a antiutopický román):
 
 - [[Existencializmus]] — [[Jean-Paul Sartre]] (*Múr*, *S vylúčením
   verejnosti*; v L20 aj *Nevoľnosť*)
@@ -142,7 +144,7 @@ Zakrúžkujte všetky správne tvrdenia:
 Ktoré štyri hlavné znaky sú typické pre [[Divadlo absurdna|divadlo
 absurdna]] (absurdnú drámu)?
 
-**Riešenie** (pracovný list ich v zadaní vymenované nemá; ide o znaky,
+**Riešenie** (v zadaní ich pracovný list nevymenúva; ide o znaky,
 ktoré uvádza rozbor *Čakania na Godota* v tom istom dokumente):
 
 1. **antidialóg** — monotónne opakovanie replík, ktoré dej neposúvajú
@@ -281,6 +283,11 @@ Kto prichádza na záver oboch dejstiev s odkazom od pána Godota?
   čakanie na záchranu či zmysel života, neschopnosť ľudí skutočne
   komunikovať
 
+> [!note] Upresnenie k dátumom
+> Pracovný list uvádza „1949 / knižne 1952“. Hra bola napísaná v rokoch
+> 1948 – 1949, knižne vyšla v roku 1952 a premiéru mala 5. januára 1953
+> v Paríži.
+
 ## 12. Ukážka 2 – Kto chytá v žite
 
 > „Po prvé, otrava a, po druhé, moji rodičia by najmenej dva razy za sebou
@@ -385,6 +392,11 @@ odlietajú kačice z jazierka v Central Parku, keď voda zamrzne?
 - **Hlavná téma / myšlienka:** vzbura mladého človeka proti pokrytectvu,
   povrchnosti a konformite sveta dospelých; strach zo straty detskej
   nevinnosti a hľadanie úprimných medziľudských vzťahov
+
+> [!note] Upresnenie k rozprávačovi
+> Pracovný list označuje Holdena ako 16-ročného rozprávača. Udalosti
+> prežil ako 16-ročný; rozpráva ich však s odstupom jedného roka, teda
+> ako 17-ročný.
 
 ## Súvisiace
 
