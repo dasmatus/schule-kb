@@ -7,6 +7,7 @@ ročník_teraz: "IV.IST"
 tags:
   - rozcestník
   - domov
+aktualizované: 2026-11-22
 ---
 
 # 🎓 Školský trezor — III.IST
@@ -75,3 +76,6 @@ tags:
 > [!tip] Hľadanie
 > `tag:#vypracovaná-téma` nájde vypracované témy, `tag:#protokol` protokoly
 > z merania, `tag:#rozbor-diela` rozbory literárnych diel.
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii

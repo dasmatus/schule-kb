@@ -4,6 +4,7 @@ typ: "rozcestník"
 tags:
   - rozcestník
   - pojem
+aktualizované: 2026-11-22
 ---
 
 # 🌊 Smery a obdobia
@@ -43,3 +44,6 @@ tags:
 | [[Symbolizmus]] | — |
 | [[Trnavská skupina]] | — |
 | [[Vitalizmus]] | — |
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
