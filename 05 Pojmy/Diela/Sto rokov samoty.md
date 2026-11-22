@@ -15,9 +15,7 @@ tags:
 > [!info] Autor
 > [[Gabriel García Márquez]]
 
-[[Román]] [[Gabriel García Márquez|Gabriela Garcíu Márqueza]], v pracovnom
-liste k svetovej literatúre po roku 1945 zaradený k [[Magický realizmus|magickému
-realizmu]].
+[[Román]] kolumbijského spisovateľa [[Gabriel García Márquez|Gabriela Garcíu Márqueza]] z roku 1967, kľúčové dielo [[Magický realizmus|magického realizmu]]. V pracovnom liste k svetovej literatúre po roku 1945 je k tomuto smeru priradený.
 
 ## Súvisí
 

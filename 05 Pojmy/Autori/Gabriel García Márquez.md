@@ -20,9 +20,7 @@ tags:
 > [!info] Obdobie
 > [[Magický realizmus|magický realizmus]] (po roku 1945)
 
-Gabriel García Márquez je predstaviteľ [[Magický realizmus|magického
-realizmu]]. Hlavné dielo spomínané v pracovnom liste k povojnovej svetovej
-literatúre je [[román]] *[[Sto rokov samoty]]*.
+Gabriel García Márquez (1927 – 2014) bol kolumbijský spisovateľ, predstaviteľ [[Magický realizmus|magického realizmu]] a nositeľ Nobelovej ceny za literatúru (1982). Hlavné dielo spomínané v pracovnom liste k povojnovej svetovej literatúre je [[román]] *[[Sto rokov samoty]]* (1967).
 
 ## Súvisí
 

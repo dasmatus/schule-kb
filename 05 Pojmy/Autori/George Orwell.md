@@ -19,9 +19,7 @@ tags:
 > [!info] Obdobie
 > [[Antiutopický román|antiutopický román]] (po roku 1945)
 
-George Orwell je autor [[Antiutopický román|antiutopického románu]]
-*[[1984]]*, v pracovnom liste zaradeného k tendenciám svetovej literatúry
-po roku 1945 (fantastická literatúra).
+George Orwell (1903 – 1950), vlastným menom Eric Arthur Blair, bol britský novinár a spisovateľ, autor [[Antiutopický román|antiutopického románu]] *[[1984]]* (1949), v pracovnom liste zaradeného k tendenciám svetovej literatúry po roku 1945 (fantastická literatúra).
 
 ## Súvisí
 
