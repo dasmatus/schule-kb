@@ -8,6 +8,7 @@ aliasy:
 tags:
   - pojem
   - dielo
+aktualizované: 2026-11-22
 ---
 
 # 📕 Čakanie na Godota
@@ -29,3 +30,6 @@ Tuláci Vladimír (Didi) a Estragon (Gogo) čakajú pri poľnej ceste so stromom
 
 *Pozri panel **Backlinks** — zoznam sa dopĺňa sám, ako pribúdajú
 poznámky, ktoré tento pojem spomínajú.*
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
