@@ -14,9 +14,7 @@ tags:
 
 # 🌊 Antiutopický román
 
-Literárna tendencia (v pracovnom liste uvedená aj ako fantastická
-literatúra) vo svetovej literatúre po roku 1945. Predstaviteľ:
-[[George Orwell]] — *[[1984]]*.
+Literárna tendencia (v pracovnom liste uvedená aj ako fantastická literatúra) vo svetovej literatúre po roku 1945. Predstaviteľ: [[George Orwell]] — *[[1984]]* (1949).
 
 ## Súvisí
 

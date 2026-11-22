@@ -14,9 +14,7 @@ tags:
 
 # 🌊 Magický realizmus
 
-Literárna tendencia svetovej literatúry po roku 1945. V pracovnom liste
-k tejto téme je k nemu priradený [[Gabriel García Márquez]] a jeho [[román]]
-*[[Sto rokov samoty]]*.
+Literárna tendencia spájaná najmä s latinskoamerickou prózou 20. storočia; v školskom prehľade je zaradená k svetovej literatúre po roku 1945. Kľúčové dielo: [[román]] *[[Sto rokov samoty]]* (1967) [[Gabriel García Márquez|Gabriela Garcíu Márqueza]].
 
 ## Súvisí
 

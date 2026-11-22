@@ -20,7 +20,7 @@ tags:
 
 Povojnové hnutie mladej americkej generácie, vzbura proti konformite, pokrytectvu a materializmu strednej triedy (50. a 60. roky); spontánna próza a poézia, motív cesty a hľadania slobody, recitovanie básní v džezových kluboch a kaviarňach, [[voľný verš]] a hovorový jazyk ulice. Predstavitelia: Jack Kerouac (*Na ceste*), [[Allen Ginsberg]] (*Kvílenie*, *Amerika*), W. S. Burroughs, G. Corso, [[Lawrence Ferlinghetti]] (*[[Lunapark mysle]]*).
 
-*Beat* = porazený, unavený, ale aj rytmus džezu. Revolta bitníkov je skôr úniková než bojová – cestovanie, bohéma, recitácie poézie s džezom, drogy, východné filozofie a orientálne náboženstvá; odmietajú konzum a americký sen. Symbolom je cesta. Ich knihy vydávalo City Lights v San Franciscu, ktoré v roku 1953 založil [[Lawrence Ferlinghetti]]; sú priamymi predchodcami hippies (60. roky).
+*Beat* = porazený, unavený, ale aj rytmus džezu. Revolta bitníkov je skôr úniková než bojová – cestovanie, bohéma, recitácie poézie s džezom, drogy, východné filozofie a orientálne náboženstvá; odmietajú konzum a americký sen. Symbolom je cesta. Ich knihy vydávalo City Lights v San Franciscu, ktoré v roku 1953 spoluzaložil [[Lawrence Ferlinghetti]]; sú priamymi predchodcami hippies (60. roky).
 
 ## Súvisí
 

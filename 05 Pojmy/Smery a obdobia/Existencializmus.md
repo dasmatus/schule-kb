@@ -14,7 +14,7 @@ tags:
 
 # 🌊 Existencializmus
 
-Povojnový filozofický a literárny smer vychádzajúci z myšlienky, že človek je „odsúdený na slobodu“ a zmysel existencie si musí vytvoriť sám v absurdnom svete; hrdina je stavaný do hraničnej situácie (extrémna situácia v blízkosti smrti), v ktorej sa odhalí jeho pravá podstata. Dôraz sa kladie na slobodné rozhodnutie a osobnú zodpovednosť. Predstavitelia: [[Jean-Paul Sartre]] (*Nevoľnosť*; v pracovnom liste aj *Múr* a *S vylúčením verejnosti*), [[Albert Camus]] (*Cudzinec*, *Mor*).
+Povojnový filozofický a literárny smer vychádzajúci z myšlienky, že človek je „odsúdený na slobodu“ a zmysel existencie si musí vytvoriť sám v absurdnom svete; hrdina je stavaný do hraničnej situácie, v ktorej sa odhalí jeho pravá podstata. V školskom výklade sa hraničná situácia často opisuje ako extrémna situácia v blízkosti smrti. Dôraz sa kladie na slobodné rozhodnutie a osobnú zodpovednosť. Predstavitelia: [[Jean-Paul Sartre]] (*Nevoľnosť*; v pracovnom liste aj *Múr* a *S vylúčením verejnosti*), [[Albert Camus]] (*Cudzinec*, *Mor*).
 
 ## Súvisí
 
