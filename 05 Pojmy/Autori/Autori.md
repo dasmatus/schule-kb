@@ -1,1 +1,91 @@
----\ntitle: \"Autori\"\ntyp: \"rozcestník\"\ntags:\n  - rozcestník\n  - pojem\n---\n\n# ✍️ Autori\n\n> [!abstract] 77 položiek\n\n| Názov | Obdobie |\n| --- | --- |\n| [[Agatha Christie]] | britská detektívna literatúra 20. storočia |\n| [[Alain Robbe-Grillet]] | francúzsky nový román (po roku 1945) |\n| [[Albert Camus]] | francúzsky existencializmus (po roku 1945) |\n| [[Alexander Sergejevič Puškin]] | ruský romantizmus |\n| [[Alfonz Bednár]] | slovenská próza „novej vlny“ (60. roky 20. storočia) |\n| [[Allen Ginsberg]] | americká povojnová poézia – beat generation |\n| [[Andrej Sládkovič]] | slovenský romantizmus (štúrovská generácia) |\n| [[André Breton]] | francúzska avantgarda – surrealizmus |\n| [[Anton Bernolák]] | slovenský klasicizmus (katolícky/bernolákovský okruh) |\n| [[Božena Slančíková-Timrava]] | slovenský realizmus |\n| [[Charles Baudelaire]] | francúzska literárna moderna – symbolizmus, dekadencia |\n| [[Dante Alighieri]] | taliansky prechod stredovek – renesancia |\n| [[Dobroslav Chrobák]] | slovenský naturizmus |\n| [[Dušan Dušek]] | slovenská civilná a lyrizovaná krátka próza (od 70. rokov) |\n| [[Edgar Allan Poe]] | americký romantizmus – dekadencia, detektívka, horor |\n| [[Emil Boleslav Lukáč]] | slovenská medzivojnová poézia – neosymbolizmus |\n| [[Erich Maria Remarque]] | nemecká medzivojnová próza – stratená generácia |\n| [[Ernest Hemingway]] | americká medzivojnová próza – stratená generácia |\n| [[Eugène Ionesco]] | divadlo absurdna (po roku 1945) |\n| [[Ezop]] | staroveká grécka literatúra |\n| [[Fiodor Michajlovič Dostojevskij]] | ruský realizmus |\n| [[František Švantner]] | slovenský naturizmus |\n| [[Franz Kafka]] | pražská nemecky písaná próza – fantastika a absurdno |\n| [[Gabriel García Márquez]] | magický realizmus (po roku 1945) |\n| [[George Gordon Byron]] | anglický romantizmus |\n| [[George Orwell]] | antiutopický román (po roku 1945) |\n| [[Guillaume Apollinaire]] | francúzska avantgarda (kubizmus, pásmo) |\n| [[Homér]] | staroveká grécka literatúra – archaický epos |\n| [[Honoré de Balzac]] | francúzsky realizmus |\n| [[Hugolín Gavlovič]] | slovenský barok – katolícka línia |\n| [[Ivan Bukovčan]] | slovenská dráma po roku 1945 – komorná morálna dráma |\n| [[Ivan Krasko]] | slovenská literárna moderna – symbolizmus |\n| [[J. D. Salinger]] | americká povojnová próza (generačný román) |\n| [[J. R. R. Tolkien]] | britská fantastická literatúra 20. storočia |\n| [[Janko Kráľ]] | slovenský romantizmus (najradikálnejší štúrovec) |\n| [[Janko Silan]] | slovenská medzivojnová poézia – katolícka moderna |\n| [[Jean-Paul Sartre]] | francúzsky existencializmus (po roku 1945) |\n| [[Jozef Cíger Hronský]] | slovenská medzivojnová próza (sociálno-psychologický realizmus) |\n| [[Jozef Gregor Tajovský]] | slovenský realizmus (próza a dráma) |\n| [[Ján Botto]] | slovenský romantizmus (štúrovská generácia) |\n| [[Ján Chalupka]] | slovenský klasicizmus – „otec slovenskej veselohry“ |\n| [[Ján Hollý]] | slovenský klasicizmus (bernolákovský okruh) |\n| [[Ján Kollár]] | slovenský klasicizmus (evanjelický okruh, bibličtina) |\n| [[Ján Kostra]] | slovenská poézia po roku 1945 (staršia generácia) |\n| [[Ján Matúška]] | slovenský romantizmus (štúrovská generácia) |\n| [[Ján Palárik]] | slovenská zmierovacia dráma (romantizmus – realizmus) |\n| [[Ján Smrek]] | slovenská medzivojnová poézia – vitalizmus |\n| [[Kamil Peteraj]] | súčasná slovenská poézia a piesňová tvorba |\n| [[Konštantín (Cyril)]] | staroslovienska literatúra (9. storočie, Veľká Morava) |\n| [[Laco Novomeský]] | slovenská medzivojnová poézia – proletárska a angažovaná poézia |\n| [[Ladislav Mňačko]] | slovenská povojnová próza – kritika totality |\n| [[Lawrence Ferlinghetti]] | americká povojnová poézia – beat generation |\n| [[Lev Nikolajevič Tolstoj]] | ruský realizmus |\n| [[Margita Figuli]] | slovenský naturizmus |\n| [[Mark Twain]] | americký realizmus – humoristická a dobrodružná próza |\n| [[Martin Kukučín]] | slovenský realizmus |\n| [[Miguel de Cervantes]] | španielska renesancia |\n| [[Milan Lasica a Július Satinský]] | slovenská satirická/autorská dráma po roku 1945 |\n| [[Milan Rúfus]] | slovenská reflexívna a duchovná lyrika po roku 1945 |\n| [[Milo Urban]] | slovenská medzivojnová próza (expresionizmus, sociálno-psychologický realizmus) |\n| [[Miroslav Válek]] | slovenská poézia po roku 1945 – senzualizmus |\n| [[Molière]] | francúzsky klasicizmus |\n| [[Pavol Gašparovič Hlbina]] | slovenská medzivojnová poézia – katolícka moderna |\n| [[Pavol Országh Hviezdoslav]] | slovenský realizmus (vrchol realistickej poézie) |\n| [[Peter Jilemnický]] | slovenská medzivojnová/socialistická próza |\n| [[Peter Karvaš]] | slovenská dráma po roku 1945 – morálno-filozofická dráma |\n| [[Rudolf Dilong]] | slovenská medzivojnová poézia – katolícka moderna |\n| [[Rudolf Fabry]] | slovenská medzivojnová poézia – nadrealizmus |\n| [[Rudolf Jašík]] | slovenská povojnová próza (50. roky, vojnová tematika) |\n| [[Samo Chalupka]] | slovenský romantizmus (štúrovská generácia) |\n| [[Samuel Beckett]] | divadlo absurdna (po roku 1945) |\n| [[Sofokles]] | staroveká grécka literatúra – attická tragédia |\n| [[Stanislav Štepka]] | slovenská ľudová/naivná dráma po roku 1945 |\n| [[Vladimír Reisel]] | slovenská medzivojnová poézia – nadrealizmus |\n| [[William Shakespeare]] | anglická renesancia – alžbetínska dráma |\n| [[Ľudovít Štúr]] | slovenský romantizmus – vodca štúrovskej generácie |\n| [[Štefan Žáry]] | slovenská medzivojnová poézia – nadrealizmus |\n
+---
+title: "Autori"
+typ: "rozcestník"
+tags:
+  - rozcestník
+  - pojem
+---
+
+# ✍️ Autori
+
+> [!abstract] 77 položiek
+
+| Názov | Obdobie |
+| --- | --- |
+| [[Agatha Christie]] | britská detektívna literatúra 20. storočia |
+| [[Alain Robbe-Grillet]] | francúzsky nový román (po roku 1945) |
+| [[Albert Camus]] | francúzsky existencializmus (po roku 1945) |
+| [[Alexander Sergejevič Puškin]] | ruský romantizmus |
+| [[Alfonz Bednár]] | slovenská próza „novej vlny“ (60. roky 20. storočia) |
+| [[Allen Ginsberg]] | americká povojnová poézia – beat generation |
+| [[Andrej Sládkovič]] | slovenský romantizmus (štúrovská generácia) |
+| [[André Breton]] | francúzska avantgarda – surrealizmus |
+| [[Anton Bernolák]] | slovenský klasicizmus (katolícky/bernolákovský okruh) |
+| [[Božena Slančíková-Timrava]] | slovenský realizmus |
+| [[Charles Baudelaire]] | francúzska literárna moderna – symbolizmus, dekadencia |
+| [[Dante Alighieri]] | taliansky prechod stredovek – renesancia |
+| [[Dobroslav Chrobák]] | slovenský naturizmus |
+| [[Dušan Dušek]] | slovenská civilná a lyrizovaná krátka próza (od 70. rokov) |
+| [[Edgar Allan Poe]] | americký romantizmus – dekadencia, detektívka, horor |
+| [[Emil Boleslav Lukáč]] | slovenská medzivojnová poézia – neosymbolizmus |
+| [[Erich Maria Remarque]] | nemecká medzivojnová próza – stratená generácia |
+| [[Ernest Hemingway]] | americká medzivojnová próza – stratená generácia |
+| [[Eugène Ionesco]] | divadlo absurdna (po roku 1945) |
+| [[Ezop]] | staroveká grécka literatúra |
+| [[Fiodor Michajlovič Dostojevskij]] | ruský realizmus |
+| [[František Švantner]] | slovenský naturizmus |
+| [[Franz Kafka]] | pražská nemecky písaná próza – fantastika a absurdno |
+| [[Gabriel García Márquez]] | magický realizmus (po roku 1945) |
+| [[George Gordon Byron]] | anglický romantizmus |
+| [[George Orwell]] | antiutopický román (po roku 1945) |
+| [[Guillaume Apollinaire]] | francúzska avantgarda (kubizmus, pásmo) |
+| [[Homér]] | staroveká grécka literatúra – archaický epos |
+| [[Honoré de Balzac]] | francúzsky realizmus |
+| [[Hugolín Gavlovič]] | slovenský barok – katolícka línia |
+| [[Ivan Bukovčan]] | slovenská dráma po roku 1945 – komorná morálna dráma |
+| [[Ivan Krasko]] | slovenská literárna moderna – symbolizmus |
+| [[J. D. Salinger]] | americká povojnová próza (generačný román) |
+| [[J. R. R. Tolkien]] | britská fantastická literatúra 20. storočia |
+| [[Janko Kráľ]] | slovenský romantizmus (najradikálnejší štúrovec) |
+| [[Janko Silan]] | slovenská medzivojnová poézia – katolícka moderna |
+| [[Jean-Paul Sartre]] | francúzsky existencializmus (po roku 1945) |
+| [[Jozef Cíger Hronský]] | slovenská medzivojnová próza (sociálno-psychologický realizmus) |
+| [[Jozef Gregor Tajovský]] | slovenský realizmus (próza a dráma) |
+| [[Ján Botto]] | slovenský romantizmus (štúrovská generácia) |
+| [[Ján Chalupka]] | slovenský klasicizmus – „otec slovenskej veselohry“ |
+| [[Ján Hollý]] | slovenský klasicizmus (bernolákovský okruh) |
+| [[Ján Kollár]] | slovenský klasicizmus (evanjelický okruh, bibličtina) |
+| [[Ján Kostra]] | slovenská poézia po roku 1945 (staršia generácia) |
+| [[Ján Matúška]] | slovenský romantizmus (štúrovská generácia) |
+| [[Ján Palárik]] | slovenská zmierovacia dráma (romantizmus – realizmus) |
+| [[Ján Smrek]] | slovenská medzivojnová poézia – vitalizmus |
+| [[Kamil Peteraj]] | súčasná slovenská poézia a piesňová tvorba |
+| [[Konštantín (Cyril)]] | staroslovienska literatúra (9. storočie, Veľká Morava) |
+| [[Laco Novomeský]] | slovenská medzivojnová poézia – proletárska a angažovaná poézia |
+| [[Ladislav Mňačko]] | slovenská povojnová próza – kritika totality |
+| [[Lawrence Ferlinghetti]] | americká povojnová poézia – beat generation |
+| [[Lev Nikolajevič Tolstoj]] | ruský realizmus |
+| [[Margita Figuli]] | slovenský naturizmus |
+| [[Mark Twain]] | americký realizmus – humoristická a dobrodružná próza |
+| [[Martin Kukučín]] | slovenský realizmus |
+| [[Miguel de Cervantes]] | španielska renesancia |
+| [[Milan Lasica a Július Satinský]] | slovenská satirická/autorská dráma po roku 1945 |
+| [[Milan Rúfus]] | slovenská reflexívna a duchovná lyrika po roku 1945 |
+| [[Milo Urban]] | slovenská medzivojnová próza (expresionizmus, sociálno-psychologický realizmus) |
+| [[Miroslav Válek]] | slovenská poézia po roku 1945 – senzualizmus |
+| [[Molière]] | francúzsky klasicizmus |
+| [[Pavol Gašparovič Hlbina]] | slovenská medzivojnová poézia – katolícka moderna |
+| [[Pavol Országh Hviezdoslav]] | slovenský realizmus (vrchol realistickej poézie) |
+| [[Peter Jilemnický]] | slovenská medzivojnová/socialistická próza |
+| [[Peter Karvaš]] | slovenská dráma po roku 1945 – morálno-filozofická dráma |
+| [[Rudolf Dilong]] | slovenská medzivojnová poézia – katolícka moderna |
+| [[Rudolf Fabry]] | slovenská medzivojnová poézia – nadrealizmus |
+| [[Rudolf Jašík]] | slovenská povojnová próza (50. roky, vojnová tematika) |
+| [[Samo Chalupka]] | slovenský romantizmus (štúrovská generácia) |
+| [[Samuel Beckett]] | divadlo absurdna (po roku 1945) |
+| [[Sofokles]] | staroveká grécka literatúra – attická tragédia |
+| [[Stanislav Štepka]] | slovenská ľudová/naivná dráma po roku 1945 |
+| [[Vladimír Reisel]] | slovenská medzivojnová poézia – nadrealizmus |
+| [[William Shakespeare]] | anglická renesancia – alžbetínska dráma |
+| [[Ľudovít Štúr]] | slovenský romantizmus – vodca štúrovskej generácie |
+| [[Štefan Žáry]] | slovenská medzivojnová poézia – nadrealizmus |

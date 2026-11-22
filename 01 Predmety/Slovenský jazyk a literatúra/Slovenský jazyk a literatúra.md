@@ -1,1 +1,69 @@
----\ntitle: \"Slovenský jazyk a literatúra\"\ntyp: \"rozcestník\"\ntrieda: \"III.IST\"\nročník_teraz: \"IV.IST\"\nmaturitný: \"áno – EČ, PFIČ, ÚFIČ\"\ntags:\n  - rozcestník\n  - predmet\n---\n\n# 📖 Slovenský jazyk a literatúra\n\n> [!info] Maturita\n> áno – EČ, PFIČ, ÚFIČ\n\n## Jazyk\n\n- [[Pracovný list – zvuková rovina (vypracovaný)]] — *cvičenie* · 2026-06-05\n- [[Pracovný list – zvuková rovina (zadanie)]] — *cvičenie* · 2026-06-05\n- [[Neohybné slovné druhy – pracovný list]] — *cvičenie*\n- [[Ohybné slovné druhy – opakovanie]] — *cvičenie*\n- [[Zvuková rovina jazyka]] — *poznámky*\n- [[Zvuková rovina jazyka – prezentácia]] — *prezentácia*\n- [[Vyrazove prostriedky]] — *poznámky*\n- [[Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie)]] — *poznámky*\n\n## Literatúra\n\n- [[Slovenská medzivojnová poézia]] — *poznámky* · 2026-01-26\n- [[Slovenská medzivojnová poézia – prezentácia]] — *prezentácia* · 2026-02-06\n- [[Slovenská medzivojnová literatúra – kontext]] — *poznámky* · 2026-04-01\n- [[Jozef Mak – rozbor diela]] — *poznámky* · 2026-04-10\n- [[Naturizmus – znaky a autori]] — *poznámky* · 2026-04-14\n- [[Drak sa vracia – rozbor diela]] — *poznámky* · 2026-04-17\n- [[Dva bratia – rozbor diela]] — *poznámky* · 2026-04-27\n- [[Reflexia filmu Štúr – verzia 1]] — *práca*\n- [[Reflexia filmu Štúr – verzia 2]] — *práca*\n- [[Reflexia filmu Štúr – zadanie]] — *zadanie*\n- [[Rozbor textov – nadradený motív]] — *poznámky*\n- [[Živý bič – čitateľský denník]] — *čitateľský-denník*\n- [[Dráma]] — *poznámky*\n- [[Nový román a absurdná dráma – poznámky a úlohy]] — *poznámky + úlohy* · 2026-10-29\n- [[Revolta a bitníci – Lunapark mysle]] — *poznámky + úlohy* · 2026-10-29\n- [[Svetová literatúra po roku 1945 – pracovný list]] — *cvičenie* · 2026-11-22\n- **[[Literatúra IV – Spoločenský a historický kontext]]** — *učebnica*\n- [[Literatúra IV – Sociálno-kritický realizmus po 1945]] — *učebnica*\n- [[Literatúra IV – Literatúra v totalitných podmienkach]] — *učebnica*\n- [[Literatúra IV – Snaha o zachovanie autorskej identity]] — *učebnica*\n- [[Literatúra IV – Zmeny pohľadu na realitu]] — *učebnica*\n- [[Literatúra IV – Revolta ako prejav spoločenskej angažovanosti]] — *učebnica*\n- [[Literatúra IV – Fantastická literatúra]] — *učebnica*\n- [[Literatúra IV – Literatúra postmoderny]] — *učebnica*\n- [[Literatúra IV – Slovenská literatúra dnes]] — *učebnica*\n- [[Literatúra IV – Vývin literárnych žánrov – prehľad]] — *učebnica*\n\n## Sloh\n\n- [[PFIČ MS – výklad a kritériá]] — *poznámky* · 2025-12-05\n- [[Náučný štýl a logické postupy]] — *poznámky* · 2026-02-27\n- [[Výklad vs. úvaha]] — *poznámky* · 2026-03-02\n- [[Básnické prostriedky a kompozícia úvahy]] — *poznámky* · 2026-03-03\n- [[Úvaha – prezentácia]] — *prezentácia* · 2026-03-19\n- [[Kritériá na písanie úvahy]] — *poznámky*\n- [[Rečnícky štýl – prezentácia]] — *prezentácia* · 2026-09-23\n\n## Poznámky\n\n- [[SJL – pravidlá a hodnotenie 2026-2027]] — *organizačné*\n
+---
+title: "Slovenský jazyk a literatúra"
+typ: "rozcestník"
+trieda: "III.IST"
+ročník_teraz: "IV.IST"
+maturitný: "áno – EČ, PFIČ, ÚFIČ"
+tags:
+  - rozcestník
+  - predmet
+---
+
+# 📖 Slovenský jazyk a literatúra
+
+> [!info] Maturita
+> áno – EČ, PFIČ, ÚFIČ
+
+## Jazyk
+
+- [[Pracovný list – zvuková rovina (vypracovaný)]] — *cvičenie* · 2026-06-05
+- [[Pracovný list – zvuková rovina (zadanie)]] — *cvičenie* · 2026-06-05
+- [[Neohybné slovné druhy – pracovný list]] — *cvičenie*
+- [[Ohybné slovné druhy – opakovanie]] — *cvičenie*
+- [[Zvuková rovina jazyka]] — *poznámky*
+- [[Zvuková rovina jazyka – prezentácia]] — *prezentácia*
+- [[Vyrazove prostriedky]] — *poznámky*
+- [[Modifikácia vetnej skladby, súvetie (priraďovacie, podraďovacie)]] — *poznámky*
+
+## Literatúra
+
+- [[Slovenská medzivojnová poézia]] — *poznámky* · 2026-01-26
+- [[Slovenská medzivojnová poézia – prezentácia]] — *prezentácia* · 2026-02-06
+- [[Slovenská medzivojnová literatúra – kontext]] — *poznámky* · 2026-04-01
+- [[Jozef Mak – rozbor diela]] — *poznámky* · 2026-04-10
+- [[Naturizmus – znaky a autori]] — *poznámky* · 2026-04-14
+- [[Drak sa vracia – rozbor diela]] — *poznámky* · 2026-04-17
+- [[Dva bratia – rozbor diela]] — *poznámky* · 2026-04-27
+- [[Reflexia filmu Štúr – verzia 1]] — *práca*
+- [[Reflexia filmu Štúr – verzia 2]] — *práca*
+- [[Reflexia filmu Štúr – zadanie]] — *zadanie*
+- [[Rozbor textov – nadradený motív]] — *poznámky*
+- [[Živý bič – čitateľský denník]] — *čitateľský-denník*
+- [[Dráma]] — *poznámky*
+- [[Nový román a absurdná dráma – poznámky a úlohy]] — *poznámky + úlohy* · 2026-10-29
+- [[Revolta a bitníci – Lunapark mysle]] — *poznámky + úlohy* · 2026-10-29
+- [[Svetová literatúra po roku 1945 – pracovný list]] — *cvičenie* · 2026-11-22
+- **[[Literatúra IV – Spoločenský a historický kontext]]** — *učebnica*
+- [[Literatúra IV – Sociálno-kritický realizmus po 1945]] — *učebnica*
+- [[Literatúra IV – Literatúra v totalitných podmienkach]] — *učebnica*
+- [[Literatúra IV – Snaha o zachovanie autorskej identity]] — *učebnica*
+- [[Literatúra IV – Zmeny pohľadu na realitu]] — *učebnica*
+- [[Literatúra IV – Revolta ako prejav spoločenskej angažovanosti]] — *učebnica*
+- [[Literatúra IV – Fantastická literatúra]] — *učebnica*
+- [[Literatúra IV – Literatúra postmoderny]] — *učebnica*
+- [[Literatúra IV – Slovenská literatúra dnes]] — *učebnica*
+- [[Literatúra IV – Vývin literárnych žánrov – prehľad]] — *učebnica*
+
+## Sloh
+
+- [[PFIČ MS – výklad a kritériá]] — *poznámky* · 2025-12-05
+- [[Náučný štýl a logické postupy]] — *poznámky* · 2026-02-27
+- [[Výklad vs. úvaha]] — *poznámky* · 2026-03-02
+- [[Básnické prostriedky a kompozícia úvahy]] — *poznámky* · 2026-03-03
+- [[Úvaha – prezentácia]] — *prezentácia* · 2026-03-19
+- [[Kritériá na písanie úvahy]] — *poznámky*
+- [[Rečnícky štýl – prezentácia]] — *prezentácia* · 2026-09-23
+
+## Poznámky
+
+- [[SJL – pravidlá a hodnotenie 2026-2027]] — *organizačné*
