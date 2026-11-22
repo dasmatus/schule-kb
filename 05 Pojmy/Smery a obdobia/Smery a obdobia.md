@@ -8,10 +8,11 @@ tags:
 
 # 🌊 Smery a obdobia
 
-> [!abstract] 29 položiek
+> [!abstract] 31 položiek
 
 | Názov | Kontext |
 | --- | --- |
+| [[Antiutopický román]] | — |
 | [[Avantgarda]] | — |
 | [[Baroková literatúra]] | — |
 | [[Beat generation]] | — |
@@ -27,6 +28,7 @@ tags:
 | [[Klasicizmus]] | — |
 | [[Kubizmus]] | — |
 | [[Literárna moderna]] | — |
+| [[Magický realizmus]] | — |
 | [[Nadrealizmus]] | — |
 | [[Naturalizmus]] | — |
 | [[Naturizmus]] | — |

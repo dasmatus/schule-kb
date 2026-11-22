@@ -31,7 +31,7 @@ tags:
 
 ## 🧠 Prepojenia a mapy
 
-- [[Pojmy]] — 403 poznámok o autoroch, dielach, smeroch a pojmoch
+- [[Pojmy]] — 410 poznámok o autoroch, dielach, smeroch a pojmoch
   (každá zbiera **backlinky** odvšadiaľ, kde sa spomína)
 - [[Anglické ekvivalenty]] — názvy diel a termíny po anglicky
 - Myšlienkové mapy v `06 Mapy/`: **Mapa – štyri roky** ·
