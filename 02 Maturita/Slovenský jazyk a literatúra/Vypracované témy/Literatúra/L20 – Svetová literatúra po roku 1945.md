@@ -67,6 +67,7 @@ Povojnová svetová literatúra reaguje na krízu hodnôt spôsobenú druhou sve
 
 - [[Nový román a absurdná dráma – poznámky a úlohy]] – absurdná dráma, Čakanie na Godota, nový román, Žiarlivosť (s vypracovanými úlohami)
 - [[Revolta a bitníci – Lunapark mysle]] – revolta v USA, bitníci, hippies, Ferlinghetti
+- [[Svetová literatúra po roku 1945 – pracovný list]] – cvičenie k téme
 
 ## Kontrolné otázky
 

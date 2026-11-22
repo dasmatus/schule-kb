@@ -15,7 +15,13 @@ tags:
 # Elektrická bezpečnosť a hardvér PC
 
 > [!info] Zdrojový dokument
-> `Elektrická bezpečnosť.pdf` — PC Essentials, kap. 1 *Úvod do hardvéru osobných počítačov*. Súvisí s [[Základná doska]], [[Pamäte]], [[Pevné disky]], [[Grafické karty]] a maturitnou témou [[T14 – Architektúra počítača a operačné systémy]].
+> `Elektrická bezpečnosť.pdf` — výňatok z PC Essentials, kap. 1
+> *Úvod do hardvéru osobných počítačov*. Plné znenie kapitoly je v
+> `1 Uvod do hardveru osobnych pocitacov.pdf` a porty s vstupno-výstupnými
+> zariadeniami v `Porty_vstupne_vystupne_zariadenia.pdf`. Súvisí s
+> [[Základná doska]], [[Pamäte]], [[Pevné disky]], [[Grafické karty]],
+> [[Zostavenie PC]], [[Pokročilý počítačový hardvér]] a maturitnou témou
+> [[T14 – Architektúra počítača a operačné systémy]].
 
 ## 1. Bezpečnosť pri práci
 
@@ -82,3 +88,9 @@ Energeticky nezávislé; magnetické, polovodičové, optické.
 - **Vstupné:** pôvodné (klávesnica, myš) → dotyková obrazovka, stylus, čítačka magnetických prúžkov, čiarový kód → najnovšie: **NFC**, rozpoznávanie tváre / odtlačku / hlasu, VR headset.
 - **Výstupné:** monitor (**LCD**, **LED** = LCD s LED podsvietením, **OLED** = každý pixel svieti sám, hlbšia čierna), projektor, reproduktory, slúchadlá, tlačiarne (atramentová, úderová, 3D, terminálová).
 - **VR** – simulované 3D prostredie, zakrýva okolie; **AR** – prekrýva obraz reálneho sveta (Pokémon GO, smart okuliare).
+
+## Súvisiace
+
+- [[Zostavenie PC]] — výber a montáž komponentov
+- [[Pokročilý počítačový hardvér]] — POST, BIOS/UEFI, RAID, monitory, upgrade
+- [[T14 – Architektúra počítača a operačné systémy]] — maturitná téma

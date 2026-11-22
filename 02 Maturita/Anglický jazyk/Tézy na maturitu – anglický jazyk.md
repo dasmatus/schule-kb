@@ -19,20 +19,28 @@ tags:
 > z materiálov, ktoré ti učitelia dali, takže obsahovo pokrýva to, čo sa
 > preberalo. Číslovanie a presné znenie tém si však **over u vyučujúcej**.
 > Kým to spravíš, ber [[Zoznam tém – anglický jazyk]] ako pracovnú verziu.
+>
+> V trezore je už **banka zadaní B2** (`Maturitné otázky_B2.pdf`) — 30 sád
+> konkrétnych úloh. Témy z banky sa kryjú s týmto zoznamom; mapa je v
+> [[Maturitné zadania – B2]].
 
 ## Z čoho je zoznam odvodený
 
-V `99 Zdroje/` sú dve nezávislé sady materiálov. Prekrývajú sa v 22 témach,
-ale ani jedna nie je úplná — preto je zoznam ich zjednotením.
+V `99 Zdroje/` sú tri sady materiálov. Prvé dve sa prekrývajú v 22 témach,
+tretia je banka konkrétnych zadaní — preto je zoznam ich zjednotením.
 
 | Sada | Čo to je | Rozsah |
 | --- | --- | --- |
 | **A** — `99 Zdroje/docx/*.doc` | okruhy od vyučujúcej: osnova `Talk about:`, modelová odpoveď a dvojjazyčný glosár | 28 tém, ~44 600 slov |
 | **B** — `99 Zdroje/pdf/*.pdf` | skeny učebnice *ANGLIČTINA – MATURITA*: slovná zásoba, čítaný text, IPA glosár, cvičenia | 26 jednotiek, 181 strán |
+| **C** — `99 Zdroje/pdf/Maturitné otázky_B2.pdf` | banka maturitných zadaní B2: 30 sád po troch úlohách (opis, diskusia, situácia) | 30 sád, 66 strán |
 
-Zjednotením vzniklo **30 tém**. Sada A pokrýva navyše kultúru a umenie, módu,
+Zjednotením A a B vzniklo **30 tém**; sada C ich potvrdzuje a pridáva
+konkrétne zadania. Sada A pokrýva navyše kultúru a umenie, módu,
 Kanadu a Austráliu s Novým Zélandom; sada B navyše nakupovanie, učenie sa
-jazykov, človeka v spoločnosti a sviatky.
+jazykov, človeka v spoločnosti a sviatky. Sada C pokrýva 25 z 30 tém —
+mimo nej zostávajú sviatky, Spojené kráľovstvo, USA, Kanada a Austrália
+s Novým Zélandom.
 
 ## Na čo si dať pozor pri zdrojoch
 
@@ -58,6 +66,7 @@ jazykov, človeka v spoločnosti a sviatky.
 ## Súvisiace
 
 - [[Zoznam tém – anglický jazyk]] — 30 tém a odkazy na vypracované poznámky
+- [[Maturitné zadania – B2]] — 30 sád zadaní a ich mapa na témy
 - [[Anglický jazyk]] — predmet
 - [[Oficiálne požiadavky (ŠPÚ)]] — cieľové požiadavky B1/B2
 - [[Maturita 2027 – prehľad]]

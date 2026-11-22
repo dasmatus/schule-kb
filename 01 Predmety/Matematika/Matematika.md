@@ -18,3 +18,4 @@ tags:
 
 - [[Definičný obor funkcie – pracovný list]] — *cvičenie*
 - [[Definičný obor funkcie – riešenia]] — *cvičenie*
+- [[Geometrická postupnosť – pracovný list č. 21]] — *cvičenie s riešeniami*

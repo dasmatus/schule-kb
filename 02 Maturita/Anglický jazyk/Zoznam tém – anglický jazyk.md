@@ -16,9 +16,10 @@ tags:
 
 > [!abstract] O zozname
 > 30 tém, zostavené z materiálov v `99 Zdroje/` — z učiteľkiných
-> `.doc` okruhov a z naskenovanej učebnice *ANGLIČTINA – MATURITA*.
-> Odvodenie je popísané v [[Tézy na maturitu – anglický jazyk]].
-> Vypracované poznámky sú v `Vypracované témy/`.
+> `.doc` okruhov, z naskenovanej učebnice *ANGLIČTINA – MATURITA* a z banky
+> zadaní B2. Odvodenie je popísané v
+> [[Tézy na maturitu – anglický jazyk]]. Vypracované poznámky sú v
+> `Vypracované témy/`.
 
 > [!warning] Tento zoznam nevydala predmetová komisia
 > Oficiálne maturitné témy z angličtiny **stále nemáš** — škola ich
@@ -26,6 +27,10 @@ tags:
 > zrekonštruovaný zo študijných materiálov, ktoré si dostal, takže
 > pokrýva to, čo sa preberalo, ale číslovanie ani presné znenie
 > nemusia sedieť. **Over si ho u vyučujúcej.**
+>
+> V trezore je však už **banka zadaní B2** (`Maturitné otázky_B2.pdf`) —
+> 30 sád konkrétnych úloh. Témy z banky sa kryjú s týmto zoznamom; mapa
+> je v [[Maturitné zadania – B2]].
 
 | # | Téma | Vypracované |
 | --- | --- | --- |
@@ -59,6 +64,11 @@ tags:
 | A28 | Canada | [[A28 – Canada]] |
 | A29 | Australia and New Zealand | [[A29 – Australia and New Zealand]] |
 | A30 | Slovakia – My Homeland | [[A30 – Slovakia – My Homeland]] |
+
+> [!info] Banka zadaní B2
+> `Maturitné otázky_B2.pdf` obsahuje **30 sád po troch úlohách** —
+> opis obrázkov, diskusiu a situáciu/role-play. Mapu sád na témy nájdeš
+> v [[Maturitné zadania – B2]].
 
 ## Úplné znenie zadaní
 
@@ -126,6 +136,7 @@ tags:
 
 - [[Anglický jazyk]] — predmet
 - [[Tézy na maturitu – anglický jazyk]] — odkiaľ je zoznam odvodený
+- [[Maturitné zadania – B2]] — 30 sád konkrétnych úloh a ich mapa na témy
 - [[Anglické ekvivalenty]] — slovná zásoba a termíny po anglicky
 - [[Online zdroje k maturite]] — bezplatné online materiály k angličtine (EFSET na zistenie úrovne, [Write & Improve](https://writeandimprove.com/) na písanie, LearnEnglish Teens, engVid, elllo s transkriptami…) — výber cez [FMHY](https://fmhy.net), overené 11/2026
 - [[Maturita 2027 – prehľad]]
