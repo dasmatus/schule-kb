@@ -10,6 +10,7 @@ aliasy:
 tags:
   - pojem
   - literárny-smer
+aktualizované: 2026-11-22
 ---
 
 # 🌊 Antiutopický román
@@ -26,3 +27,6 @@ Literárna tendencia (v pracovnom liste uvedená aj ako fantastická literatúra
 
 *Pozri panel **Backlinks** — zoznam sa dopĺňa sám, ako pribúdajú
 poznámky, ktoré tento pojem spomínajú.*
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii

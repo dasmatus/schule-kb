@@ -10,6 +10,7 @@ aliasy:
 tags:
   - pojem
   - literárny-smer
+aktualizované: 2026-11-22
 ---
 
 # 🌊 Existencializmus
@@ -27,3 +28,6 @@ Povojnový filozofický a literárny smer vychádzajúci z myšlienky, že člov
 
 *Pozri panel **Backlinks** — zoznam sa dopĺňa sám, ako pribúdajú
 poznámky, ktoré tento pojem spomínajú.*
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii

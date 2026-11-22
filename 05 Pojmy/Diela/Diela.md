@@ -4,6 +4,7 @@ typ: "rozcestník"
 tags:
   - rozcestník
   - pojem
+aktualizované: 2026-11-22
 ---
 
 # 📕 Diela
@@ -81,3 +82,6 @@ tags:
 | [[Ťapákovci]]                                     | Božena Slančíková-Timrava                    |                           |
 | [[Žiarlivosť]]                                    | Alain Robbe-Grillet                          |                           |
 | [[Živý bič]]                                      | Milo Urban                                   |                           |
+
+> [!info] Naposledy aktualizované
+> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
