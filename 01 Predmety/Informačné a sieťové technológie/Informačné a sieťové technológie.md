@@ -7,6 +7,7 @@ maturitný: "áno – TČOZ / PČOZ"
 tags:
   - rozcestník
   - predmet
+aktualizované: 2026-11-26
 ---
 
 # 🖥️ Informačné a sieťové technológie
@@ -22,6 +23,7 @@ tags:
 
 - [[Počítačové siete – TČOZ]] — *maturitný prehľad*
 - [[Kybernetická bezpečnosť – SOC a kariéra]] — *poznámky* · SOC, SIEM, SOAR
+- [[Nebezpečenstvo v kybernetickom priestore]] — *poznámky* · CyberOps, modul 1
 - [[Programovanie – TČOZ]] — *maturitný prehľad*
 - [[Hardvér a IoT – TČOZ]] — *maturitný prehľad*
 - [[Grafické karty]] — *referát* · 2025
@@ -33,6 +35,10 @@ tags:
 - [[Pokročilý počítačový hardvér]] — *poznámky* · POST, BIOS/UEFI, RAID, upgrade
 - [[Pamäť, adaptérové karty a rozširujúce sloty]] — *poznámky*
 - [[História počítačov]] — *poznámky*
+- [[Harvardská a von Neumannova architektúra]] — *poznámky*
 - [[Cacheovanie a monitoring databázy]] — *prezentácia*
 - [[Packet Tracer – Physical View]] — *prezentácia*
 - [[CCNA2 – SRWE]] — *poznámky* · 16 modulov kurzu CCNA2 (NetAcad)
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Doplnenie poznámok z PC architektúry a kybernetickej bezpečnosti

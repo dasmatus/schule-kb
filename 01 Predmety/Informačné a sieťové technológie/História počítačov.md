@@ -10,6 +10,7 @@ tags:
   - hardvér
   - história
   - poznámky
+aktualizované: 2026-11-26
 ---
 
 # História počítačov
@@ -45,9 +46,16 @@ tags:
 
 Umelá inteligencia, paralelné spracovanie tisícok procesorov (podobne ako neurónové siete), označenie **„non von“** – málo spoločného s von Neumannovou schémou.
 
+## Dve základné architektúry
+
+Úvodný materiál z 21. 9. 2026 je spracovaný v poznámke [[Harvardská a von Neumannova architektúra]]. Stručne: vo [[Von Neumannova architektúra|von Neumannovej architektúre]] (1946, Princeton IAS) sú program aj dáta v spoločnej pamäti; v [[Harvardská architektúra|harvardskej architektúre]] (Aiken, Harvard Mark I, 1944) sú pamäť programu a pamäť dát oddelené. Podrobné znaky, výhody a nevýhody sú v tej poznámke a v téme [[T14 – Architektúra počítača a operačné systémy]].
+
 ## Pojmy
 
 - **Relé** – spínač ovládaný cievkou (elektromagnetom); vynašiel ho Joseph Henry (1835).
 - **Elektrónka** – vákuová banka, prenos elektrónov katóda → anóda (anódový prúd).
 - **Tranzistor** – trojvrstvová polovodičová súčiastka (zosilňovač, spínač).
 - **Integrovaný obvod** – aspoň 2 prepojené aktívne prvky na polovodičovom substráte v puzdre; **mikročip** môže mať miliardy tranzistorov.
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Doplnenie poznámok z PC architektúry a kybernetickej bezpečnosti

@@ -11,6 +11,7 @@ tags:
   - ist
   - hardvér
   - referát
+aktualizované: 2026-11-26
 ---
 
 # Pevné disky
@@ -107,3 +108,39 @@ Obr.4.: Všetky disky a ich význam
 - \[2\] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-9e0iwHPtYjKj71XqWvjGBFUHaDXJr6I4QJQd4kdD1Z-594HnsdtvU5TiAdIR
 - \[3\] https://imgs.search.brave.com/wuIX\_tOW2zsGcO7F95WinUG3W4QZyKSjidcwVvbThIs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGl0c2RhdGFyZWNv/dmVyeS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMDMv/SGlzdG9yeS1vZi1I/YXJkLURyaXZlcy5q/cGc
 - \[4\] https://imgs.search.brave.com/57V2DVwD7rrwj\_hStTZz3N4n3Nlt4nkeYOgdc7OjSw0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2dkaXJlY3Rvci5j/b20vd3AtY29udGVu/dC91cGxvYWRzL21l/ZGlhLzIwMTkvMDQv/V2VzdGVybi1EaWdp/dGFsLUhERC1Db2xv/cnMtTGluZS11cC1z/aG93aW5nLWFsbC1j/b2xvcnMtaW5jbHVk/aW5nLWJsdWUtYW5k/LWJsYWNrLmpwZw
+
+## Úložné zariadenia podľa PC Essentials
+
+> [!info] Ďalší zdroj
+> `Pevné disky.pdf` (zadanie 14. 10. 2026) je výňatok 1.2.8 z kapitoly
+> *Úvod do hardvéru osobných počítačov*. Doplňa referát o HDD o SSD,
+> hybridné disky a rozhrania. Originál v trezore ešte nie je
+> (`99 Zdroje/pdf/Pevné disky.pdf`).
+
+Dátové jednotky sú **energeticky nezávislé**: po strate napájania dáta ostanú. Médiá môžu byť pevné alebo vymeniteľné; niektoré jednotky len čítajú. Podľa média sa delia na **magnetické** (HDD, páskové mechaniky), **polovodičové** (SSD) a **optické**.
+
+### HDD
+
+Pevný disk je tradičné magnetické zariadenie. Kapacita je v GB až TB, rýchlosť sa meria v otáčkach za minútu (bežne 5400, 7200, 10 000 a 15 000 ot./min). Čím vyššie otáčky vretena, tým rýchlejšie hlava nájde dáta. Formáty: 3,5 palca (štandard v stolných PC), 2,5 palca (mobilné zariadenia), 1,8 palca (v nových zariadeniach zriedkavé).
+
+### SSD, NVMe a SSHD
+
+SSD ukladajú dáta ako elektrický náboj vo flash pamäti. Sú rýchlejšie ako HDD, tichšie, úspornejšie, produkujú menej tepla a nemajú pohyblivé časti. Kapacita je približne od 120 GB do niekoľkých TB. Prevedenia:
+
+- tvar diskovej mechaniky (2,5, 3,5 a zriedkavo 1,8 palca);
+- rozširujúca karta, ktorá sa montuje do skrine ako iné adaptérové karty;
+- modul mSATA alebo **M.2** (špeciálny socket; M.2 je skupina noriem pre fyzické rozmery a konektory).
+
+Špecifikácia **NVMe** (Non-Volatile Memory Express) dáva štandardné rozhranie medzi SSD, zbernicou PCIe a operačným systémom, takže kompatibilné SSD možno pripojiť k PCIe bez špeciálnych ovládačov.
+
+**SSHD** (Solid State Hybrid Drive) je kompromis: magnetický HDD s integrovanou flash pamäťou ako energeticky nezávislou vyrovnávacou pamäťou pre často používané dáta. Je rýchlejší ako HDD a lacnejší ako SSD.
+
+## Súvisiace
+
+- [[Zostavenie PC]]
+- [[Pokročilý počítačový hardvér]]
+- [[Elektrická bezpečnosť a hardvér PC]]
+- [[Informačné a sieťové technológie]] — predmet
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Doplnenie poznámok z PC architektúry a kybernetickej bezpečnosti

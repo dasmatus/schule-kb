@@ -10,6 +10,7 @@ tags:
   - tcoz
   - kybernetická-bezpečnosť
   - poznámky
+aktualizované: 2026-11-26
 ---
 
 # Kybernetická bezpečnosť – SOC a kariéra
@@ -97,6 +98,10 @@ práce zamestnancov a obchodných funkcií — vždy je to kompromis.
 
 ## Súvisiace
 
+- [[Nebezpečenstvo v kybernetickom priestore]] — modul 1 toho istého kurzu (aktéri hrozieb, dopad útokov)
 - [[T07 – Kybernetická bezpečnosť]] — hrozby, AAA, útoky, malvér
 - [[Počítačové siete – TČOZ]] — sieťové základy
 - [[Informačné a sieťové technológie]] — predmet
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Doplnenie poznámok z PC architektúry a kybernetickej bezpečnosti
