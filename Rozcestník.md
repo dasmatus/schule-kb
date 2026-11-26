@@ -7,7 +7,7 @@ ročník_teraz: "IV.IST"
 tags:
   - rozcestník
   - domov
-aktualizované: 2026-11-22
+aktualizované: 2026-11-26
 ---
 
 # 🎓 Školský trezor — III.IST
@@ -32,7 +32,7 @@ aktualizované: 2026-11-22
 
 ## 🧠 Prepojenia a mapy
 
-- [[Pojmy]] — 410 poznámok o autoroch, dielach, smeroch a pojmoch
+- [[Pojmy]] — 420 poznámok o autoroch, dielach, smeroch a pojmoch
   (každá zbiera **backlinky** odvšadiaľ, kde sa spomína)
 - [[Anglické ekvivalenty]] — názvy diel a termíny po anglicky
 - Myšlienkové mapy v `06 Mapy/`: **Mapa – štyri roky** ·
@@ -52,6 +52,7 @@ aktualizované: 2026-11-22
 | [[Matematika]] | — |
 | [[Fyzika]] | — |
 | [[Občianska náuka]] | — |
+| [[Programovanie]] | — |
 
 
 ## 🗂️ Ako je trezor usporiadaný
@@ -78,4 +79,4 @@ aktualizované: 2026-11-22
 > z merania, `tag:#rozbor-diela` rozbory literárnych diel.
 
 > [!info] Naposledy aktualizované
-> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
+> 2026-11-26 — Aktualizácia rozcestníkov a katalógu zdrojov po poznámkach z 1. polroka 2026/27

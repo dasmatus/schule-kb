@@ -4,11 +4,12 @@ typ: "rozcestník"
 tags:
   - rozcestník
   - pojem
+aktualizované: 2026-11-26
 ---
 
 # 🔑 Pojmy
 
-> [!abstract] 233 položiek
+> [!abstract] 243 položiek
 
 ## TČOZ – IST
 
@@ -18,11 +19,13 @@ tags:
 | [[Algoritmus]] | programovanie |
 | [[DHCP]] | siete |
 | [[EtherChannel]] | siete |
+| [[Harvardská architektúra]] | hardvér |
 | [[IoT]] | technológia |
 | [[OSPF]] | siete |
 | [[PN priechod]] | elektrotechnika |
 | [[VLAN]] | siete |
 | [[VLSM]] | siete |
+| [[Von Neumannova architektúra]] | hardvér |
 | [[Vývojový diagram]] | programovanie |
 
 | Názov | Oblasť |
@@ -37,6 +40,7 @@ tags:
 | [[antonymum]] | — |
 | [[apostrofa]] | — |
 | [[argumentácia]] | — |
+| [[Aritmetická postupnosť]] | matematika |
 | [[automatický text]] | — |
 | [[Autotransformátor]] | — |
 | [[balada]] | — |
@@ -71,6 +75,7 @@ tags:
 | [[eufemizmus]] | — |
 | [[EXPLAIN]] | — |
 | [[Faktoring]] | — |
+| [[Faktoriál]] | matematika |
 | [[FIFO]] | — |
 | [[Finančné zdroje]] | — |
 | [[Finančný trh]] | — |
@@ -83,6 +88,7 @@ tags:
 | [[frazeologizmus]] | — |
 | [[Funkčný generátor]] | — |
 | [[Fázový posun]] | — |
+| [[Geometrická postupnosť]] | matematika |
 | [[gradácia]] | — |
 | [[Grafická karta]] | — |
 | [[gramatická kategória]] | — |
@@ -111,6 +117,7 @@ tags:
 | [[kodifikácia]] | — |
 | [[koherencia]] | — |
 | [[kohézia]] | — |
+| [[Kombinácie]] | matematika |
 | [[kompozícia]] | — |
 | [[komunikácia]] | — |
 | [[komédia]] | — |
@@ -164,6 +171,7 @@ tags:
 | [[PCIe slot]] | — |
 | [[PDU]] | — |
 | [[perifráza]] | — |
+| [[Permutácie]] | matematika |
 | [[personifikácia]] | — |
 | [[Peňažný trh]] | — |
 | [[PFC]] | — |
@@ -173,6 +181,7 @@ tags:
 | [[podmet]] | — |
 | [[Podnik]] | — |
 | [[polysémia]] | — |
+| [[Postupnosť]] | matematika |
 | [[poviedka]] | — |
 | [[Pracovná zmluva]] | — |
 | [[Priama daň]] | — |
@@ -184,6 +193,7 @@ tags:
 | [[RAM]] | — |
 | [[Redis]] | — |
 | [[refrén]] | — |
+| [[Rekurentná postupnosť]] | matematika |
 | [[rečnícka otázka]] | — |
 | [[rečnícky štýl]] | — |
 | [[ROM]] | — |
@@ -223,6 +233,7 @@ tags:
 | [[TTL]] | — |
 | [[typizácia]] | — |
 | [[umelecký štýl]] | — |
+| [[Variácie]] | matematika |
 | [[veršový systém]] | — |
 | [[vetný člen]] | — |
 | [[voľný verš]] | — |
@@ -250,3 +261,6 @@ tags:
 | [[Živnosť]] | — |
 | [[Životný cyklus výrobku]] | — |
 | [[životopis]] | — |
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Aktualizácia rozcestníkov a katalógu zdrojov po poznámkach z 1. polroka 2026/27

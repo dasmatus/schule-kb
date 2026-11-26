@@ -6,6 +6,7 @@ ročník_teraz: "IV.IST"
 tags:
   - referencia
   - zdroje
+aktualizované: 2026-11-26
 ---
 
 # 📦 Zdroje — pôvodné dokumenty
@@ -216,3 +217,62 @@ Tieto súbory poznámku nemajú — buď sú prázdne, alebo nejde o školský m
 > cd ~/Dokumente/schule
 > mv '99 Zdroje/docx' docx && mv '99 Zdroje/pdf' pdf && mv '99 Zdroje/ppt' ppt
 > ```
+
+## EduPage – 1. polrok 2026/27 (26. 11. 2026)
+
+Dávka 67 súborov z EduPage (SPŠE Hálova, IV.IST). Poznámky sú pripravené
+v trezore; **binárne originály (44 MB) do tohto commitu nie sú
+pridané** — čaká sa, či ich Matus chce commitnúť. Súbory, ktoré už
+v `99 Zdroje/` sú a sú zhodné, sa neopakujú. Navrhované cesty pre
+nové originály: `99 Zdroje/docx/`, `99 Zdroje/pdf/`, nové
+`99 Zdroje/audio/` pre mp3 a `90 Prílohy/obrazky/` pre fotky z tabule.
+
+### Už v trezore (zhodné s touto dávkou)
+
+| Súbor | Poznámka |
+| --- | --- |
+| `Historia pocitacov.pdf` | [[História počítačov]] |
+| `Elektrická bezpečnosť.pdf` | [[Elektrická bezpečnosť a hardvér PC]] |
+| `Externe karty.pdf` | [[Pamäť, adaptérové karty a rozširujúce sloty]] |
+| `1 Uvod do hardveru osobnych pocitacov.pdf` | [[Elektrická bezpečnosť a hardvér PC]] |
+| `2 Zostavenie PC.pdf` | [[Zostavenie PC]] |
+| `3 Pokročilý počítačový hardvér.pdf` | [[Pokročilý počítačový hardvér]] |
+| `Porty_vstupne_vystupne_zariadenia.pdf` | [[Elektrická bezpečnosť a hardvér PC]] |
+| `2 Bojovníci vo vojne proti počítačovej kriminalite.pdf` | [[Kybernetická bezpečnosť – SOC a kariéra]] |
+| `22 Towns and Places_k.pdf` | [[A21 – Towns and Places]], [[Towns and Places – úlohy 1, 2, 7 a 8]] |
+| `Maturitné otázky_B2.pdf` | [[Maturitné zadania – B2]] |
+| `PL - geometrická postupnosť č 21.docx` | [[Geometrická postupnosť – pracovný list č. 21]] |
+
+### Nové zdroje (poznámka je pripravená, súbor ešte nie je v repozitári)
+
+| Súbor | Poznámka |
+| --- | --- |
+| `Harvardská architektúra.pdf` | [[Harvardská a von Neumannova architektúra]] |
+| `Koncepcia Johna von Neumanna.pdf` | [[Harvardská a von Neumannova architektúra]] |
+| `Pevné disky.pdf` | [[Pevné disky]] — výňatok PC Essentials 1.2.8 |
+| `1 Nebezpečenstvo.pdf` | [[Nebezpečenstvo v kybernetickom priestore]] |
+| `Maturita presentations - topics and requirements.docx` | [[Maturitné prezentácie – pokyny a rozdelenie tém]] |
+| `Opakovanie na písomku.docx` | [[Opakovanie na písomku]] |
+| `Maturitné otázky_B1.pdf` | [[Maturitné zadania – B1]] |
+| `Comprehension Questions.docx` | [[Frankenstein – Chapter V]] |
+| `Frankenstein - Chapter V..docx` | [[Frankenstein – Chapter V]] |
+| `PL - geometrická postupnosť č 2.docx` | [[Geometrická postupnosť – pracovný list č. 2]] |
+| `PERMUTÁCIE.docx` | [[Kombinatorika]] |
+| `Variácia bez opakovania – skratena forma.docx` | [[Kombinatorika]] |
+| `Variácie s opakovanim.docx` | [[Kombinatorika]] |
+| `Kombinácie bez opakovania – skratena f.docx` | [[Kombinatorika]] |
+| `Kombinarorika , aj faktorial PL.docx` | [[Kombinatorika]] (dve identické kópie z 4. 11. a 18. 11.) |
+| `MATEMATIKA - kombinatorika, faktorial.pdf` | rukou písaný zošit, 5 strán; prekryv s teóriou v [[Kombinatorika]] |
+| `Skusanie 1.pdf` | [[Skúšanie 1 – domáca úloha]] |
+| `anglicky-jazyk-B1-nahravka-2017.mp3` | [[Maturitné nahrávky B1]] |
+| `maturita_aj_b1_2025_nahravka_2.mp3` | [[Maturitné nahrávky B1]] |
+| `maturita_aj_b1_2025_nahravka_3.mp3` | [[Maturitné nahrávky B1]] |
+
+Fotografie z tabule matematiky (35 súborov, september–november 2026) sú
+spracované v poznámkach [[Postupnosti]], [[Rekurentné postupnosti]],
+[[Aritmetická postupnosť – poznámky]], [[Geometrická postupnosť – poznámky]],
+[[Kombinatorika]] a [[Faktoriál – úpravy a rovnice]]. Povinná DÚ z 7. 9.
+je v [[Definičný obor a inverzná funkcia – DÚ]].
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Aktualizácia rozcestníkov a katalógu zdrojov po poznámkach z 1. polroka 2026/27

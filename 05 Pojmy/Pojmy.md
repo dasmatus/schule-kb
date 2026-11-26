@@ -3,7 +3,7 @@ title: "Pojmy"
 typ: "rozcestník"
 tags:
   - rozcestník
-aktualizované: 2026-11-22
+aktualizované: 2026-11-26
 ---
 
 # 🔑 Pojmy
@@ -16,7 +16,7 @@ aktualizované: 2026-11-22
 - ✍️ [[Autori]] — 77 položiek
 - 📕 [[Diela]] — 69 položiek
 - 🌊 [[Smery a obdobia]] — 31 položiek
-- 🔑 [[Pojmy]] — 233 položiek
+- 🔑 [[Pojmy]] — 243 položiek
 
 > [!info] Naposledy aktualizované
-> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
+> 2026-11-26 — Aktualizácia rozcestníkov a katalógu zdrojov po poznámkach z 1. polroka 2026/27
