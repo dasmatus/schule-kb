@@ -9,6 +9,7 @@ tags:
   - maturita
   - anj
   - zadania
+aktualizované: 2026-11-26
 ---
 
 # Maturitné zadania – B2
@@ -84,7 +85,11 @@ na vypracované témy v trezore.
 
 ## Súvisiace
 
+- [[Maturitné zadania – B1]] — banka úrovne B1 z tej istej dávky
 - [[Zoznam tém – anglický jazyk]] — všetkých 30 tém a odkazy na poznámky
 - [[Tézy na maturitu – anglický jazyk]] — odkiaľ je zoznam odvodený
 - [[Role-play – The Job Interview]] — precvičenie Task 3
 - [[Anglický jazyk]] — predmet
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Poznámky z angličtiny – maturita, Frankenstein a nahrávky (1. polrok 2026/27)

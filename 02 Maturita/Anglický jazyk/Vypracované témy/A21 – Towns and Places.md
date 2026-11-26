@@ -9,6 +9,7 @@ tags:
   - maturita
   - anj
   - vypracovaná-téma
+aktualizované: 2026-11-26
 ---
 
 # A21 – Towns and Places
@@ -151,3 +152,11 @@ Finally, Slovakia itself is a small country but it has a surprising amount to of
 > [!question]- Could you give a tourist directions from the station to the main square?
 > "Go straight along this street, turn left at the traffic lights, walk past
 > the church and the square is on your right. It is about ten minutes on foot."
+
+## Cvičenia z 1. polroka 2026/27
+
+- [[Towns and Places – úlohy 1, 2, 7 a 8]] — diskusné otázky a Task 7–8 zo zbierky
+- [[Opakovanie na písomku]] — cvičenie 2 z tej istej témy
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Poznámky z angličtiny – maturita, Frankenstein a nahrávky (1. polrok 2026/27)
