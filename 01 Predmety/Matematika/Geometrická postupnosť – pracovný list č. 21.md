@@ -10,6 +10,7 @@ tags:
   - postupnosti
   - cvičenie
   - riešenie
+aktualizované: 2026-11-26
 ---
 
 # Geometrická postupnosť – pracovný list č. 21
@@ -176,5 +177,11 @@ $$n = \frac{\ln 2}{\ln 1{,}018} \approx \frac{0{,}69315}{0{,}01784}
 
 ## Súvisiace
 
+- [[Geometrická postupnosť]] — pojem
+- [[Geometrická postupnosť – poznámky]] — teória a ďalšie úlohy z hodín
+- [[Geometrická postupnosť – pracovný list č. 2]] — interaktívne testy
 - [[Matematika]] — predmet
 - [[Definičný obor funkcie – pracovný list]] — ďalší pracovný list
+
+> [!info] Naposledy aktualizované
+> 2026-11-26 — Poznámky z matematiky – postupnosti a kombinatorika (1. polrok 2026/27)
