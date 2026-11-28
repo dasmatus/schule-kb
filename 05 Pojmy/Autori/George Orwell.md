@@ -12,7 +12,7 @@ aliasy:
 tags:
   - pojem
   - autor
-aktualizované: 2026-11-22
+aktualizované: 2026-11-28
 ---
 
 # ✍️ George Orwell
@@ -21,6 +21,9 @@ aktualizované: 2026-11-22
 > [[Antiutopický román|antiutopický román]] (po roku 1945)
 
 George Orwell (1903 – 1950), vlastným menom Eric Arthur Blair, bol britský novinár a spisovateľ, autor [[Antiutopický román|antiutopického románu]] *[[1984]]* (1949), v pracovnom liste zaradeného k tendenciám svetovej literatúry po roku 1945 (fantastická literatúra).
+
+Podľa prezentácie [[Svetová literatúra po roku 1945 – prezentácia]] bol Orwell znechutený britským kolonializmom v Indii, odporca fašizmu aj stalinského komunizmu a presvedčený socialista. *1984* aj *Zvieracia farma* boli zakázané vo východnom bloku; *1984* je obraz totalitného režimu a varovanie pred ním.
+
 
 ## Súvisí
 
@@ -33,4 +36,4 @@ George Orwell (1903 – 1950), vlastným menom Eric Arthur Blair, bol britský n
 poznámky, ktoré tento pojem spomínajú.*
 
 > [!info] Naposledy aktualizované
-> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
+> 2026-11-28 — Doplnenie z prezentácie `IV_literatura_Svetova_literatura_po_1945.pdf`

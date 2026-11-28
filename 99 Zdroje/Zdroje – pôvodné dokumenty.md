@@ -6,7 +6,7 @@ ročník_teraz: "IV.IST"
 tags:
   - referencia
   - zdroje
-aktualizované: 2026-11-26
+aktualizované: 2026-11-28
 ---
 
 # 📦 Zdroje — pôvodné dokumenty
@@ -16,7 +16,7 @@ aktualizované: 2026-11-26
 > poznámka v trezore odkazuje na svoj originál. Priečinky `docx/`, `pdf/`
 > a `ppt/` sa iba presunuli sem (záznam o presune je v `_presun.tsv`).
 
-## Prevedené na poznámky (124)
+## Prevedené na poznámky (125)
 
 | Pôvodný súbor | Poznámka |
 | --- | --- |
@@ -43,6 +43,7 @@ aktualizované: 2026-11-26
 | `III_literatura_slovenska_medzivojnova_poezia_.pdf` | [[Slovenská medzivojnová poézia – prezentácia]] |
 | `III_zvukova_rovina_jazyka.pdf` | [[Zvuková rovina jazyka – prezentácia]] |
 | `IV_jazyk_Recnicky_styl.pdf` | [[Rečnícky štýl – prezentácia]] |
+| `IV_literatura_Svetova_literatura_po_1945.pdf` | [[Svetová literatúra po roku 1945 – prezentácia]] |
 | `Kritériá na písanie úvahy.docx` | [[Kritériá na písanie úvahy]] |
 | `Life (sometimes) sucks S1.docx` | [[Life (sometimes) sucks – text]] |
 | `Maturitne_tezy_2025_2026.docx` | [[Tézy na maturitu – literatúra]] |
@@ -196,6 +197,15 @@ výňatok o portoch) a päť nových poznámok.
 | `Ohybné slovné druhy- opakovanie (3) (2).docx` | [[Ohybné slovné druhy – opakovanie]] |
 | `Svetová literatúra po roku 1945.docx` | [[Svetová literatúra po roku 1945 – pracovný list]] |
 
+## Nové zdroje (1) – 27. 11. 2026
+
+Prezentácia k povojnovej svetovej literatúre; dopĺňa pracovný list
+a maturitnú tému L20 o širší kontext, ďalšie smery a ruskú/americkú prózu.
+
+| Súbor | Poznámka |
+| --- | --- |
+| `IV_literatura_Svetova_literatura_po_1945.pdf` | [[Svetová literatúra po roku 1945 – prezentácia]] — 58 slajdov (Vrbanová Veronika, 17. 11. 2026) |
+
 ## Ponechané len ako zdroj (9)
 
 Tieto súbory poznámku nemajú — buď sú prázdne, alebo nejde o školský materiál.
@@ -275,4 +285,4 @@ spracované v poznámkach [[Postupnosti]], [[Rekurentné postupnosti]],
 je v [[Definičný obor a inverzná funkcia – DÚ]].
 
 > [!info] Naposledy aktualizované
-> 2026-11-26 — Aktualizácia rozcestníkov a katalógu zdrojov po poznámkach z 1. polroka 2026/27
+> 2026-11-28 — Spracovanie zdroja `IV_literatura_Svetova_literatura_po_1945.pdf`

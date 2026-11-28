@@ -10,7 +10,7 @@ tags:
   - sjl/literatúra
   - cvičenie
   - riešenie
-aktualizované: 2026-11-22
+aktualizované: 2026-11-28
 ---
 
 # Svetová literatúra po roku 1945 – pracovný list
@@ -20,6 +20,10 @@ aktualizované: 2026-11-22
 > Kaminčáková) s otázkami, ukážkami a rozbormi k povojnovej svetovej
 > literatúre. Súvisí s témou [[L20 – Svetová literatúra po roku 1945]]
 > a s učebnicou *Literatúra IV* (ukážky zo s. 92 a 116).
+>
+> Širší kontext k tej istej látke dopĺňa prezentácia
+> [[Svetová literatúra po roku 1945 – prezentácia]]
+> (`IV_literatura_Svetova_literatura_po_1945.pdf`, 17. 11. 2026).
 
 Pracovný list overuje znalosti o **[[Existencializmus|existencializme]],
 [[Beat generation|beat generation]], [[Nový román|novom románe]],
@@ -399,9 +403,35 @@ odlietajú kačice z jazierka v Central Parku, keď voda zamrzne?
 > prežil ako 16-ročný; rozpráva ich však s odstupom jedného roka, teda
 > ako 17-ročný.
 
+## Širší kontext z prezentácie
+
+Prezentácia [[Svetová literatúra po roku 1945 – prezentácia]] rámuje
+pracovný list širšie. K témam listu pridáva:
+
+- **Povojnový kontext** — bipolarita sveta, studená vojna, západný
+  a východný blok; v západnom bloku popri sebe neorealizmus,
+  existencializmus, beatnici, rozhnevaní mladí muži, nový román,
+  absurdná dráma, epické divadlo, magický realizmus, fantastická
+  literatúra a postmodernizmus.
+- **Neorealizmus** — Taliansko, sociálne problémy, jednoduchí ľudia
+  a ľudový jazyk; Alberto Moravia.
+- **Rozhnevaní mladí muži** — anglická povojnová generácia (John Osborne,
+  John Wain, John Braine); hnev a nihilistická kritika spoločnosti.
+- **Epické divadlo** — Bertolt Brecht; prerušovaný príbeh, komentár,
+  film, titulky a songy, aktívny divák.
+- **Postmoderna** — hra s textom a žánrami, irónia, paródia,
+  intertextualita; Umberto Eco a *Meno ruže*.
+- **Ruskí a americkí autori** — Pasternak, Solženicyn, Steinbeck,
+  Mailer, Heller, Updike, Tennessee Williams.
+
+Podrobnosti a rozbor *Jeden deň Ivana Denisoviča* sú v prezentácii;
+kontrolné otázky k témam L20 sú v [[L20 – Svetová literatúra po roku 1945]].
+
 ## Súvisiace
 
 - [[L20 – Svetová literatúra po roku 1945]] — vypracovaná maturitná téma
+- [[Svetová literatúra po roku 1945 – prezentácia]] — prezentácia
+  k širšiemu kontextu
 - [[Nový román a absurdná dráma – poznámky a úlohy]]
 - [[Revolta a bitníci – Lunapark mysle]]
 - [[Literatúra IV – Zmeny pohľadu na realitu]] — učebnica, s. 92 (*Čakanie
@@ -411,4 +441,5 @@ odlietajú kačice z jazierka v Central Parku, keď voda zamrzne?
 - [[Slovenský jazyk a literatúra]] — predmet
 
 > [!info] Naposledy aktualizované
-> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
+> 2026-11-28 — Doplnenie širšieho kontextu z prezentácie
+> `IV_literatura_Svetova_literatura_po_1945.pdf`

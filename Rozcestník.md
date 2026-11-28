@@ -7,7 +7,7 @@ ročník_teraz: "IV.IST"
 tags:
   - rozcestník
   - domov
-aktualizované: 2026-11-26
+aktualizované: 2026-11-28
 ---
 
 # 🎓 Školský trezor — III.IST
@@ -79,4 +79,4 @@ aktualizované: 2026-11-26
 > z merania, `tag:#rozbor-diela` rozbory literárnych diel.
 
 > [!info] Naposledy aktualizované
-> 2026-11-26 — Aktualizácia rozcestníkov a katalógu zdrojov po poznámkach z 1. polroka 2026/27
+> 2026-11-28 — Spracovanie prezentácie k svetovej literatúre po roku 1945

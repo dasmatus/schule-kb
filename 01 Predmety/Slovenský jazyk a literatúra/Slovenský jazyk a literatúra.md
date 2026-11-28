@@ -7,7 +7,7 @@ maturitný: "áno – EČ, PFIČ, ÚFIČ"
 tags:
   - rozcestník
   - predmet
-aktualizované: 2026-11-22
+aktualizované: 2026-11-28
 ---
 
 # 📖 Slovenský jazyk a literatúra
@@ -44,6 +44,7 @@ aktualizované: 2026-11-22
 - [[Nový román a absurdná dráma – poznámky a úlohy]] — *poznámky + úlohy* · 2026-10-29
 - [[Revolta a bitníci – Lunapark mysle]] — *poznámky + úlohy* · 2026-10-29
 - [[Svetová literatúra po roku 1945 – pracovný list]] — *cvičenie* · 2026-11-22
+- [[Svetová literatúra po roku 1945 – prezentácia]] — *prezentácia* · 2026-11-17
 - **[[Literatúra IV – Spoločenský a historický kontext]]** — *učebnica*
 - [[Literatúra IV – Sociálno-kritický realizmus po 1945]] — *učebnica*
 - [[Literatúra IV – Literatúra v totalitných podmienkach]] — *učebnica*
@@ -70,4 +71,4 @@ aktualizované: 2026-11-22
 - [[SJL – pravidlá a hodnotenie 2026-2027]] — *organizačné*
 
 > [!info] Naposledy aktualizované
-> 2026-11-22 — Doplnenie údaja o poslednej aktualizácii
+> 2026-11-28 — Doplnenie prezentácie k svetovej literatúre po roku 1945
